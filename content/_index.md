@@ -1,0 +1,1 @@
+Valencia es un municipio​ y una ciudad de España, capital de la provincia homónima y de la Comunidad Valenciana. Con una población de 792 492 habitantes (2022), que sube a 1 581 057 habitantes (2020) si se incluye su espacio urbano, es la tercera ciudad y área metropolitana más poblada de España, por detrás de Madrid y Barcelona. (Wikipedia)
