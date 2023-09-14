@@ -1,5 +1,5 @@
 ---
 title: "Consum"
-url: /benidorm/consum/
+url: /benidorm/consum-avenida-del-mediterraneo-avinguda-del-mediterrani/
 shop: supermercado
 ---

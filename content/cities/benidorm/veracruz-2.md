@@ -1,5 +1,5 @@
 ---
 title: "Veracruz"
-url: /benidorm/veracruz/
+url: /benidorm/veracruz-2/
 shop: supermercado
 ---

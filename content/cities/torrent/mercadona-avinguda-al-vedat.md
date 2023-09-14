@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
-url: /torrent/mercadona/
+url: /torrent/mercadona-avinguda-al-vedat/
 shop: supermercado
 ---

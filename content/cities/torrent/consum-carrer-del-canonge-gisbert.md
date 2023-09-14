@@ -1,5 +1,5 @@
 ---
 title: "Consum"
-url: /torrent/consum/
+url: /torrent/consum-carrer-del-canonge-gisbert/
 shop: supermercado
 ---

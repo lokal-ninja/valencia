@@ -1,5 +1,5 @@
 ---
 title: "Doria"
-url: /benidorm/doria/
+url: /benidorm/doria-calle-puente/
 shop: ropa
 ---

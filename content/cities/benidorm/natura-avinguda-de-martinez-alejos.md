@@ -1,5 +1,5 @@
 ---
 title: "Natura"
-url: /benidorm/natura/
+url: /benidorm/natura-avinguda-de-martinez-alejos/
 shop: general
 ---

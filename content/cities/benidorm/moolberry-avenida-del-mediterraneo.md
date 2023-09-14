@@ -1,5 +1,5 @@
 ---
 title: "Moolberry"
-url: /benidorm/moolberry/
+url: /benidorm/moolberry-avenida-del-mediterraneo/
 shop: ropa
 ---

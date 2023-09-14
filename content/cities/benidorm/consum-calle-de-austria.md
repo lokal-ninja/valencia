@@ -1,5 +1,5 @@
 ---
 title: "Consum"
-url: /benidorm/consum/
+url: /benidorm/consum-calle-de-austria/
 shop: supermercado
 ---

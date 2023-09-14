@@ -1,5 +1,5 @@
 ---
 title: "Blat Market"
-url: /valencia/blat-market/
+url: /valencia/blat-market-carrer-dalboraia/
 shop: comodidad
 ---

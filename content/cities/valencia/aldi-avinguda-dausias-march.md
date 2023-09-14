@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
-url: /valencia/aldi/
+url: /valencia/aldi-avinguda-dausias-march/
 shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Avenida"
-url: /benidorm/avenida/
+url: /benidorm/avenida-carrer-de-tomas-ortuno/
 shop: perfumería
 ---

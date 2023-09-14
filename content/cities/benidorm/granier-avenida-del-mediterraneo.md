@@ -1,5 +1,5 @@
 ---
 title: "Granier"
-url: /benidorm/granier/
+url: /benidorm/granier-avenida-del-mediterraneo/
 shop: panadería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Udaco"
-url: /benidorm/udaco/
+url: /benidorm/udaco-avinguda-de-larmada-espanyola/
 shop: supermercado
 ---

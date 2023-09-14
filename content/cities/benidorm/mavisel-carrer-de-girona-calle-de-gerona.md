@@ -1,5 +1,5 @@
 ---
 title: "Mavisel"
-url: /benidorm/mavisel/
+url: /benidorm/mavisel-carrer-de-girona-calle-de-gerona/
 shop: ropa
 ---

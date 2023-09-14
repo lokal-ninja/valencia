@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
-url: /torrent/mercadona/
+url: /torrent/mercadona-carrer-de-jose-iturbi/
 shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Todo Plata"
-url: /benidorm/todo-plata/
+url: /benidorm/todo-plata-carrer-de-gambo/
 shop: joyería
 ---

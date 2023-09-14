@@ -1,5 +1,5 @@
 ---
 title: "Pinocchio"
-url: /benidorm/pinocchio/
+url: /benidorm/pinocchio-carrer-de-gambo/
 shop: helado
 ---

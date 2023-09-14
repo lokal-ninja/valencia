@@ -1,5 +1,5 @@
 ---
 title: "Consum"
-url: /torrent/consum/
+url: /torrent/consum-avinguda-de-barcelona-92/
 shop: supermercado
 ---

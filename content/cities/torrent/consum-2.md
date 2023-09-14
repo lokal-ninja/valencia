@@ -1,5 +1,5 @@
 ---
 title: "Consum"
-url: /torrent/consum/
+url: /torrent/consum-2/
 shop: supermercado
 ---

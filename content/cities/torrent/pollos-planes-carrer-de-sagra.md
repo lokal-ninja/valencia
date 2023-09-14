@@ -1,5 +1,5 @@
 ---
 title: "Pollos Planes"
-url: /torrent/pollos-planes/
+url: /torrent/pollos-planes-carrer-de-sagra/
 shop: carnicero
 ---

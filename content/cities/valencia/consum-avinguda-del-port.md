@@ -1,5 +1,5 @@
 ---
 title: "Consum"
-url: /valencia/consum/
+url: /valencia/consum-avinguda-del-port/
 shop: supermercado
 ---

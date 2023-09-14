@@ -1,5 +1,5 @@
 ---
 title: "Lookisimo"
-url: /benidorm/lookisimo/
+url: /benidorm/lookisimo-carrer-de-gambo/
 shop: cosméticos
 ---

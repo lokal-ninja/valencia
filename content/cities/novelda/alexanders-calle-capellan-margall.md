@@ -1,5 +1,5 @@
 ---
 title: "Alexander's"
-url: /novelda/alexanders/
+url: /novelda/alexanders-calle-capellan-margall/
 shop: ropa
 ---

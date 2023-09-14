@@ -1,5 +1,5 @@
 ---
 title: "Holidays"
-url: /benidorm/holidays/
+url: /benidorm/holidays-carrer-de-lesperanto-calle-del-esperanto/
 shop: general
 ---

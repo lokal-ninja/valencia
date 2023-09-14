@@ -1,5 +1,5 @@
 ---
 title: "Consum"
-url: /valencia/consum/
+url: /valencia/consum-carrer-denric-navarro/
 shop: supermercado
 ---

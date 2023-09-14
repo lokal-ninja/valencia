@@ -1,5 +1,5 @@
 ---
 title: "J. Olmos"
-url: /benidorm/j-olmos/
+url: /benidorm/j-olmos-avenida-del-mediterraneo/
 shop: ropa
 ---

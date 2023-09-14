@@ -1,5 +1,5 @@
 ---
 title: "Zapaterías Juan Ramón"
-url: /burjassot/zapaterias-juan-ramon/
+url: /burjassot/zapaterias-juan-ramon-calle-blasco-ibanez/
 shop: zapatos
 ---

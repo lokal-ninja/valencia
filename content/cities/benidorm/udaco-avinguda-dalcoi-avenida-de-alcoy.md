@@ -1,5 +1,5 @@
 ---
 title: "Udaco"
-url: /benidorm/udaco/
+url: /benidorm/udaco-avinguda-dalcoi-avenida-de-alcoy/
 shop: supermercado
 ---

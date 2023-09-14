@@ -1,5 +1,5 @@
 ---
 title: "Fusteria Vicent."
-url: /vila-real/fusteria-vicent/
+url: /vila-real/fusteria-vicent-calle-artana/
 shop: cocina
 ---

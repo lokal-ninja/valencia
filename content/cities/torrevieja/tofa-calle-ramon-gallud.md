@@ -1,5 +1,5 @@
 ---
 title: "Tofa"
-url: /torrevieja/tofa/
+url: /torrevieja/tofa-calle-ramon-gallud/
 shop: zapatos
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Panadería Anaya"
-url: /torrent/panaderia-anaya/
+url: /torrent/panaderia-anaya-carrer-de-ramon-y-cajal/
 shop: panadería
 ---

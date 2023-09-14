@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
-url: /valencia/mercadona/
+url: /valencia/mercadona-avinguda-del-cardenal-benlloch/
 shop: supermercado
 ---

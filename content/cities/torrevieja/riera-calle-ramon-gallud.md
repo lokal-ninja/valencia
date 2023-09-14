@@ -1,5 +1,5 @@
 ---
 title: "RIERA"
-url: /torrevieja/riera/
+url: /torrevieja/riera-calle-ramon-gallud/
 shop: perfumería
 ---

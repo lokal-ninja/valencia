@@ -1,5 +1,5 @@
 ---
 title: "MAVISEL"
-url: /benidorm/mavisel/
+url: /benidorm/mavisel-carrer-del-pont/
 shop: ropa
 ---

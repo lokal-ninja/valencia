@@ -1,5 +1,5 @@
 ---
 title: "Consum"
-url: /benidorm/consum/
+url: /benidorm/consum-carrer-de-les-ferreries/
 shop: supermercado
 ---

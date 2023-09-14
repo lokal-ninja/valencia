@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
-url: /valencia/mercadona/
+url: /valencia/mercadona-carrer-del-mestre-gozalbo/
 shop: supermercado
 ---
