@@ -1,5 +1,5 @@
 ---
 title: "Carnicería Hermanos Romero"
-url: /torrent/carniceria-hermanos-romero-carrer-de-leliana/
+url: /torrent/carniceria-hermanos-romero-carrer-de-lhorta/
 shop: carnicero
 ---
