@@ -1,6 +1,6 @@
 ---
 title: Picanya
 url: /picanya/
-latitude: 39.433
-longitude: -0.436
+latitude: 39.435
+longitude: -0.433
 ---
