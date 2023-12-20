@@ -1,5 +1,5 @@
 ---
-title: "TOFA"
+title: "Tofa"
 url: /torrevieja/tofa/
-shop: ropa
+shop: zapatos
 ---
