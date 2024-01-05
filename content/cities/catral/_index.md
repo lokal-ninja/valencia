@@ -1,6 +1,6 @@
 ---
 title: Catral
 url: /catral/
-latitude: 38.162
-longitude: -0.804
+latitude: 38.165
+longitude: -0.803
 ---
