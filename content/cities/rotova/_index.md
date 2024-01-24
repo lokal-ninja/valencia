@@ -1,6 +1,6 @@
 ---
 title: Ròtova
 url: /rotova/
-latitude: 38.932
+latitude: 38.933
 longitude: -0.258
 ---
