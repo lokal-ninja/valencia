@@ -1,6 +1,6 @@
 ---
 title: Alcoi / Alcoy
 url: /alcoi-alcoy/
-latitude: 38.696
-longitude: -0.485
+latitude: 38.7
+longitude: -0.48
 ---
