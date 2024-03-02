@@ -1,5 +1,5 @@
 ---
-title: "AKAHAI"
+title: "Akahai"
 url: /valencia/akahai/
 shop: peluquería
 ---
