@@ -1,6 +1,6 @@
 ---
 title: Teulada
 url: /teulada/
-latitude: 38.728
-longitude: 0.098
+latitude: 38.727
+longitude: 0.103
 ---
