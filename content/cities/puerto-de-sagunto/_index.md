@@ -1,6 +1,6 @@
 ---
-title: Puerto de Sagunto
+title: puerto de sagunto
 url: /puerto-de-sagunto/
-latitude: 39.66
-longitude: -0.22
+latitude: 39.661
+longitude: -0.233
 ---
