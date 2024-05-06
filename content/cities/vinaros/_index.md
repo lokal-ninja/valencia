@@ -1,6 +1,6 @@
 ---
 title: Vinaròs
 url: /vinaros/
-latitude: 40.473
-longitude: 0.476
+latitude: 40.471
+longitude: 0.46
 ---
