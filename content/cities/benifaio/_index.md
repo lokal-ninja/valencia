@@ -1,6 +1,6 @@
 ---
 title: Benifaió
 url: /benifaio/
-latitude: 39.285
-longitude: -0.427
+latitude: 39.284
+longitude: -0.425
 ---
