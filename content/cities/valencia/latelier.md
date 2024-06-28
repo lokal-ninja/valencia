@@ -1,5 +1,5 @@
 ---
-title: "L'ATELIER"
+title: "L'Atelier"
 url: /valencia/latelier/
 shop: cosméticos
 ---
