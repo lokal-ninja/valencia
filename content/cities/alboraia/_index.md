@@ -1,6 +1,6 @@
 ---
 title: Alboraia
 url: /alboraia/
-latitude: 39.513
-longitude: -0.337
+latitude: 39.497
+longitude: -0.345
 ---
