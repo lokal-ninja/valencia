@@ -1,5 +1,5 @@
 ---
 title: "Vegetas"
 url: /valencia/vegetas/
-shop: comodidad
+shop: Lebensmittel
 ---

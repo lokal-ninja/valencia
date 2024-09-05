@@ -1,5 +1,5 @@
 ---
 title: "Merceria Corseteria Mariceli"
 url: /benifaio/merceria-corseteria-mariceli/
-shop: coser
+shop: Nähzubehör
 ---

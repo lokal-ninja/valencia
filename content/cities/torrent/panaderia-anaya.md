@@ -1,5 +1,5 @@
 ---
 title: "Panadería Anaya"
 url: /torrent/panaderia-anaya/
-shop: panadería
+shop: Bäckerei
 ---

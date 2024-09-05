@@ -1,5 +1,5 @@
 ---
 title: "Casa Tan"
 url: /alzira/casa-tan/
-shop: regalo
+shop: Andenken
 ---

@@ -1,5 +1,5 @@
 ---
 title: "LG"
 url: /benifaio/lg/
-shop: electrónica
+shop: Elektronik
 ---

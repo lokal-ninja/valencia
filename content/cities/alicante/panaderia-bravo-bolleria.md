@@ -1,5 +1,5 @@
 ---
 title: "Panaderia Bravo Bolleria"
 url: /alicante/panaderia-bravo-bolleria/
-shop: panadería
+shop: Bäckerei
 ---

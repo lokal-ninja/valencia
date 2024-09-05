@@ -1,5 +1,5 @@
 ---
 title: "Tonet"
 url: /torrellano/tonet/
-shop: frutería
+shop: Gemüse & Obst
 ---

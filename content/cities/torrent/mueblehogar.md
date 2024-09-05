@@ -1,5 +1,5 @@
 ---
 title: "Mueblehogar"
 url: /torrent/mueblehogar/
-shop: muebles
+shop: Möbel
 ---

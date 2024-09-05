@@ -1,5 +1,5 @@
 ---
 title: "Coaliment"
 url: /torrellano/coaliment/
-shop: general
+shop: Allgemein
 ---

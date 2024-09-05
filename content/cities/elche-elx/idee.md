@@ -1,5 +1,5 @@
 ---
 title: "IDee"
 url: /elche-elx/idee/
-shop: ropa
+shop: Kleidung
 ---

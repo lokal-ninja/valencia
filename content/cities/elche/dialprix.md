@@ -1,5 +1,5 @@
 ---
 title: "Dialprix"
 url: /elche/dialprix/
-shop: supermercado
+shop: Supermarkt
 ---

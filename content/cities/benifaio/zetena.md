@@ -1,5 +1,5 @@
 ---
 title: "ZETENA"
 url: /benifaio/zetena/
-shop: masaje
+shop: Massage
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Quesada"
 url: /elche-elx/quesada/
-shop: tienda
+shop: Modehaus
 ---

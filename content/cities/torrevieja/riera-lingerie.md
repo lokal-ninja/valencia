@@ -1,5 +1,5 @@
 ---
 title: "Riera Lingerie"
 url: /torrevieja/riera-lingerie/
-shop: ropa
+shop: Kleidung
 ---

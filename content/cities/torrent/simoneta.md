@@ -1,5 +1,5 @@
 ---
 title: "Simoneta"
 url: /torrent/simoneta/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Escuder"
 url: /castellon/escuder/
-shop: coche
+shop: Autohaus
 ---

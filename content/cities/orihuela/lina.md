@@ -1,5 +1,5 @@
 ---
 title: "Lina"
 url: /orihuela/lina/
-shop: ropa
+shop: Kleidung
 ---

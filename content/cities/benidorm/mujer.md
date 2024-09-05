@@ -1,5 +1,5 @@
 ---
 title: "Mujer"
 url: /benidorm/mujer/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Consum"
 url: /alfafar/consum/
-shop: supermercado
+shop: Supermarkt
 ---

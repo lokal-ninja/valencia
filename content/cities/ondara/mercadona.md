@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
 url: /ondara/mercadona/
-shop: supermercado
+shop: Supermarkt
 ---

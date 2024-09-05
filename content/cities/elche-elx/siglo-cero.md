@@ -1,5 +1,5 @@
 ---
 title: "Siglo Cero"
 url: /elche-elx/siglo-cero/
-shop: ropa
+shop: Kleidung
 ---

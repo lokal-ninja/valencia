@@ -1,5 +1,5 @@
 ---
 title: "Mimuso"
 url: /benidorm/mimuso/
-shop: ropa
+shop: Kleidung
 ---

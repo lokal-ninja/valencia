@@ -1,5 +1,5 @@
 ---
 title: "Pronoise"
 url: /valencia/pronoise/
-shop: música
+shop: Musik
 ---

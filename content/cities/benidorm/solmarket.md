@@ -1,5 +1,5 @@
 ---
 title: "Solmarket"
 url: /benidorm/solmarket/
-shop: comodidad
+shop: Lebensmittel
 ---

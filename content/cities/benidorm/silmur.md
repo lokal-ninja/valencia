@@ -1,5 +1,5 @@
 ---
 title: "Silmur"
 url: /benidorm/silmur/
-shop: artesanía
+shop: Basteln
 ---

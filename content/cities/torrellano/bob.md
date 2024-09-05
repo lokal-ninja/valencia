@@ -1,5 +1,5 @@
 ---
 title: "BOB"
 url: /torrellano/bob/
-shop: aparato
+shop: Haushaltsgeräte
 ---

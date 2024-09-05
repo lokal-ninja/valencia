@@ -1,5 +1,5 @@
 ---
 title: "Naturaleza"
 url: /torrevieja/naturaleza/
-shop: cosméticos
+shop: Kosmetik
 ---

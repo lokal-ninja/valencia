@@ -1,5 +1,5 @@
 ---
 title: "Electogamar"
 url: /picanya/electogamar/
-shop: eléctrico
+shop: Elektrisch
 ---

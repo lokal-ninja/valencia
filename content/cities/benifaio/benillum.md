@@ -1,5 +1,5 @@
 ---
 title: "Benillum"
 url: /benifaio/benillum/
-shop: aparato
+shop: Haushaltsgeräte
 ---

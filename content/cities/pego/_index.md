@@ -1,6 +1,6 @@
 ---
 title: Pego
 url: /pego/
-latitude: 38.847
-longitude: -0.117
+latitude: 38.842
+longitude: -0.12
 ---

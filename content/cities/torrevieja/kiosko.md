@@ -1,5 +1,5 @@
 ---
 title: "Kiosko"
 url: /torrevieja/kiosko/
-shop: quiosco
+shop: Kiosk
 ---

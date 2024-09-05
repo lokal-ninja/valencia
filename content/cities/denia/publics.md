@@ -1,5 +1,5 @@
 ---
 title: "Públics"
 url: /denia/publics/
-shop: libros
+shop: Bücher
 ---

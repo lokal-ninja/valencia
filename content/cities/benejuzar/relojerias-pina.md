@@ -1,5 +1,5 @@
 ---
 title: "Relojerías Pina"
 url: /benejuzar/relojerias-pina/
-shop: relojes
+shop: Uhren
 ---

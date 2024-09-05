@@ -1,5 +1,5 @@
 ---
 title: "Inma"
 url: /torrevieja/inma/
-shop: peluquería
+shop: Friseur
 ---

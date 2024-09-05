@@ -1,5 +1,5 @@
 ---
 title: "Neumoto"
 url: /valencia/neumoto/
-shop: motocicleta
+shop: Motorrad
 ---

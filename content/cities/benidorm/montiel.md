@@ -1,5 +1,5 @@
 ---
 title: "Montiel"
 url: /benidorm/montiel/
-shop: zapatos
+shop: Schuhe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bambi"
 url: /torrevieja/bambi/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ríos"
 url: /torrevieja/rios/
-shop: carnicero
+shop: Metzgerei
 ---

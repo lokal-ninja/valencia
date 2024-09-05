@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /alcossebre/spar/
-shop: supermercado
+shop: Supermarkt
 ---

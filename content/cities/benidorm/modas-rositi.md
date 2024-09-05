@@ -1,5 +1,5 @@
 ---
 title: "Modas Rositi"
 url: /benidorm/modas-rositi/
-shop: ropa
+shop: Kleidung
 ---

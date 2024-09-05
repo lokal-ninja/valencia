@@ -1,5 +1,5 @@
 ---
 title: "Mutatio"
 url: /benidorm/mutatio/
-shop: ropa
+shop: Kleidung
 ---

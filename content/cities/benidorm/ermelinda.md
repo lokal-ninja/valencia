@@ -1,5 +1,5 @@
 ---
 title: "Ermelinda"
 url: /benidorm/ermelinda/
-shop: peluquería
+shop: Friseur
 ---

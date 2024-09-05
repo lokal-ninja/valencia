@@ -1,5 +1,5 @@
 ---
 title: "Sotomar"
 url: /torrent/sotomar/
-shop: muebles
+shop: Möbel
 ---

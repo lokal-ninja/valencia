@@ -1,5 +1,5 @@
 ---
 title: "Charter"
 url: /albocasser/charter/
-shop: supermercado
+shop: Supermarkt
 ---

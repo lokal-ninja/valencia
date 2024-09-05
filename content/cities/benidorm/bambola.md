@@ -1,5 +1,5 @@
 ---
 title: "Bambola"
 url: /benidorm/bambola/
-shop: ropa
+shop: Kleidung
 ---

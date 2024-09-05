@@ -1,5 +1,5 @@
 ---
 title: "Bicicletas Sanegre"
 url: /alcoi/bicicletas-sanegre/
-shop: bicicleta
+shop: Fahrrad
 ---

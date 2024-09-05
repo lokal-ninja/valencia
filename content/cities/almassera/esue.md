@@ -1,5 +1,5 @@
 ---
 title: "ESUE"
 url: /almassera/esue/
-shop: quiosco
+shop: Kiosk
 ---

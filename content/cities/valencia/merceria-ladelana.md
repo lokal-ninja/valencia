@@ -1,5 +1,5 @@
 ---
 title: "Mercería Ladelana"
 url: /valencia/merceria-ladelana/
-shop: coser
+shop: Nähzubehör
 ---

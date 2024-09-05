@@ -1,5 +1,5 @@
 ---
 title: "Pillatóner"
 url: /valencia/pillatoner/
-shop: copyshop
+shop: Kopieren
 ---

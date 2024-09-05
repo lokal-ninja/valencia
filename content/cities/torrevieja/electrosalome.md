@@ -1,5 +1,5 @@
 ---
 title: "ElectroSalomé"
 url: /torrevieja/electrosalome/
-shop: aparato
+shop: Haushaltsgeräte
 ---

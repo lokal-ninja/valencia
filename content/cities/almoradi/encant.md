@@ -1,5 +1,5 @@
 ---
 title: "Encant"
 url: /almoradi/encant/
-shop: ropa
+shop: Kleidung
 ---

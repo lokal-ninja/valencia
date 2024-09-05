@@ -1,5 +1,5 @@
 ---
 title: "Eurovisex"
 url: /benidorm/eurovisex/
-shop: erótico
+shop: Erotik
 ---

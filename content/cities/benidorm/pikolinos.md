@@ -1,5 +1,5 @@
 ---
 title: "Pikolinos"
 url: /benidorm/pikolinos/
-shop: zapatos
+shop: Schuhe
 ---

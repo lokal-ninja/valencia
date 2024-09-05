@@ -1,5 +1,5 @@
 ---
 title: "Pastelería Valls"
 url: /valencia/pasteleria-valls/
-shop: panadería
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "VHP"
 url: /alboraia-alboraya/vhp/
-shop: frutería
+shop: Gemüse & Obst
 ---

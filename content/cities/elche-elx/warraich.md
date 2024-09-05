@@ -1,5 +1,5 @@
 ---
 title: "Warraich"
 url: /elche-elx/warraich/
-shop: frutería
+shop: Gemüse & Obst
 ---

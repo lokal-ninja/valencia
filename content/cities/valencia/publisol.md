@@ -1,5 +1,5 @@
 ---
 title: "Publisol"
 url: /valencia/publisol/
-shop: regalo
+shop: Andenken
 ---

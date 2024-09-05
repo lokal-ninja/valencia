@@ -1,5 +1,5 @@
 ---
 title: "Carnes Picanya"
 url: /picanya/carnes-picanya/
-shop: carnicero
+shop: Metzgerei
 ---

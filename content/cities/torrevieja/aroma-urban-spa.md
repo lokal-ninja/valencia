@@ -1,5 +1,5 @@
 ---
 title: "Aroma Urban Spa"
 url: /torrevieja/aroma-urban-spa/
-shop: general
+shop: Allgemein
 ---

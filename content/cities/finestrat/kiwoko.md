@@ -1,5 +1,5 @@
 ---
 title: "Kiwoko"
 url: /finestrat/kiwoko/
-shop: mascotas
+shop: Tiere
 ---

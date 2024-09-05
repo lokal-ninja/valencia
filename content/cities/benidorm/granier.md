@@ -1,5 +1,5 @@
 ---
 title: "Granier"
 url: /benidorm/granier/
-shop: panadería
+shop: Bäckerei
 ---

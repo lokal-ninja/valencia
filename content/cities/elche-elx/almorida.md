@@ -1,5 +1,5 @@
 ---
 title: "Almorida"
 url: /elche-elx/almorida/
-shop: carnicero
+shop: Metzgerei
 ---

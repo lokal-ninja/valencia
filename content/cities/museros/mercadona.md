@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
 url: /museros/mercadona/
-shop: supermercado
+shop: Supermarkt
 ---

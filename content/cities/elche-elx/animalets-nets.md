@@ -1,5 +1,5 @@
 ---
 title: "Animalets.Nets"
 url: /elche-elx/animalets-nets/
-shop: mascotas
+shop: Tiere
 ---

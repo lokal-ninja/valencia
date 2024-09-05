@@ -1,5 +1,5 @@
 ---
 title: "Lacolada"
 url: /benidorm/lacolada/
-shop: lavandería
+shop: Wäscherei
 ---

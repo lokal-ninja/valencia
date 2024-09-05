@@ -1,5 +1,5 @@
 ---
 title: "Yasmin Frutas y Verduras"
 url: /torrent/yasmin-frutas-y-verduras/
-shop: frutería
+shop: Gemüse & Obst
 ---

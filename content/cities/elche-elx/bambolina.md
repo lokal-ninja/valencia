@@ -1,5 +1,5 @@
 ---
 title: "Bambolina"
 url: /elche-elx/bambolina/
-shop: zapatos
+shop: Schuhe
 ---

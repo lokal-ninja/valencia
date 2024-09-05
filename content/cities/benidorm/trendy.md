@@ -1,5 +1,5 @@
 ---
 title: "Trendy"
 url: /benidorm/trendy/
-shop: ropa
+shop: Kleidung
 ---

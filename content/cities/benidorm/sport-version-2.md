@@ -1,5 +1,5 @@
 ---
 title: "Sport Version 2"
 url: /benidorm/sport-version-2/
-shop: ropa
+shop: Kleidung
 ---

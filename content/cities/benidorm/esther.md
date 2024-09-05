@@ -1,5 +1,5 @@
 ---
 title: "Esther"
 url: /benidorm/esther/
-shop: ropa
+shop: Kleidung
 ---

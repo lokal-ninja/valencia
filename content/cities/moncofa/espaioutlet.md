@@ -1,5 +1,5 @@
 ---
 title: "espaiOutlet"
 url: /moncofa/espaioutlet/
-shop: ropa
+shop: Kleidung
 ---

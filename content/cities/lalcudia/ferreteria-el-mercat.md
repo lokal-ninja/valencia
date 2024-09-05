@@ -1,5 +1,5 @@
 ---
 title: "Ferreteria el Mercat"
 url: /lalcudia/ferreteria-el-mercat/
-shop: hardware
+shop: Eisenwaren
 ---

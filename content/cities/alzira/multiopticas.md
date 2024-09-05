@@ -1,5 +1,5 @@
 ---
 title: "Multiópticas"
 url: /alzira/multiopticas/
-shop: óptico
+shop: Optiker
 ---

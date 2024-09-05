@@ -1,5 +1,5 @@
 ---
 title: "Zatus"
 url: /benidorm/zatus-carrer-de-gambo/
-shop: ropa
+shop: Kleidung
 ---

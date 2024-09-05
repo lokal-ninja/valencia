@@ -1,5 +1,5 @@
 ---
 title: "Soma Informática, S.L."
 url: /segorbe/soma-informatica-s-l/
-shop: ordenador
+shop: Computer
 ---

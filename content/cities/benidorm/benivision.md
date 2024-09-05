@@ -1,5 +1,5 @@
 ---
 title: "Benivisión"
 url: /benidorm/benivision/
-shop: óptico
+shop: Optiker
 ---

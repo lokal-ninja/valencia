@@ -1,5 +1,5 @@
 ---
 title: "Josep Marco Sansano"
 url: /benifaio/josep-marco-sansano/
-shop: lámparas
+shop: Lampen
 ---

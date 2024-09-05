@@ -1,5 +1,5 @@
 ---
 title: "Perruqueria Rosa Eli"
 url: /benifaio/perruqueria-rosa-eli/
-shop: peluquería
+shop: Friseur
 ---

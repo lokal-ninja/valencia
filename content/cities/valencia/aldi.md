@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /valencia/aldi/
-shop: supermercado
+shop: Supermarkt
 ---

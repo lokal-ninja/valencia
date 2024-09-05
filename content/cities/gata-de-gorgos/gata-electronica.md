@@ -1,5 +1,5 @@
 ---
 title: "Gata Electrónica"
 url: /gata-de-gorgos/gata-electronica/
-shop: electrónica
+shop: Elektronik
 ---

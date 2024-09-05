@@ -1,5 +1,5 @@
 ---
 title: "Charter"
 url: /mislata/charter/
-shop: supermercado
+shop: Supermarkt
 ---

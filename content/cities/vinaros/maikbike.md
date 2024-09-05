@@ -1,5 +1,5 @@
 ---
 title: "Maikbike"
 url: /vinaros/maikbike/
-shop: bicicleta
+shop: Fahrrad
 ---

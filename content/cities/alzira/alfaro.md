@@ -1,5 +1,5 @@
 ---
 title: "Alfaro"
 url: /alzira/alfaro/
-shop: zapatos
+shop: Schuhe
 ---

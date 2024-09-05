@@ -1,5 +1,5 @@
 ---
 title: "Top Queens"
 url: /orihuela/top-queens/
-shop: ropa
+shop: Kleidung
 ---

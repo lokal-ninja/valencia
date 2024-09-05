@@ -1,5 +1,5 @@
 ---
 title: "Charter"
 url: /benifaio/charter/
-shop: supermercado
+shop: Supermarkt
 ---

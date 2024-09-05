@@ -1,5 +1,5 @@
 ---
 title: "Ekomar"
 url: /torrevieja/ekomar/
-shop: carnicero
+shop: Metzgerei
 ---

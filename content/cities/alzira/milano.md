@@ -1,5 +1,5 @@
 ---
 title: "Milano"
 url: /alzira/milano/
-shop: lámparas
+shop: Lampen
 ---

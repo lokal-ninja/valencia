@@ -1,5 +1,5 @@
 ---
 title: "Koketas"
 url: /benidorm/koketas/
-shop: peluquería
+shop: Friseur
 ---

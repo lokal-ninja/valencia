@@ -1,5 +1,5 @@
 ---
 title: "Victoria"
 url: /benidorm/victoria/
-shop: helado
+shop: Eisprodukte
 ---

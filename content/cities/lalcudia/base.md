@@ -1,5 +1,5 @@
 ---
 title: "Base"
 url: /lalcudia/base/
-shop: ropa
+shop: Kleidung
 ---

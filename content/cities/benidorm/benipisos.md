@@ -1,5 +1,5 @@
 ---
 title: "Benipisos"
 url: /benidorm/benipisos/
-shop: agente inmobiliario
+shop: Immobilien
 ---

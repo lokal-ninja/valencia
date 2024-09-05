@@ -1,5 +1,5 @@
 ---
 title: "Rio"
 url: /benidorm/rio/
-shop: comodidad
+shop: Lebensmittel
 ---

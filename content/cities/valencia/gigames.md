@@ -1,5 +1,5 @@
 ---
 title: "GiGames"
 url: /valencia/gigames/
-shop: videojuegos
+shop: Videospiele
 ---

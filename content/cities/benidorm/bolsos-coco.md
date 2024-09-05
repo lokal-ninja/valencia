@@ -1,5 +1,5 @@
 ---
 title: "Bolsos Coco"
 url: /benidorm/bolsos-coco/
-shop: bolsas y maletas
+shop: Taschen & Koffer
 ---

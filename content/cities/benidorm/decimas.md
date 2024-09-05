@@ -1,5 +1,5 @@
 ---
 title: "Décimas"
 url: /benidorm/decimas/
-shop: ropa
+shop: Kleidung
 ---

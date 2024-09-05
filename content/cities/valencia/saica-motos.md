@@ -1,5 +1,5 @@
 ---
 title: "Saica Motos"
 url: /valencia/saica-motos/
-shop: motocicleta
+shop: Motorrad
 ---

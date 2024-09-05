@@ -1,5 +1,5 @@
 ---
 title: "masymas"
 url: /algemesi/masymas/
-shop: supermercado
+shop: Supermarkt
 ---

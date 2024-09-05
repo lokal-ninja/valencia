@@ -1,5 +1,5 @@
 ---
 title: "dicost"
 url: /alcalali/dicost/
-shop: supermercado
+shop: Supermarkt
 ---

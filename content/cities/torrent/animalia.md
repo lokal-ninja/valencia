@@ -1,5 +1,5 @@
 ---
 title: "Animalia"
 url: /torrent/animalia/
-shop: mascotas
+shop: Tiere
 ---

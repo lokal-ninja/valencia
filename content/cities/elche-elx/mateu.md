@@ -1,5 +1,5 @@
 ---
 title: "Mateu"
 url: /elche-elx/mateu/
-shop: zapatos
+shop: Schuhe
 ---

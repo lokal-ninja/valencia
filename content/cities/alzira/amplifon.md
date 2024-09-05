@@ -1,5 +1,5 @@
 ---
 title: "Amplifon"
 url: /alzira/amplifon/
-shop: audífonos
+shop: Hörgeräte
 ---

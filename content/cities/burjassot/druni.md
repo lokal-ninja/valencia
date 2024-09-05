@@ -1,5 +1,5 @@
 ---
 title: "Druni"
 url: /burjassot/druni/
-shop: perfumería
+shop: Parfümerie
 ---

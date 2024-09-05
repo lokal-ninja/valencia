@@ -1,5 +1,5 @@
 ---
 title: "PeloStop"
 url: /elche-elx/pelostop/
-shop: cosméticos
+shop: Kosmetik
 ---

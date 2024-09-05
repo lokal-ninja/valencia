@@ -1,5 +1,5 @@
 ---
 title: "Miscota"
 url: /massanassa/miscota/
-shop: mascotas
+shop: Tiere
 ---

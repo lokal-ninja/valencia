@@ -1,5 +1,5 @@
 ---
 title: "Granier"
 url: /torrevieja/granier/
-shop: panadería
+shop: Bäckerei
 ---

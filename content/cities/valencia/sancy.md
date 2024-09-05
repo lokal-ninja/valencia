@@ -1,5 +1,5 @@
 ---
 title: "Sancy"
 url: /valencia/sancy/
-shop: joyería
+shop: Schmuck
 ---

@@ -1,5 +1,5 @@
 ---
 title: "EnEfectivo"
 url: /torrevieja/enefectivo/
-shop: caridad
+shop: Gebrauchtwaren
 ---

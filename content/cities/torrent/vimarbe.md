@@ -1,5 +1,5 @@
 ---
 title: "Vimarbe"
 url: /torrent/vimarbe/
-shop: radiotecnia
+shop: Radiotechnik
 ---

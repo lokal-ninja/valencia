@@ -1,5 +1,5 @@
 ---
 title: "Estamar"
 url: /torrevieja/estamar/
-shop: floristería
+shop: Blumen
 ---

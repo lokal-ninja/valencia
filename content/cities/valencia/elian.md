@@ -1,5 +1,5 @@
 ---
 title: "Elián"
 url: /valencia/elian/
-shop: peluquería
+shop: Friseur
 ---

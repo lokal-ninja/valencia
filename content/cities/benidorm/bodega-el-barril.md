@@ -1,5 +1,5 @@
 ---
 title: "Bodega El Barril"
 url: /benidorm/bodega-el-barril/
-shop: alcohol
+shop: Spirituosen
 ---

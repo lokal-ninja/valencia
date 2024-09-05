@@ -1,5 +1,5 @@
 ---
 title: "Verdulería Conchín"
 url: /torrent/verduleria-conchin/
-shop: frutería
+shop: Gemüse & Obst
 ---

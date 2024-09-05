@@ -1,5 +1,5 @@
 ---
 title: "Charter"
 url: /alzira/charter/
-shop: supermercado
+shop: Supermarkt
 ---

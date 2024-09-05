@@ -1,5 +1,5 @@
 ---
 title: "Ferrymas"
 url: /benifaio/ferrymas/
-shop: hardware
+shop: Eisenwaren
 ---

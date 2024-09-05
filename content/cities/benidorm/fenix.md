@@ -1,5 +1,5 @@
 ---
 title: "Fenix"
 url: /benidorm/fenix/
-shop: joyería
+shop: Schmuck
 ---

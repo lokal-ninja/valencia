@@ -1,5 +1,5 @@
 ---
 title: "Factory Colchón"
 url: /museros/factory-colchon/
-shop: cama
+shop: Betten
 ---

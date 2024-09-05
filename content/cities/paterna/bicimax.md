@@ -1,5 +1,5 @@
 ---
 title: "Bicimax"
 url: /paterna/bicimax/
-shop: bicicleta
+shop: Fahrrad
 ---

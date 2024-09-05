@@ -1,5 +1,5 @@
 ---
 title: "Reparaciones Jaime Laguarda"
 url: /torrent/reparaciones-jaime-laguarda/
-shop: muebles
+shop: Möbel
 ---

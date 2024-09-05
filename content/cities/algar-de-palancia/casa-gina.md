@@ -1,5 +1,5 @@
 ---
 title: "Casa Gina"
 url: /algar-de-palancia/casa-gina/
-shop: comodidad
+shop: Lebensmittel
 ---

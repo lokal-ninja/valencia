@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
 url: /benicarlo/mercadona/
-shop: supermercado
+shop: Supermarkt
 ---

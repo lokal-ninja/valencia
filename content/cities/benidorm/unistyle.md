@@ -1,5 +1,5 @@
 ---
 title: "Unistyle"
 url: /benidorm/unistyle/
-shop: ropa
+shop: Kleidung
 ---

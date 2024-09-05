@@ -1,5 +1,5 @@
 ---
 title: "Universal"
 url: /benidorm/universal/
-shop: ropa
+shop: Kleidung
 ---

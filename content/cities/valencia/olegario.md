@@ -1,5 +1,5 @@
 ---
 title: "Olegario"
 url: /valencia/olegario/
-shop: ropa
+shop: Kleidung
 ---

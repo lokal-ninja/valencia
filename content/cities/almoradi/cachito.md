@@ -1,5 +1,5 @@
 ---
 title: "Cachito"
 url: /almoradi/cachito/
-shop: ropa
+shop: Kleidung
 ---

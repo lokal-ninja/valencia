@@ -1,5 +1,5 @@
 ---
 title: "Calzedonia"
 url: /benidorm/calzedonia/
-shop: ropa
+shop: Kleidung
 ---

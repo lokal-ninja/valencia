@@ -1,5 +1,5 @@
 ---
 title: "Optimil"
 url: /orihuela/optimil/
-shop: óptico
+shop: Optiker
 ---

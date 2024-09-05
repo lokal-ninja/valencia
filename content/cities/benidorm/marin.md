@@ -1,5 +1,5 @@
 ---
 title: "Marín"
 url: /benidorm/marin/
-shop: zapatos
+shop: Schuhe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Waldorf"
 url: /benidorm/waldorf/
-shop: supermercado
+shop: Supermarkt
 ---

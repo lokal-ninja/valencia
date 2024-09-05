@@ -1,5 +1,5 @@
 ---
 title: "Evacris"
 url: /benidorm/evacris/
-shop: general
+shop: Allgemein
 ---

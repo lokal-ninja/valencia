@@ -1,5 +1,5 @@
 ---
 title: "Consum"
 url: /mislata/consum/
-shop: supermercado
+shop: Supermarkt
 ---

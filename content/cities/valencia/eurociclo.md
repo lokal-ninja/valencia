@@ -1,5 +1,5 @@
 ---
 title: "Eurociclo"
 url: /valencia/eurociclo/
-shop: bicicleta
+shop: Fahrrad
 ---

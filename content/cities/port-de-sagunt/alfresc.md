@@ -1,5 +1,5 @@
 ---
 title: "Alfresc"
 url: /port-de-sagunt/alfresc/
-shop: frutería
+shop: Gemüse & Obst
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carmen"
 url: /alboraia-alboraya/carmen/
-shop: frutería
+shop: Gemüse & Obst
 ---

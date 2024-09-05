@@ -1,5 +1,5 @@
 ---
 title: "Charter"
 url: /lalcudia/charter/
-shop: supermercado
+shop: Supermarkt
 ---

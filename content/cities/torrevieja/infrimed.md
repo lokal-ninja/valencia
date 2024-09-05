@@ -1,5 +1,5 @@
 ---
 title: "Infrimed"
 url: /torrevieja/infrimed/
-shop: general
+shop: Allgemein
 ---

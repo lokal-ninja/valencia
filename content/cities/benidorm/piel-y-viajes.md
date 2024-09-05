@@ -1,5 +1,5 @@
 ---
 title: "Piel y viajes"
 url: /benidorm/piel-y-viajes/
-shop: general
+shop: Allgemein
 ---

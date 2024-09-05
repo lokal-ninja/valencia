@@ -1,5 +1,5 @@
 ---
 title: "Anour"
 url: /orihuela/anour/
-shop: carnicero
+shop: Metzgerei
 ---

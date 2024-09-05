@@ -1,5 +1,5 @@
 ---
 title: "Torres"
 url: /benidorm/torres/
-shop: lámparas
+shop: Lampen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sunrise"
 url: /benidorm/sunrise/
-shop: comodidad
+shop: Lebensmittel
 ---

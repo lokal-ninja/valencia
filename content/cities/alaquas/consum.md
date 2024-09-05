@@ -1,5 +1,5 @@
 ---
 title: "Consum"
 url: /alaquas/consum/
-shop: supermercado
+shop: Supermarkt
 ---

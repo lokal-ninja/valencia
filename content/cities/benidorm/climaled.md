@@ -1,5 +1,5 @@
 ---
 title: "Climaled"
 url: /benidorm/climaled/
-shop: electrónica
+shop: Elektronik
 ---

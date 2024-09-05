@@ -1,5 +1,5 @@
 ---
 title: "Consum"
 url: /catral/consum/
-shop: supermercado
+shop: Supermarkt
 ---

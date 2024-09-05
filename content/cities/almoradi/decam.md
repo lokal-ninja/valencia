@@ -1,5 +1,5 @@
 ---
 title: "Decam"
 url: /almoradi/decam/
-shop: ropa
+shop: Kleidung
 ---

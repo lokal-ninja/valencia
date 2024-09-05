@@ -1,5 +1,5 @@
 ---
 title: "Teo"
 url: /benidorm/teo/
-shop: peluquería
+shop: Friseur
 ---

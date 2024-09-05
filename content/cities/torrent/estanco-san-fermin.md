@@ -1,5 +1,5 @@
 ---
 title: "Estanco San Fermin"
 url: /torrent/estanco-san-fermin/
-shop: tabaco
+shop: Tabak
 ---

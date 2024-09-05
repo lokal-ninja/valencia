@@ -1,5 +1,5 @@
 ---
 title: "Prevanna"
 url: /torrellano/prevanna/
-shop: zapatos
+shop: Schuhe
 ---

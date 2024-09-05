@@ -1,5 +1,5 @@
 ---
 title: "Osolosol"
 url: /elche-elx/osolosol/
-shop: óptico
+shop: Optiker
 ---

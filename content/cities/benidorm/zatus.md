@@ -1,5 +1,5 @@
 ---
 title: "Zatus"
 url: /benidorm/zatus/
-shop: zapatos
+shop: Schuhe
 ---

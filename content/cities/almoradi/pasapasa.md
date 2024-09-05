@@ -1,5 +1,5 @@
 ---
 title: "PasaPasa"
 url: /almoradi/pasapasa/
-shop: comodidad
+shop: Lebensmittel
 ---

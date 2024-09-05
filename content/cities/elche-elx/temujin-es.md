@@ -1,5 +1,5 @@
 ---
 title: "Temujin.es"
 url: /elche-elx/temujin-es/
-shop: ordenador
+shop: Computer
 ---

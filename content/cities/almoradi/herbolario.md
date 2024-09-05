@@ -1,5 +1,5 @@
 ---
 title: "Herbolario"
 url: /almoradi/herbolario/
-shop: supermercado
+shop: Supermarkt
 ---

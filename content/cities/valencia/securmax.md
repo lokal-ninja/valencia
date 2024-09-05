@@ -1,5 +1,5 @@
 ---
 title: "SecurMAX"
 url: /valencia/securmax/
-shop: electrónica
+shop: Elektronik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Don Dino"
 url: /benidorm/don-dino/
-shop: juguetes
+shop: Spielzeug
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sucre"
 url: /pedreguer/sucre/
-shop: ropa
+shop: Kleidung
 ---

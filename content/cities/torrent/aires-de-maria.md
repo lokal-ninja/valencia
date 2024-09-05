@@ -1,5 +1,5 @@
 ---
 title: "Aires De Maria"
 url: /torrent/aires-de-maria/
-shop: ropa
+shop: Kleidung
 ---

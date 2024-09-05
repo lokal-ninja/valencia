@@ -1,5 +1,5 @@
 ---
 title: "Relojería Onza"
 url: /valencia/relojeria-onza/
-shop: relojes
+shop: Uhren
 ---

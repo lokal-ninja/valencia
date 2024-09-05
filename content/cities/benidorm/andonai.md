@@ -1,5 +1,5 @@
 ---
 title: "Andonai"
 url: /benidorm/andonai/
-shop: general
+shop: Allgemein
 ---

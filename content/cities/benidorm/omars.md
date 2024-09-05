@@ -1,5 +1,5 @@
 ---
 title: "Omars"
 url: /benidorm/omars/
-shop: peluquería
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ilumled"
 url: /torrevieja/ilumled/
-shop: lámparas
+shop: Lampen
 ---

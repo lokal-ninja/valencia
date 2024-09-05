@@ -1,5 +1,5 @@
 ---
 title: "La Cierva"
 url: /elche-elx/la-cierva/
-shop: tienda
+shop: Modehaus
 ---

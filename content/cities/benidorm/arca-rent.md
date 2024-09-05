@@ -1,5 +1,5 @@
 ---
 title: "arca-rent"
 url: /benidorm/arca-rent/
-shop: agente inmobiliario
+shop: Immobilien
 ---

@@ -1,5 +1,5 @@
 ---
 title: "+ Madera"
 url: /almoradi/madera/
-shop: ropa
+shop: Kleidung
 ---

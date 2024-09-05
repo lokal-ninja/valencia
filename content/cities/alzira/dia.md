@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /alzira/dia/
-shop: supermercado
+shop: Supermarkt
 ---

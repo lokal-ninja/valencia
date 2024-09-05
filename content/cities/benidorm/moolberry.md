@@ -1,5 +1,5 @@
 ---
 title: "Moolberry"
 url: /benidorm/moolberry/
-shop: ropa
+shop: Kleidung
 ---

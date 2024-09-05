@@ -1,5 +1,5 @@
 ---
 title: "Doria"
 url: /benidorm/doria/
-shop: ropa
+shop: Kleidung
 ---

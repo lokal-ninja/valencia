@@ -1,5 +1,5 @@
 ---
 title: "Pintures Vicente Marí"
 url: /benifaio/pintures-vicente-mari/
-shop: pintura
+shop: Farben
 ---

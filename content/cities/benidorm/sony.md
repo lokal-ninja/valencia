@@ -1,5 +1,5 @@
 ---
 title: "Sony"
 url: /benidorm/sony/
-shop: electrónica
+shop: Elektronik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lefties"
 url: /aldaia/lefties/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Oportunidades"
 url: /benidorm/oportunidades/
-shop: general
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Green Queen"
 url: /almoradi/green-queen/
-shop: floristería
+shop: Blumen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Udaco"
 url: /torrent/udaco/
-shop: supermercado
+shop: Supermarkt
 ---

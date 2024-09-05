@@ -1,5 +1,5 @@
 ---
 title: "Dandara"
 url: /alzira/dandara/
-shop: ropa
+shop: Kleidung
 ---

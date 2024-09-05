@@ -1,5 +1,5 @@
 ---
 title: "Samarknda"
 url: /valencia/samarknda/
-shop: ropa
+shop: Kleidung
 ---

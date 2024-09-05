@@ -1,5 +1,5 @@
 ---
 title: "Zy"
 url: /benidorm/zy/
-shop: general
+shop: Allgemein
 ---

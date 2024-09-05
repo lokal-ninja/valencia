@@ -1,5 +1,5 @@
 ---
 title: "Javaloyes"
 url: /elche-elx/javaloyes/
-shop: joyería
+shop: Schmuck
 ---

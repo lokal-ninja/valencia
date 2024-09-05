@@ -1,5 +1,5 @@
 ---
 title: "latelefoneria"
 url: /picanya/latelefoneria/
-shop: teléfono móvil
+shop: Handy
 ---

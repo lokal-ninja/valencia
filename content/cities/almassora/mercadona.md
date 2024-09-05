@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
 url: /almassora/mercadona/
-shop: supermercado
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Koala Bay"
 url: /benidorm/koala-bay/
-shop: general
+shop: Allgemein
 ---

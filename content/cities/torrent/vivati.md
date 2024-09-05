@@ -1,5 +1,5 @@
 ---
 title: "Vivati"
 url: /torrent/vivati/
-shop: ropa
+shop: Kleidung
 ---

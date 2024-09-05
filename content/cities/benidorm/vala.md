@@ -1,5 +1,5 @@
 ---
 title: "Vala"
 url: /benidorm/vala/
-shop: general
+shop: Allgemein
 ---

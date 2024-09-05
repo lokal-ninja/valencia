@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
 url: /oliva/mercadona/
-shop: supermercado
+shop: Supermarkt
 ---

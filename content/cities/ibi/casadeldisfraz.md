@@ -1,5 +1,5 @@
 ---
 title: "CasadelDisfraz"
 url: /ibi/casadeldisfraz/
-shop: fiesta
+shop: Partyzubehör
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Naymo"
 url: /denia/naymo/
-shop: horno y estufa
+shop: Kamine & Öfen
 ---

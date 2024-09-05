@@ -1,5 +1,5 @@
 ---
 title: "PP"
 url: /benissa/pp/
-shop: vacante
+shop: Leerstehend
 ---

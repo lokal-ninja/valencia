@@ -1,5 +1,5 @@
 ---
 title: "Iberfood"
 url: /aldaia/iberfood/
-shop: supermercado
+shop: Supermarkt
 ---

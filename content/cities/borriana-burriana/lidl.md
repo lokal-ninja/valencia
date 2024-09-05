@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /borriana-burriana/lidl/
-shop: supermercado
+shop: Supermarkt
 ---

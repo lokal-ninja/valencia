@@ -1,5 +1,5 @@
 ---
 title: "Coaliment"
 url: /benidoleig/coaliment/
-shop: supermercado
+shop: Supermarkt
 ---

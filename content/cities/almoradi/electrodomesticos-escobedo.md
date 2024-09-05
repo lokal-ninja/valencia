@@ -1,5 +1,5 @@
 ---
 title: "Electrodomésticos Escobedo"
 url: /almoradi/electrodomesticos-escobedo/
-shop: electrónica
+shop: Elektronik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Intimi Secrets"
 url: /benidorm/intimi-secrets/
-shop: ropa
+shop: Kleidung
 ---

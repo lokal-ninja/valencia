@@ -1,5 +1,5 @@
 ---
 title: "Peluquería Miguel Segura"
 url: /torrent/peluqueria-miguel-segura/
-shop: peluquería
+shop: Friseur
 ---

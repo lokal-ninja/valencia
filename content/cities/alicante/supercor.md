@@ -1,5 +1,5 @@
 ---
 title: "Supercor"
 url: /alicante/supercor/
-shop: supermercado
+shop: Supermarkt
 ---

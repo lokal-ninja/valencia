@@ -1,5 +1,5 @@
 ---
 title: "Mil cosas ii"
 url: /oliva/mil-cosas-ii/
-shop: regalo
+shop: Andenken
 ---

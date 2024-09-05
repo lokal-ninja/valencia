@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
 url: /benifaio/vodafone/
-shop: teléfono móvil
+shop: Handy
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Llevameaparis"
 url: /novelda/llevameaparis/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tracks and Pedals"
 url: /oliva/tracks-and-pedals/
-shop: bicicleta
+shop: Fahrrad
 ---

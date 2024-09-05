@@ -1,5 +1,5 @@
 ---
 title: "Denia Temple"
 url: /denia/denia-temple/
-shop: peluquería
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Refan"
 url: /benidorm/refan/
-shop: perfumería
+shop: Parfümerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Marvimundo"
 url: /alzira/marvimundo/
-shop: perfumería
+shop: Parfümerie
 ---

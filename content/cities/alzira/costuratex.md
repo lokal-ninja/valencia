@@ -1,5 +1,5 @@
 ---
 title: "CosturaTex"
 url: /alzira/costuratex/
-shop: tela
+shop: Textil
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bambinos"
 url: /torrent/bambinos/
-shop: ropa
+shop: Kleidung
 ---

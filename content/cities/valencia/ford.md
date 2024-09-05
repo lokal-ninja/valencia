@@ -1,5 +1,5 @@
 ---
 title: "Ford"
 url: /valencia/ford/
-shop: coche
+shop: Autohaus
 ---

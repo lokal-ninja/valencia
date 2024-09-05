@@ -1,5 +1,5 @@
 ---
 title: "Sabel"
 url: /torrevieja/sabel/
-shop: zapatos
+shop: Schuhe
 ---

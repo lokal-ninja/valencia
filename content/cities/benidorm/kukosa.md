@@ -1,5 +1,5 @@
 ---
 title: "Kukosa"
 url: /benidorm/kukosa/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Valentine"
 url: /benidorm/valentine/
-shop: pintura
+shop: Farben
 ---

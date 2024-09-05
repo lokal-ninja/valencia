@@ -1,5 +1,5 @@
 ---
 title: "Don Perico"
 url: /alzira/don-perico/
-shop: mascotas
+shop: Tiere
 ---

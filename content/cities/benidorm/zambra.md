@@ -1,5 +1,5 @@
 ---
 title: "Zambra"
 url: /benidorm/zambra/
-shop: ropa
+shop: Kleidung
 ---

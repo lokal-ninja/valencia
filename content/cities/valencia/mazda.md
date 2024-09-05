@@ -1,5 +1,5 @@
 ---
 title: "Mazda"
 url: /valencia/mazda/
-shop: coche
+shop: Autohaus
 ---

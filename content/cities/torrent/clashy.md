@@ -1,5 +1,5 @@
 ---
 title: "Clashy"
 url: /torrent/clashy/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Benifruta"
 url: /benidorm/benifruta/
-shop: frutería
+shop: Gemüse & Obst
 ---

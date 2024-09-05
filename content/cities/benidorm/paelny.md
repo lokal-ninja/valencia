@@ -1,5 +1,5 @@
 ---
 title: "Paelny"
 url: /benidorm/paelny/
-shop: general
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Moc D'art"
 url: /elche-elx/moc-dart/
-shop: arte
+shop: Kunst
 ---

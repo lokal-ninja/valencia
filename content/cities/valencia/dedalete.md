@@ -1,5 +1,5 @@
 ---
 title: "Dedalete"
 url: /valencia/dedalete/
-shop: sastre
+shop: Schneiderei
 ---

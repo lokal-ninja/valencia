@@ -1,5 +1,5 @@
 ---
 title: "Alma"
 url: /benifaio/alma/
-shop: cosméticos
+shop: Kosmetik
 ---

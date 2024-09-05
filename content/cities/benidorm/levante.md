@@ -1,5 +1,5 @@
 ---
 title: "Levante"
 url: /benidorm/levante/
-shop: supermercado
+shop: Supermarkt
 ---

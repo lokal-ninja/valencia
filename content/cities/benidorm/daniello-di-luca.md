@@ -1,5 +1,5 @@
 ---
 title: "Daniello Di Luca"
 url: /benidorm/daniello-di-luca/
-shop: zapatos
+shop: Schuhe
 ---

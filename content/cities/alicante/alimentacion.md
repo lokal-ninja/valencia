@@ -1,5 +1,5 @@
 ---
 title: "Alimentación"
 url: /alicante/alimentacion/
-shop: comodidad
+shop: Lebensmittel
 ---

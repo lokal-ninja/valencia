@@ -1,5 +1,5 @@
 ---
 title: "Lacolada"
 url: /valencia/lacolada/
-shop: lavandería
+shop: Wäscherei
 ---

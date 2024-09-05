@@ -1,5 +1,5 @@
 ---
 title: "ONCE"
 url: /mislata/once/
-shop: lotería
+shop: Lotterie
 ---

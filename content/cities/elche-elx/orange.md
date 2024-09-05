@@ -1,5 +1,5 @@
 ---
 title: "Orange"
 url: /elche-elx/orange/
-shop: teléfono móvil
+shop: Handy
 ---

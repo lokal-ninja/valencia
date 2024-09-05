@@ -1,5 +1,5 @@
 ---
 title: "OK Phone"
 url: /valencia/ok-phone/
-shop: teléfono móvil
+shop: Handy
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Outlet"
 url: /benidorm/outlet/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Consum"
 url: /torrent/consum-carrer-de-lhorta/
-shop: supermercado
+shop: Supermarkt
 ---

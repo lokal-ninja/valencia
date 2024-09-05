@@ -1,5 +1,5 @@
 ---
 title: "Midasat"
 url: /valencia/midasat/
-shop: vacante
+shop: Leerstehend
 ---

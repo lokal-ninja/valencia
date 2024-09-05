@@ -1,5 +1,5 @@
 ---
 title: "J. Samuel Baber Shop"
 url: /torrevieja/j-samuel-baber-shop/
-shop: peluquería
+shop: Friseur
 ---

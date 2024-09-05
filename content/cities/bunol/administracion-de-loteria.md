@@ -1,5 +1,5 @@
 ---
 title: "Administración de Lotería"
 url: /bunol/administracion-de-loteria/
-shop: lotería
+shop: Lotterie
 ---

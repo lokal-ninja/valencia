@@ -1,5 +1,5 @@
 ---
 title: "Petits Plaers"
 url: /novelda/petits-plaers/
-shop: confitería
+shop: Süßwaren
 ---

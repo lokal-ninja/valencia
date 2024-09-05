@@ -1,5 +1,5 @@
 ---
 title: "Expercasa"
 url: /valencia/expercasa/
-shop: vacante
+shop: Leerstehend
 ---

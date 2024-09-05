@@ -1,5 +1,5 @@
 ---
 title: "Debolquerets"
 url: /benifaio/debolquerets/
-shop: ropa
+shop: Kleidung
 ---

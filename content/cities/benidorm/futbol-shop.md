@@ -1,5 +1,5 @@
 ---
 title: "Futbol Shop"
 url: /benidorm/futbol-shop/
-shop: general
+shop: Allgemein
 ---

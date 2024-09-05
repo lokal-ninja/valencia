@@ -1,5 +1,5 @@
 ---
 title: "Forn Nou"
 url: /rocafort/forn-nou/
-shop: panadería
+shop: Bäckerei
 ---

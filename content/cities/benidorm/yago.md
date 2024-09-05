@@ -1,5 +1,5 @@
 ---
 title: "Yago"
 url: /benidorm/yago/
-shop: supermercado
+shop: Supermarkt
 ---

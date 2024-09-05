@@ -1,5 +1,5 @@
 ---
 title: "Pícaro"
 url: /benidorm/picaro/
-shop: carnicero
+shop: Metzgerei
 ---

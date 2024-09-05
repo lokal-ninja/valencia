@@ -1,5 +1,5 @@
 ---
 title: "Zapakids"
 url: /torrent/zapakids/
-shop: zapatos
+shop: Schuhe
 ---

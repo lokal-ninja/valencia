@@ -1,5 +1,5 @@
 ---
 title: "Joselito"
 url: /benidorm/joselito/
-shop: peluquería
+shop: Friseur
 ---

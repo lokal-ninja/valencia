@@ -1,5 +1,5 @@
 ---
 title: "Hipermascota"
 url: /torrent/hipermascota-carrer-de-la-plana/
-shop: mascotas
+shop: Tiere
 ---

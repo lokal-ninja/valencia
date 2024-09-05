@@ -1,5 +1,5 @@
 ---
 title: "Juanjo"
 url: /elche/juanjo/
-shop: peluquería
+shop: Friseur
 ---

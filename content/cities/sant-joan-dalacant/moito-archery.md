@@ -1,5 +1,5 @@
 ---
 title: "Moito Archery"
 url: /sant-joan-dalacant/moito-archery/
-shop: deportes
+shop: Sport
 ---

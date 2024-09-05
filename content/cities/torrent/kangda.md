@@ -1,5 +1,5 @@
 ---
 title: "Kangda"
 url: /torrent/kangda/
-shop: ropa
+shop: Kleidung
 ---

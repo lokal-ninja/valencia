@@ -1,5 +1,5 @@
 ---
 title: "Violeta"
 url: /torrellano/violeta/
-shop: ropa
+shop: Kleidung
 ---

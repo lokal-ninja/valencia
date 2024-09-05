@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
 url: /valencia/mercadona-calle-cortes-de-arenoso/
-shop: supermercado
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Clarel"
 url: /picanya/clarel/
-shop: farmacia
+shop: Drogerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Zenn"
 url: /torrevieja/zenn/
-shop: peluquería
+shop: Friseur
 ---

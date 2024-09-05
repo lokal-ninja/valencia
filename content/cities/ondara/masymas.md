@@ -1,5 +1,5 @@
 ---
 title: "masymas"
 url: /ondara/masymas/
-shop: supermercado
+shop: Supermarkt
 ---

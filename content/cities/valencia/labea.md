@@ -1,5 +1,5 @@
 ---
 title: "LaBea"
 url: /valencia/labea/
-shop: lavandería
+shop: Wäscherei
 ---

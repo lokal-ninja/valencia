@@ -1,5 +1,5 @@
 ---
 title: "Don Celular"
 url: /orihuela/don-celular/
-shop: general
+shop: Allgemein
 ---

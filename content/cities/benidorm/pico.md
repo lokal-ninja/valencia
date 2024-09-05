@@ -1,5 +1,5 @@
 ---
 title: "Picó"
 url: /benidorm/pico/
-shop: carnicero
+shop: Metzgerei
 ---

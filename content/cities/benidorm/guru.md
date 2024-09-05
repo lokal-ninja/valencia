@@ -1,5 +1,5 @@
 ---
 title: "Guru"
 url: /benidorm/guru/
-shop: ropa
+shop: Kleidung
 ---

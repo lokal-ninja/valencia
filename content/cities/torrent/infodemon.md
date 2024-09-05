@@ -1,5 +1,5 @@
 ---
 title: "INFODEMON"
 url: /torrent/infodemon/
-shop: ordenador
+shop: Computer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Calzados Toñi"
 url: /torrevieja/calzados-toni/
-shop: zapatos
+shop: Schuhe
 ---

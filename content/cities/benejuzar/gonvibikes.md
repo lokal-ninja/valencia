@@ -1,5 +1,5 @@
 ---
 title: "Gonvibikes"
 url: /benejuzar/gonvibikes/
-shop: bicicleta
+shop: Fahrrad
 ---

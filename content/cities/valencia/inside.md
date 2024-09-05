@@ -1,5 +1,5 @@
 ---
 title: "Inside"
 url: /valencia/inside/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gimsan"
 url: /xirivella/gimsan/
-shop: cosméticos
+shop: Kosmetik
 ---

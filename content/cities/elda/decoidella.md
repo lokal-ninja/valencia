@@ -1,5 +1,5 @@
 ---
 title: "Decoidella"
 url: /elda/decoidella/
-shop: cortina
+shop: Gardinen
 ---

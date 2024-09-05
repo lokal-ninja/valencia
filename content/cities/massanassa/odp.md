@@ -1,5 +1,5 @@
 ---
 title: "OdP"
 url: /massanassa/odp/
-shop: cosméticos
+shop: Kosmetik
 ---

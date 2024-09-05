@@ -1,5 +1,5 @@
 ---
 title: "Las Damas"
 url: /bemidorm/las-damas/
-shop: regalo
+shop: Andenken
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Alcarama"
 url: /torrellano/alcarama/
-shop: regalo
+shop: Andenken
 ---
