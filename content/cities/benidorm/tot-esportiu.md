@@ -1,5 +1,5 @@
 ---
 title: "Tot Esportiu"
 url: /benidorm/tot-esportiu/
-shop: Sport
+shop: deportes
 ---

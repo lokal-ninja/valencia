@@ -1,5 +1,5 @@
 ---
 title: "Girl Glamorosa"
 url: /elche-elx/girl-glamorosa/
-shop: Kleidung
+shop: ropa
 ---

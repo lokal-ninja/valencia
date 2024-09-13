@@ -1,5 +1,5 @@
 ---
 title: "Nautalia"
 url: /elche-elx/nautalia/
-shop: Reisebüro
+shop: agencia de viajes
 ---

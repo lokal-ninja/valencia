@@ -1,5 +1,5 @@
 ---
 title: "Flores de València"
 url: /picanya/flores-de-valencia/
-shop: Blumen
+shop: floristería
 ---

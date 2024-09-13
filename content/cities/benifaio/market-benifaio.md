@@ -1,5 +1,5 @@
 ---
 title: "Market Benifaió"
 url: /benifaio/market-benifaio/
-shop: Lebensmittel
+shop: comodidad
 ---

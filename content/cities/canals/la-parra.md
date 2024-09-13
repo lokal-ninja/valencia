@@ -1,5 +1,5 @@
 ---
 title: "La Parra"
 url: /canals/la-parra/
-shop: Schreibwaren
+shop: material de oficina
 ---

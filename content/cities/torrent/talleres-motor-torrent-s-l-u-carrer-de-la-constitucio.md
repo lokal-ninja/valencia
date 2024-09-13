@@ -1,5 +1,5 @@
 ---
 title: "Talleres Motor Torrent, S.l.u"
 url: /torrent/talleres-motor-torrent-s-l-u-carrer-de-la-constitucio/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

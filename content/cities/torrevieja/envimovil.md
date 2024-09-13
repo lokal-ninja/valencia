@@ -1,5 +1,5 @@
 ---
 title: "Envimóvil"
 url: /torrevieja/envimovil/
-shop: Handy
+shop: teléfono móvil
 ---

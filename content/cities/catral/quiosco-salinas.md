@@ -1,5 +1,5 @@
 ---
 title: "Quiosco Salinas"
 url: /catral/quiosco-salinas/
-shop: Kiosk
+shop: quiosco
 ---

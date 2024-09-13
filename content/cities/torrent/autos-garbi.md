@@ -1,5 +1,5 @@
 ---
 title: "Autos Garbi"
 url: /torrent/autos-garbi/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

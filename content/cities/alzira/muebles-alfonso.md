@@ -1,5 +1,5 @@
 ---
 title: "Muebles Alfonso"
 url: /alzira/muebles-alfonso/
-shop: Möbel
+shop: muebles
 ---

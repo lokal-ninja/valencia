@@ -1,5 +1,5 @@
 ---
 title: "Quesada Market"
 url: /alfara-del-patriarca/quesada-market/
-shop: Allgemein
+shop: general
 ---

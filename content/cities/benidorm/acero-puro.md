@@ -1,5 +1,5 @@
 ---
 title: "Acero Puro"
 url: /benidorm/acero-puro/
-shop: Allgemein
+shop: general
 ---

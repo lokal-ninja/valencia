@@ -1,5 +1,5 @@
 ---
 title: "Tandy"
 url: /benifaio/tandy/
-shop: Lebensmittel
+shop: comodidad
 ---

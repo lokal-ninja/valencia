@@ -1,5 +1,5 @@
 ---
 title: "Sportium"
 url: /benidorm/sportium/
-shop: Wettbüro
+shop: corredor de apuestas
 ---

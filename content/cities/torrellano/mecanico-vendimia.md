@@ -1,5 +1,5 @@
 ---
 title: "Mecánico Vendimia"
 url: /torrellano/mecanico-vendimia/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

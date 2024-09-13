@@ -1,5 +1,5 @@
 ---
 title: "Centro de Alimentación Carrus"
 url: /elche-elx/centro-de-alimentacion-carrus/
-shop: Supermarkt
+shop: supermercado
 ---

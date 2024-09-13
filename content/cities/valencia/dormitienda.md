@@ -1,5 +1,5 @@
 ---
 title: "Dormitienda"
 url: /valencia/dormitienda/
-shop: Betten
+shop: cama
 ---

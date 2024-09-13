@@ -1,5 +1,5 @@
 ---
 title: "Consum"
 url: /riba-roja-de-turia/consum/
-shop: Supermarkt
+shop: supermercado
 ---

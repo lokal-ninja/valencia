@@ -1,5 +1,5 @@
 ---
 title: "Óptica Visualia"
 url: /benidorm/optica-visualia/
-shop: Optiker
+shop: óptico
 ---

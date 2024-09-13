@@ -1,5 +1,5 @@
 ---
 title: "El Sostre"
 url: /benidorm/el-sostre/
-shop: Raumausstattung
+shop: decoración interior
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Blue"
 url: /benidorm/blue/
-shop: Feinkost
+shop: charcutería
 ---

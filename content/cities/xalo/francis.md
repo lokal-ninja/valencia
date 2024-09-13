@@ -1,5 +1,5 @@
 ---
 title: "Francis"
 url: /xalo/francis/
-shop: Bäckerei
+shop: panadería
 ---

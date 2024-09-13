@@ -1,5 +1,5 @@
 ---
 title: "Joyería Marga Mira"
 url: /alicante/joyeria-marga-mira/
-shop: Schmuck
+shop: joyería
 ---

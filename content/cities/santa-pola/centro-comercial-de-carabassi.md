@@ -1,5 +1,5 @@
 ---
 title: "Centro Comercial de Carabassí"
 url: /santa-pola/centro-comercial-de-carabassi/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

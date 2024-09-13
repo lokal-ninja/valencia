@@ -1,5 +1,5 @@
 ---
 title: "Missfundas"
 url: /torrent/missfundas/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Milonas"
 url: /benidorm/milonas/
-shop: Immobilien
+shop: agente inmobiliario
 ---

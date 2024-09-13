@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /ondara/lidl/
-shop: Supermarkt
+shop: supermercado
 ---

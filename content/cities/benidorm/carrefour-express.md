@@ -1,5 +1,5 @@
 ---
 title: "Carrefour Express"
 url: /benidorm/carrefour-express/
-shop: Lebensmittel
+shop: comodidad
 ---

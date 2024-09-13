@@ -1,5 +1,5 @@
 ---
 title: "Rubio Ruiz"
 url: /benidorm/rubio-ruiz/
-shop: Friseur
+shop: peluquería
 ---

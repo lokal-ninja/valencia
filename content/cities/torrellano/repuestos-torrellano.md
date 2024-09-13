@@ -1,5 +1,5 @@
 ---
 title: "Repuestos Torrellano"
 url: /torrellano/repuestos-torrellano/
-shop: Autoteile
+shop: piezas de automóviles
 ---

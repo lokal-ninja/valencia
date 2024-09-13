@@ -1,5 +1,5 @@
 ---
 title: "Serviarlequi"
 url: /lalcudia/serviarlequi/
-shop: Schreibwaren
+shop: material de oficina
 ---

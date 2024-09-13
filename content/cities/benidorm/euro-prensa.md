@@ -1,5 +1,5 @@
 ---
 title: "Euro Prensa"
 url: /benidorm/euro-prensa/
-shop: Zeitungen
+shop: quiosco
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Decomaria"
 url: /torrent/decomaria/
-shop: Möbel
+shop: muebles
 ---

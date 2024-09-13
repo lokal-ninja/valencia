@@ -1,5 +1,5 @@
 ---
 title: "Nerea"
 url: /benidorm/nerea/
-shop: Schuhe
+shop: zapatos
 ---

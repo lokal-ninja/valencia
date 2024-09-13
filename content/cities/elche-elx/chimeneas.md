@@ -1,5 +1,5 @@
 ---
 title: "Chimeneas"
 url: /elche-elx/chimeneas/
-shop: Kamine & Öfen
+shop: horno y estufa
 ---

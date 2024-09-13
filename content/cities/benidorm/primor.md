@@ -1,5 +1,5 @@
 ---
 title: "Primor"
 url: /benidorm/primor/
-shop: Kosmetik
+shop: cosméticos
 ---

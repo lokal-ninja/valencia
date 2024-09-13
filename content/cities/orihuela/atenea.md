@@ -1,5 +1,5 @@
 ---
 title: "Atenea"
 url: /orihuela/atenea/
-shop: Bücher
+shop: libros
 ---

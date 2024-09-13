@@ -1,5 +1,5 @@
 ---
 title: "ITV Vinaròs"
 url: /vinaros/itv-vinaros/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "BMW"
 url: /ondara/bmw/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

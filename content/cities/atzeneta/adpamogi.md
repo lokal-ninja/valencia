@@ -1,5 +1,5 @@
 ---
 title: "Adpamogi"
 url: /atzeneta/adpamogi/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

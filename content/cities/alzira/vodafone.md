@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
 url: /alzira/vodafone/
-shop: Handy
+shop: teléfono móvil
 ---

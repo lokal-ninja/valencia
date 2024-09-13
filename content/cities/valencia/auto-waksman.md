@@ -1,5 +1,5 @@
 ---
 title: "Auto Waksman"
 url: /valencia/auto-waksman/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ferretti"
 url: /benidorm/ferretti/
-shop: Eisprodukte
+shop: helado
 ---

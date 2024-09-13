@@ -1,5 +1,5 @@
 ---
 title: "Copi Carrus"
 url: /elche-elx/copi-carrus/
-shop: Bücher
+shop: libros
 ---

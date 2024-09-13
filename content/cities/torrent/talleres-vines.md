@@ -1,5 +1,5 @@
 ---
 title: "Talleres Viñes"
 url: /torrent/talleres-vines/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

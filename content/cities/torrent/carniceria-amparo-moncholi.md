@@ -1,5 +1,5 @@
 ---
 title: "Carniceria Amparo Moncholi"
 url: /torrent/carniceria-amparo-moncholi/
-shop: Metzgerei
+shop: carnicero
 ---

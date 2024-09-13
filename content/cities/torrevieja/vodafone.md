@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
 url: /torrevieja/vodafone/
-shop: Handy
+shop: teléfono móvil
 ---

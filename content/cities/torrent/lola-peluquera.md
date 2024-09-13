@@ -1,5 +1,5 @@
 ---
 title: "Lola Peluquera"
 url: /torrent/lola-peluquera/
-shop: Friseur
+shop: peluquería
 ---

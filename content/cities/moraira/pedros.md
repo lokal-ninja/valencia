@@ -1,5 +1,5 @@
 ---
 title: "Pedros"
 url: /moraira/pedros/
-shop: Eisenwaren
+shop: hardware
 ---

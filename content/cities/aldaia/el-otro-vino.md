@@ -1,5 +1,5 @@
 ---
 title: "El Otro Vino"
 url: /aldaia/el-otro-vino/
-shop: Lebensmittel
+shop: comodidad
 ---

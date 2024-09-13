@@ -1,5 +1,5 @@
 ---
 title: "Mc Trucks"
 url: /torrent/mc-trucks/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

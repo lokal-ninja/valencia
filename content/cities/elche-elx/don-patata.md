@@ -1,5 +1,5 @@
 ---
 title: "Don Patata"
 url: /elche-elx/don-patata/
-shop: Kiosk
+shop: quiosco
 ---

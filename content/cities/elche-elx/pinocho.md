@@ -1,5 +1,5 @@
 ---
 title: "Pinocho"
 url: /elche-elx/pinocho/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tresor"
 url: /benidorm/tresor-carrer-de-gambo/
-shop: Kleidung
+shop: ropa
 ---

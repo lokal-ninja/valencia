@@ -1,5 +1,5 @@
 ---
 title: "Cucos"
 url: /torrent/cucos/
-shop: Kleidung
+shop: ropa
 ---

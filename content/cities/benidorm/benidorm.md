@@ -1,5 +1,5 @@
 ---
 title: "Benidorm"
 url: /benidorm/benidorm/
-shop: Lebensmittel
+shop: comodidad
 ---

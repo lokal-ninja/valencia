@@ -1,5 +1,5 @@
 ---
 title: "Cicles Alvado"
 url: /altea/cicles-alvado/
-shop: Fahrrad
+shop: bicicleta
 ---

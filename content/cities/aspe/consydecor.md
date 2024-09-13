@@ -1,5 +1,5 @@
 ---
 title: "Consydecor"
 url: /aspe/consydecor/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

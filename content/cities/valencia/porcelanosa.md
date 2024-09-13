@@ -1,5 +1,5 @@
 ---
 title: "Porcelanosa"
 url: /valencia/porcelanosa/
-shop: Raumausstattung
+shop: decoración interior
 ---

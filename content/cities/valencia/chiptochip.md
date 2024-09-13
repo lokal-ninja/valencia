@@ -1,5 +1,5 @@
 ---
 title: "ChipToChip"
 url: /valencia/chiptochip/
-shop: Computer
+shop: ordenador
 ---

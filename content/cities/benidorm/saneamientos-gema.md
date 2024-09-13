@@ -1,5 +1,5 @@
 ---
 title: "Saneamientos Gema"
 url: /benidorm/saneamientos-gema/
-shop: Badezimmer
+shop: cuarto de baño
 ---

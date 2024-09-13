@@ -1,5 +1,5 @@
 ---
 title: "Estudio Fotográfico Javier Orti"
 url: /torrent/estudio-fotografico-javier-orti/
-shop: Foto
+shop: foto
 ---

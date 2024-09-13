@@ -1,5 +1,5 @@
 ---
 title: "Apunts"
 url: /lalcudia/apunts/
-shop: Computer
+shop: ordenador
 ---

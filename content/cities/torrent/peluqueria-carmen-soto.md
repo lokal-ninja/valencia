@@ -1,5 +1,5 @@
 ---
 title: "Peluquería Carmen Soto"
 url: /torrent/peluqueria-carmen-soto/
-shop: Friseur
+shop: peluquería
 ---

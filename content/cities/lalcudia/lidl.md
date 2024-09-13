@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /lalcudia/lidl/
-shop: Supermarkt
+shop: supermercado
 ---

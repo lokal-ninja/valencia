@@ -1,5 +1,5 @@
 ---
 title: "pepco"
 url: /alicante/pepco/
-shop: Warenhaus
+shop: grandes almacenes
 ---

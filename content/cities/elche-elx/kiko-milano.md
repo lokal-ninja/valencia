@@ -1,5 +1,5 @@
 ---
 title: "KIKO Milano"
 url: /elche-elx/kiko-milano/
-shop: Kosmetik
+shop: cosméticos
 ---

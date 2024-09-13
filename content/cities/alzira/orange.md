@@ -1,5 +1,5 @@
 ---
 title: "Orange"
 url: /alzira/orange/
-shop: Handy
+shop: teléfono móvil
 ---

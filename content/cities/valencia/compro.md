@@ -1,5 +1,5 @@
 ---
 title: "Compro"
 url: /valencia/compro/
-shop: Kleidung
+shop: ropa
 ---

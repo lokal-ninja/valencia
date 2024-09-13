@@ -1,5 +1,5 @@
 ---
 title: "Lacolada"
 url: /benifaio/lacolada/
-shop: Wäscherei
+shop: lavandería
 ---

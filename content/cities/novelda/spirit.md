@@ -1,5 +1,5 @@
 ---
 title: "Spirit"
 url: /novelda/spirit/
-shop: Schmuck
+shop: joyería
 ---

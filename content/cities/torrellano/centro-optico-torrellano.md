@@ -1,5 +1,5 @@
 ---
 title: "Centro óptico Torrellano"
 url: /torrellano/centro-optico-torrellano/
-shop: Optiker
+shop: óptico
 ---

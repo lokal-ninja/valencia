@@ -1,5 +1,5 @@
 ---
 title: "L'Espai"
 url: /denia/lespai/
-shop: Kaffee
+shop: café
 ---

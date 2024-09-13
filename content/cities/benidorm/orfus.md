@@ -1,5 +1,5 @@
 ---
 title: "Orfus"
 url: /benidorm/orfus/
-shop: Allgemein
+shop: general
 ---

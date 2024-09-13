@@ -1,5 +1,5 @@
 ---
 title: "Mazarino"
 url: /elche-elx/mazarino/
-shop: Schmuck
+shop: joyería
 ---

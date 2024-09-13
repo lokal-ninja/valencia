@@ -1,5 +1,5 @@
 ---
 title: "Gold Rush"
 url: /benidorm/gold-rush/
-shop: Uhren
+shop: relojes
 ---

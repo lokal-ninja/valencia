@@ -1,5 +1,5 @@
 ---
 title: "Vedat Mediterraneo, Sl"
 url: /torrent/vedat-mediterraneo-sl/
-shop: Autohaus
+shop: coche
 ---

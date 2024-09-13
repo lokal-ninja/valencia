@@ -1,5 +1,5 @@
 ---
 title: "Radical Bike"
 url: /ontinyent/radical-bike/
-shop: Fahrrad
+shop: bicicleta
 ---

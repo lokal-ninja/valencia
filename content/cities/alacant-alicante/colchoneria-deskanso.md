@@ -1,5 +1,5 @@
 ---
 title: "Colchonería Deskanso"
 url: /alacant-alicante/colchoneria-deskanso/
-shop: Allgemein
+shop: general
 ---

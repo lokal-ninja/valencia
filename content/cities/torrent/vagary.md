@@ -1,5 +1,5 @@
 ---
 title: "Vagary"
 url: /torrent/vagary/
-shop: Kleidung
+shop: ropa
 ---

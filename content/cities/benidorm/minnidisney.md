@@ -1,5 +1,5 @@
 ---
 title: "Minnidisney"
 url: /benidorm/minnidisney/
-shop: Spielzeug
+shop: juguetes
 ---

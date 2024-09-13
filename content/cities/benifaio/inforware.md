@@ -1,5 +1,5 @@
 ---
 title: "Inforware"
 url: /benifaio/inforware/
-shop: Computer
+shop: ordenador
 ---

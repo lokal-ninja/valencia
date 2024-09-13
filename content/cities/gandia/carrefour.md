@@ -1,5 +1,5 @@
 ---
 title: "Carrefour"
 url: /gandia/carrefour/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

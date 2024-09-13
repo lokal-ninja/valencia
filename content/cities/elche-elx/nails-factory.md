@@ -1,5 +1,5 @@
 ---
 title: "Nails Factory"
 url: /elche-elx/nails-factory/
-shop: Kosmetik
+shop: cosméticos
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Toy Palace"
 url: /elche-elx/toy-palace/
-shop: Spielzeug
+shop: juguetes
 ---

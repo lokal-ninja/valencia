@@ -1,5 +1,5 @@
 ---
 title: "VaperDenia"
 url: /denia/vaperdenia/
-shop: E-Zigaretten
+shop: cigarrillo electrónico
 ---

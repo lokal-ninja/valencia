@@ -1,5 +1,5 @@
 ---
 title: "Gore"
 url: /torrevieja/gore/
-shop: Kleidung
+shop: ropa
 ---

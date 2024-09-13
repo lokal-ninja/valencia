@@ -1,5 +1,5 @@
 ---
 title: "25 Sensaciones"
 url: /torrent/25-sensaciones/
-shop: Kleidung
+shop: ropa
 ---

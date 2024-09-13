@@ -1,5 +1,5 @@
 ---
 title: "Peluquería Abdou"
 url: /valencia/peluqueria-abdou/
-shop: Friseur
+shop: peluquería
 ---

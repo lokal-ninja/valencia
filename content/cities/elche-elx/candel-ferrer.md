@@ -1,5 +1,5 @@
 ---
 title: "Candel Ferrer"
 url: /elche-elx/candel-ferrer/
-shop: Reisebüro
+shop: agencia de viajes
 ---

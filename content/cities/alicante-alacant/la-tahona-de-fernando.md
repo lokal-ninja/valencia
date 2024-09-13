@@ -1,5 +1,5 @@
 ---
 title: "La Tahona de Fernando"
 url: /alicante-alacant/la-tahona-de-fernando/
-shop: Bäckerei
+shop: panadería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Consum"
 url: /castello-de-la-plana/consum/
-shop: Supermarkt
+shop: supermercado
 ---

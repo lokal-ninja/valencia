@@ -1,5 +1,5 @@
 ---
 title: "Kamome"
 url: /elche-elx/kamome-carrer-bisbe-tormo/
-shop: Schuhe
+shop: zapatos
 ---

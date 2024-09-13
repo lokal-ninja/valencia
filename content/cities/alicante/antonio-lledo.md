@@ -1,5 +1,5 @@
 ---
 title: "Antonio LLedo"
 url: /alicante/antonio-lledo/
-shop: Raumausstattung
+shop: decoración interior
 ---

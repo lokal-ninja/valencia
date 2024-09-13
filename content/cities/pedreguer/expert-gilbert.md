@@ -1,5 +1,5 @@
 ---
 title: "Expert Gilbert"
 url: /pedreguer/expert-gilbert/
-shop: Haushaltsgeräte
+shop: aparato
 ---

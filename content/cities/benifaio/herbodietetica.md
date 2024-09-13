@@ -1,5 +1,5 @@
 ---
 title: "Herbodietética"
 url: /benifaio/herbodietetica/
-shop: Kosmetik
+shop: cosméticos
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Valor"
 url: /benidorm/valor/
-shop: Immobilien
+shop: agente inmobiliario
 ---

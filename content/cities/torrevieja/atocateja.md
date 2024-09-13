@@ -1,5 +1,5 @@
 ---
 title: "Atocateja"
 url: /torrevieja/atocateja/
-shop: Gebrauchtwaren
+shop: caridad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mínguez"
 url: /almoradi/minguez/
-shop: Schmuck
+shop: joyería
 ---

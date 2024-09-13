@@ -1,5 +1,5 @@
 ---
 title: "Shahzad"
 url: /valencia/shahzad/
-shop: Friseur
+shop: peluquería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Miguel Sales"
 url: /valencia/miguel-sales/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

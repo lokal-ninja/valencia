@@ -1,5 +1,5 @@
 ---
 title: "Ciclos Alberto"
 url: /alacant/ciclos-alberto/
-shop: Fahrrad
+shop: bicicleta
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bazar Fulidu"
 url: /benifaio/bazar-fulidu/
-shop: Kramladen
+shop: tienda de variedades
 ---

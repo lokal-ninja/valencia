@@ -1,5 +1,5 @@
 ---
 title: "Botticelli"
 url: /benidorm/botticelli/
-shop: Schuhe
+shop: zapatos
 ---

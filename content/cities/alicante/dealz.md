@@ -1,5 +1,5 @@
 ---
 title: "Dealz"
 url: /alicante/dealz/
-shop: Kramladen
+shop: tienda de variedades
 ---

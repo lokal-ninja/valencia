@@ -1,5 +1,5 @@
 ---
 title: "Super Chollo"
 url: /benidorm/super-chollo/
-shop: Kleidung
+shop: ropa
 ---

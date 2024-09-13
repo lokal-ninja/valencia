@@ -1,5 +1,5 @@
 ---
 title: "Sual"
 url: /alzira/sual/
-shop: Eisenwaren
+shop: hardware
 ---

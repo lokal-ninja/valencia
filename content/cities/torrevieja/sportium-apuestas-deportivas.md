@@ -1,5 +1,5 @@
 ---
 title: "Sportium Apuestas Deportivas"
 url: /torrevieja/sportium-apuestas-deportivas/
-shop: Wettbüro
+shop: corredor de apuestas
 ---

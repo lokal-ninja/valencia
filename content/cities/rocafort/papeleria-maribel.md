@@ -1,5 +1,5 @@
 ---
 title: "Papelería Maribel"
 url: /rocafort/papeleria-maribel/
-shop: Schreibwaren
+shop: material de oficina
 ---

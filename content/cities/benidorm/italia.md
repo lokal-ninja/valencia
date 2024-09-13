@@ -1,5 +1,5 @@
 ---
 title: "Italia"
 url: /benidorm/italia/
-shop: Kleidung
+shop: ropa
 ---

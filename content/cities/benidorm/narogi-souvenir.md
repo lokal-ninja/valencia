@@ -1,5 +1,5 @@
 ---
 title: "Narogi Souvenir"
 url: /benidorm/narogi-souvenir/
-shop: Allgemein
+shop: general
 ---

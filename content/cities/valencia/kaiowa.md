@@ -1,5 +1,5 @@
 ---
 title: "Kaiowa"
 url: /valencia/kaiowa/
-shop: Taschen & Koffer
+shop: bolsas y maletas
 ---

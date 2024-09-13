@@ -1,5 +1,5 @@
 ---
 title: "Mobile Phone Service"
 url: /torrent/mobile-phone-service/
-shop: Handy
+shop: teléfono móvil
 ---

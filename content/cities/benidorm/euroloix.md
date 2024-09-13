@@ -1,5 +1,5 @@
 ---
 title: "Euroloix"
 url: /benidorm/euroloix/
-shop: Immobilien
+shop: agente inmobiliario
 ---

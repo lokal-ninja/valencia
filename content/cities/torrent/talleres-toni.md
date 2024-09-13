@@ -1,5 +1,5 @@
 ---
 title: "Talleres Toni"
 url: /torrent/talleres-toni/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Magarin"
 url: /torrent/magarin/
-shop: Wettbüro
+shop: corredor de apuestas
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Centro Estética Sapphiro"
 url: /torrent/centro-estetica-sapphiro/
-shop: Kosmetik
+shop: cosméticos
 ---

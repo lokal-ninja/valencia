@@ -1,5 +1,5 @@
 ---
 title: "Family Cash"
 url: /onteniente/family-cash/
-shop: Supermarkt
+shop: supermercado
 ---

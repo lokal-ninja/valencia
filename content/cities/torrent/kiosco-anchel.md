@@ -1,5 +1,5 @@
 ---
 title: "Kiosco Anchel"
 url: /torrent/kiosco-anchel/
-shop: Kiosk
+shop: quiosco
 ---

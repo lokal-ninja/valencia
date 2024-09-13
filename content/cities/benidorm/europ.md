@@ -1,5 +1,5 @@
 ---
 title: "Europ"
 url: /benidorm/europ/
-shop: Supermarkt
+shop: supermercado
 ---

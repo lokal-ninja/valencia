@@ -1,5 +1,5 @@
 ---
 title: "Superbotella"
 url: /valencia/superbotella/
-shop: Supermarkt
+shop: supermercado
 ---

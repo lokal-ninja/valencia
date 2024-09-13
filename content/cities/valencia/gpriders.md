@@ -1,5 +1,5 @@
 ---
 title: "GPriders"
 url: /valencia/gpriders/
-shop: Motorrad
+shop: motocicleta
 ---

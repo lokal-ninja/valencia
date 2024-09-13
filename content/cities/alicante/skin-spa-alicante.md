@@ -1,5 +1,5 @@
 ---
 title: "SKIN SPA ALICANTE"
 url: /alicante/skin-spa-alicante/
-shop: Kosmetik
+shop: cosméticos
 ---

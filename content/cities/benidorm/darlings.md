@@ -1,5 +1,5 @@
 ---
 title: "Darlings"
 url: /benidorm/darlings/
-shop: Tiersalon
+shop: peluquería canina
 ---

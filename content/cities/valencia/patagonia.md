@@ -1,5 +1,5 @@
 ---
 title: "Patagonia"
 url: /valencia/patagonia/
-shop: Bücher
+shop: libros
 ---

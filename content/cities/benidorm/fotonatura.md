@@ -1,5 +1,5 @@
 ---
 title: "Fotonatura"
 url: /benidorm/fotonatura/
-shop: Kosmetik
+shop: cosméticos
 ---

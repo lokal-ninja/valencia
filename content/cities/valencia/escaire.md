@@ -1,5 +1,5 @@
 ---
 title: "Escaire"
 url: /valencia/escaire/
-shop: Computer
+shop: ordenador
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Avenida"
 url: /benidorm/avenida-carrer-de-gambo/
-shop: Parfümerie
+shop: perfumería
 ---

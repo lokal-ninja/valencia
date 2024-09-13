@@ -1,5 +1,5 @@
 ---
 title: "The Outlet"
 url: /benidorm/the-outlet/
-shop: Schuhe
+shop: zapatos
 ---

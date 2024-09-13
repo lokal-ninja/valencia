@@ -1,5 +1,5 @@
 ---
 title: "Alsuper"
 url: /benidorm/alsuper/
-shop: Lebensmittel
+shop: comodidad
 ---

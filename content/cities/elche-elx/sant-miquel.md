@@ -1,5 +1,5 @@
 ---
 title: "Sant Miquel"
 url: /elche-elx/sant-miquel/
-shop: Schreibwaren
+shop: material de oficina
 ---

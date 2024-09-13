@@ -1,5 +1,5 @@
 ---
 title: "Aloe's"
 url: /torrevieja/aloes/
-shop: Kräuter
+shop: herbolario
 ---

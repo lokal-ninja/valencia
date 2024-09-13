@@ -1,5 +1,5 @@
 ---
 title: "Peluqueria El Diplomatico"
 url: /torrent/peluqueria-el-diplomatico/
-shop: Friseur
+shop: peluquería
 ---

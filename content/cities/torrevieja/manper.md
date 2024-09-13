@@ -1,5 +1,5 @@
 ---
 title: "Manper"
 url: /torrevieja/manper/
-shop: Supermarkt
+shop: supermercado
 ---

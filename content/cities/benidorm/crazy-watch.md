@@ -1,5 +1,5 @@
 ---
 title: "Crazy Watch"
 url: /benidorm/crazy-watch/
-shop: Uhren
+shop: relojes
 ---

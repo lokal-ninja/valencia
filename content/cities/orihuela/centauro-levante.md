@@ -1,5 +1,5 @@
 ---
 title: "Centauro Levante"
 url: /orihuela/centauro-levante/
-shop: Wettbüro
+shop: corredor de apuestas
 ---

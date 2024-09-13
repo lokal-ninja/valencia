@@ -1,5 +1,5 @@
 ---
 title: "Talleres Guerrero"
 url: /torrent/talleres-guerrero/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

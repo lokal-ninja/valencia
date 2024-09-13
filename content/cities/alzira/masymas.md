@@ -1,5 +1,5 @@
 ---
 title: "masymas"
 url: /alzira/masymas/
-shop: Supermarkt
+shop: supermercado
 ---

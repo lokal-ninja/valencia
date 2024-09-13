@@ -1,5 +1,5 @@
 ---
 title: "Amigo"
 url: /benidorm/amigo/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CopyPlace"
 url: /port-de-sagunt/copyplace/
-shop: Schreibwaren
+shop: material de oficina
 ---

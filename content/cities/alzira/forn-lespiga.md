@@ -1,5 +1,5 @@
 ---
 title: "Forn L'Espiga"
 url: /alzira/forn-lespiga/
-shop: Bäckerei
+shop: panadería
 ---

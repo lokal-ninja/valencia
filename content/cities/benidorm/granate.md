@@ -1,5 +1,5 @@
 ---
 title: "Granate"
 url: /benidorm/granate/
-shop: Foto
+shop: foto
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Talleres Pegauto"
 url: /torrent/talleres-pegauto/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Folder"
 url: /orihuela/folder/
-shop: Schreibwaren
+shop: material de oficina
 ---

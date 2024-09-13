@@ -1,5 +1,5 @@
 ---
 title: "Patukos"
 url: /torrent/patukos/
-shop: Kleidung
+shop: ropa
 ---

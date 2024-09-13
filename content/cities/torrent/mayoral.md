@@ -1,5 +1,5 @@
 ---
 title: "mayoral"
 url: /torrent/mayoral/
-shop: Kleidung
+shop: ropa
 ---

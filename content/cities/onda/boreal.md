@@ -1,5 +1,5 @@
 ---
 title: "Boreal"
 url: /onda/boreal/
-shop: Wäscherei
+shop: lavandería
 ---

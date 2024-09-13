@@ -1,5 +1,5 @@
 ---
 title: "Talleres Edumotor"
 url: /torrent/talleres-edumotor/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Akahai"
 url: /valencia/akahai/
-shop: Friseur
+shop: peluquería
 ---

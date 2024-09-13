@@ -1,5 +1,5 @@
 ---
 title: "Porter"
 url: /alzira/porter/
-shop: Kleidung
+shop: ropa
 ---

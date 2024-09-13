@@ -1,5 +1,5 @@
 ---
 title: "Audifon"
 url: /valencia/audifon/
-shop: Hörgeräte
+shop: audífonos
 ---

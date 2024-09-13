@@ -1,5 +1,5 @@
 ---
 title: "Quiosco San Miguel"
 url: /torrent/quiosco-san-miguel/
-shop: Kiosk
+shop: quiosco
 ---

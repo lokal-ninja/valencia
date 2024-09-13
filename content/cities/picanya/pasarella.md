@@ -1,5 +1,5 @@
 ---
 title: "Pasarella"
 url: /picanya/pasarella/
-shop: Schreibwaren
+shop: material de oficina
 ---

@@ -1,5 +1,5 @@
 ---
 title: "El Món d´Olaya"
 url: /alzira/el-mon-d-olaya/
-shop: Kiosk
+shop: quiosco
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Economy Cash"
 url: /torrevieja/economy-cash/
-shop: Supermarkt
+shop: supermercado
 ---

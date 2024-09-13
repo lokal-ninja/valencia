@@ -1,5 +1,5 @@
 ---
 title: "Jaume Joiers"
 url: /benifaio/jaume-joiers/
-shop: Schmuck
+shop: joyería
 ---

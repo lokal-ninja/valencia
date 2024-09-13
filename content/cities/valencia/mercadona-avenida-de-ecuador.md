@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
 url: /valencia/mercadona-avenida-de-ecuador/
-shop: Supermarkt
+shop: supermercado
 ---

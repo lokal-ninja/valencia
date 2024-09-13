@@ -1,5 +1,5 @@
 ---
 title: "Consum"
 url: /lalcudia/consum/
-shop: Supermarkt
+shop: supermercado
 ---

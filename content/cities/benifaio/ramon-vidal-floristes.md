@@ -1,5 +1,5 @@
 ---
 title: "Ramón Vidal Floristes"
 url: /benifaio/ramon-vidal-floristes/
-shop: Blumen
+shop: floristería
 ---

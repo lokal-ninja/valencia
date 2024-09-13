@@ -1,5 +1,5 @@
 ---
 title: "Megar"
 url: /elche-elx/megar/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CeX"
 url: /alicante/cex/
-shop: Elektronik
+shop: electrónica
 ---

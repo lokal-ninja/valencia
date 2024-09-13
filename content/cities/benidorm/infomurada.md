@@ -1,5 +1,5 @@
 ---
 title: "Infomurada"
 url: /benidorm/infomurada/
-shop: Computer
+shop: ordenador
 ---

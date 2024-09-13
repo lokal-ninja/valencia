@@ -1,5 +1,5 @@
 ---
 title: "Eivy Center"
 url: /elche-elx/eivy-center/
-shop: Kosmetik
+shop: cosméticos
 ---

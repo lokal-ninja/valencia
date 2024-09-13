@@ -1,5 +1,5 @@
 ---
 title: "Vici de Bici"
 url: /valencia/vici-de-bici/
-shop: Fahrrad
+shop: bicicleta
 ---

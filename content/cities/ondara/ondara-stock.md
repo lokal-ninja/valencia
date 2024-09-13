@@ -1,5 +1,5 @@
 ---
 title: "Ondara Stock"
 url: /ondara/ondara-stock/
-shop: Kramladen
+shop: tienda de variedades
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Diorel"
 url: /benidorm/diorel/
-shop: Kleidung
+shop: ropa
 ---

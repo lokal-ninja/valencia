@@ -1,5 +1,5 @@
 ---
 title: "RN Cars"
 url: /picanya/rn-cars/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

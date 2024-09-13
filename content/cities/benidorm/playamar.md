@@ -1,5 +1,5 @@
 ---
 title: "Playamar"
 url: /benidorm/playamar/
-shop: Kramladen
+shop: tienda de variedades
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Yoigo"
 url: /orihuela/yoigo/
-shop: Handy
+shop: teléfono móvil
 ---

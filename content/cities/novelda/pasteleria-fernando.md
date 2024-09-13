@@ -1,5 +1,5 @@
 ---
 title: "Pastelería Fernando"
 url: /novelda/pasteleria-fernando/
-shop: Süßwaren
+shop: confitería
 ---

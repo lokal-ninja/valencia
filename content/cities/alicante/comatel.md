@@ -1,5 +1,5 @@
 ---
 title: "Comatel"
 url: /alicante/comatel/
-shop: Elektronik
+shop: electrónica
 ---

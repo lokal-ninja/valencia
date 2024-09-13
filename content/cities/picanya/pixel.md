@@ -1,5 +1,5 @@
 ---
 title: "Pixel"
 url: /picanya/pixel/
-shop: Feinkost
+shop: charcutería
 ---

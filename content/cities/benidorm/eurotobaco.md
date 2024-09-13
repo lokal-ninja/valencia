@@ -1,5 +1,5 @@
 ---
 title: "Eurotobaco"
 url: /benidorm/eurotobaco/
-shop: Tabak
+shop: tabaco
 ---

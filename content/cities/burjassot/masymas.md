@@ -1,5 +1,5 @@
 ---
 title: "Masymas"
 url: /burjassot/masymas/
-shop: Supermarkt
+shop: supermercado
 ---

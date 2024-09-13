@@ -1,5 +1,5 @@
 ---
 title: "Apapánimú"
 url: /sella/apapanimu/
-shop: Kunst
+shop: arte
 ---

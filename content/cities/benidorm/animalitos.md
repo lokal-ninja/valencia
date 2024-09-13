@@ -1,5 +1,5 @@
 ---
 title: "Animalitos"
 url: /benidorm/animalitos/
-shop: Tiere
+shop: mascotas
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mazda Taller"
 url: /valencia/mazda-taller/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bwin Vulcano"
 url: /torrevieja/bwin-vulcano/
-shop: Wettbüro
+shop: corredor de apuestas
 ---

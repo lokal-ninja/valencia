@@ -1,5 +1,5 @@
 ---
 title: "Bohemian Vintage"
 url: /benidorm/bohemian-vintage/
-shop: Kleidung
+shop: ropa
 ---

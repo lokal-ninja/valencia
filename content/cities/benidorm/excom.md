@@ -1,5 +1,5 @@
 ---
 title: "Excom"
 url: /benidorm/excom/
-shop: Handy
+shop: teléfono móvil
 ---

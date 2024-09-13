@@ -1,5 +1,5 @@
 ---
 title: "Mediterráneo 17"
 url: /benidorm/mediterraneo-17/
-shop: Kleidung
+shop: ropa
 ---

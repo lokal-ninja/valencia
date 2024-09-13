@@ -1,5 +1,5 @@
 ---
 title: "Kooba"
 url: /benidorm/kooba/
-shop: Kleidung
+shop: ropa
 ---

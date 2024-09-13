@@ -1,5 +1,5 @@
 ---
 title: "Irene"
 url: /benidorm/irene/
-shop: Lebensmittel
+shop: comodidad
 ---

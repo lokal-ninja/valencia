@@ -1,5 +1,5 @@
 ---
 title: "Frutería Ximo"
 url: /torrent/fruteria-ximo/
-shop: Gemüse & Obst
+shop: frutería
 ---

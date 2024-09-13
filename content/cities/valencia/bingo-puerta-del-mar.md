@@ -1,5 +1,5 @@
 ---
 title: "Bingo Puerta del Mar"
 url: /valencia/bingo-puerta-del-mar/
-shop: Lotterie
+shop: lotería
 ---

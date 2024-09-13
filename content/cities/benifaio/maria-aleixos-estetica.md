@@ -1,5 +1,5 @@
 ---
 title: "Maria Aleixos Estètica"
 url: /benifaio/maria-aleixos-estetica/
-shop: Kosmetik
+shop: cosméticos
 ---

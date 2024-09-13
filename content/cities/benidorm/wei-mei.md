@@ -1,5 +1,5 @@
 ---
 title: "Wei Mei"
 url: /benidorm/wei-mei/
-shop: Kramladen
+shop: tienda de variedades
 ---

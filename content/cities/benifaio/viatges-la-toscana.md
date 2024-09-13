@@ -1,5 +1,5 @@
 ---
 title: "Viatges la Toscana"
 url: /benifaio/viatges-la-toscana/
-shop: Reisebüro
+shop: agencia de viajes
 ---

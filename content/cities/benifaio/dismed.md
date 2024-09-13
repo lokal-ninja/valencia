@@ -1,5 +1,5 @@
 ---
 title: "Dismed"
 url: /benifaio/dismed/
-shop: Schreibwaren
+shop: material de oficina
 ---

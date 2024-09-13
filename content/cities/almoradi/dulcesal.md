@@ -1,5 +1,5 @@
 ---
 title: "Dulcesal"
 url: /almoradi/dulcesal/
-shop: Bäckerei
+shop: panadería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Alliance Luxinvest"
 url: /benidorm/alliance-luxinvest/
-shop: Immobilien
+shop: agente inmobiliario
 ---

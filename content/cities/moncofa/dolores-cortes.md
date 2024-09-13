@@ -1,5 +1,5 @@
 ---
 title: "Dolores Cortes"
 url: /moncofa/dolores-cortes/
-shop: Friseur
+shop: peluquería
 ---

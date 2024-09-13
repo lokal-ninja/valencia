@@ -1,5 +1,5 @@
 ---
 title: "Imagenfoto"
 url: /torrevieja/imagenfoto/
-shop: Foto
+shop: foto
 ---

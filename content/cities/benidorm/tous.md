@@ -1,5 +1,5 @@
 ---
 title: "Tous"
 url: /benidorm/tous/
-shop: Schmuck
+shop: joyería
 ---

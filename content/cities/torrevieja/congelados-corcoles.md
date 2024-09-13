@@ -1,5 +1,5 @@
 ---
 title: "Congelados Corcoles"
 url: /torrevieja/congelados-corcoles/
-shop: Fisch
+shop: marisco
 ---

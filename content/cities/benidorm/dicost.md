@@ -1,5 +1,5 @@
 ---
 title: "Dicost"
 url: /benidorm/dicost/
-shop: Supermarkt
+shop: supermercado
 ---

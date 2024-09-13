@@ -1,5 +1,5 @@
 ---
 title: "Ja Bonita"
 url: /torrevieja/ja-bonita/
-shop: Drogerie
+shop: farmacia
 ---

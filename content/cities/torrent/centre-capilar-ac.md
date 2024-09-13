@@ -1,5 +1,5 @@
 ---
 title: "Centre Capilar Ac"
 url: /torrent/centre-capilar-ac/
-shop: Kosmetik
+shop: cosméticos
 ---

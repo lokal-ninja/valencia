@@ -1,5 +1,5 @@
 ---
 title: "El Meskini"
 url: /torrevieja/el-meskini/
-shop: Handy
+shop: teléfono móvil
 ---

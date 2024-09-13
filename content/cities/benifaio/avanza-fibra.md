@@ -1,5 +1,5 @@
 ---
 title: "Avanza Fibra"
 url: /benifaio/avanza-fibra/
-shop: Handy
+shop: teléfono móvil
 ---

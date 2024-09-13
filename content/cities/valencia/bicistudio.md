@@ -1,5 +1,5 @@
 ---
 title: "Bicistudio"
 url: /valencia/bicistudio/
-shop: Fahrrad
+shop: bicicleta
 ---

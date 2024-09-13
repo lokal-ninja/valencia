@@ -1,5 +1,5 @@
 ---
 title: "Bambolina"
 url: /elche-elx/bambolina-carrer-bisbe-tormo/
-shop: Kleidung
+shop: ropa
 ---

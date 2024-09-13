@@ -1,5 +1,5 @@
 ---
 title: "Techos Calabuig"
 url: /valencia/techos-calabuig/
-shop: Baustoffe
+shop: comercio
 ---

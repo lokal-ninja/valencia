@@ -1,5 +1,5 @@
 ---
 title: "Rocamora"
 url: /torrevieja/rocamora/
-shop: Raumausstattung
+shop: decoración interior
 ---

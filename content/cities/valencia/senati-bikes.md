@@ -1,5 +1,5 @@
 ---
 title: "Senati Bikes"
 url: /valencia/senati-bikes/
-shop: Fahrrad
+shop: bicicleta
 ---

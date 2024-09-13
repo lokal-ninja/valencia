@@ -1,5 +1,5 @@
 ---
 title: "Carlin"
 url: /godella/carlin/
-shop: Schreibwaren
+shop: material de oficina
 ---

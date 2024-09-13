@@ -1,5 +1,5 @@
 ---
 title: "Navalent"
 url: /borriana-burriana/navalent/
-shop: Optiker
+shop: óptico
 ---

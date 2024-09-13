@@ -1,5 +1,5 @@
 ---
 title: "Sano"
 url: /torrent/sano/
-shop: Kleidung
+shop: ropa
 ---

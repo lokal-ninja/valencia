@@ -1,5 +1,5 @@
 ---
 title: "Milar Fort"
 url: /benifaio/milar-fort/
-shop: Haushaltsgeräte
+shop: aparato
 ---

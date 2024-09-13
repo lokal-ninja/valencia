@@ -1,5 +1,5 @@
 ---
 title: "Bancocasa"
 url: /benidorm/bancocasa/
-shop: Immobilien
+shop: agente inmobiliario
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Bosch"
 url: /el-verger/ferreteria-bosch/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

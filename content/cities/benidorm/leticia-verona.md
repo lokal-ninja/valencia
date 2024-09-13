@@ -1,5 +1,5 @@
 ---
 title: "Leticia Verona"
 url: /benidorm/leticia-verona/
-shop: Kleidung
+shop: ropa
 ---

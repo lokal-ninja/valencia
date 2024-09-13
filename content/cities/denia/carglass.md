@@ -1,5 +1,5 @@
 ---
 title: "Carglass"
 url: /denia/carglass/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

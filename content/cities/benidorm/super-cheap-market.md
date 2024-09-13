@@ -1,5 +1,5 @@
 ---
 title: "Super Cheap Market"
 url: /benidorm/super-cheap-market/
-shop: Lebensmittel
+shop: comodidad
 ---

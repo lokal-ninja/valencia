@@ -1,5 +1,5 @@
 ---
 title: "Renault Ginestar Torrent"
 url: /torrent/renault-ginestar-torrent/
-shop: Autohaus
+shop: coche
 ---

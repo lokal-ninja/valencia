@@ -1,5 +1,5 @@
 ---
 title: "Sanct Bernhard"
 url: /benidorm/sanct-bernhard/
-shop: Kräuter
+shop: herbolario
 ---

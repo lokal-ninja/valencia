@@ -1,5 +1,5 @@
 ---
 title: "PCBOX"
 url: /denia/pcbox/
-shop: Computer
+shop: ordenador
 ---

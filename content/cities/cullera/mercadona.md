@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
 url: /cullera/mercadona/
-shop: Supermarkt
+shop: supermercado
 ---

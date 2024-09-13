@@ -1,5 +1,5 @@
 ---
 title: "Puntadas Invisibles"
 url: /valencia/puntadas-invisibles/
-shop: Schneiderei
+shop: sastre
 ---

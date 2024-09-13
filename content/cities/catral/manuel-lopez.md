@@ -1,5 +1,5 @@
 ---
 title: "Manuel López"
 url: /catral/manuel-lopez/
-shop: Metzgerei
+shop: carnicero
 ---

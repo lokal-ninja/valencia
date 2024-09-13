@@ -1,5 +1,5 @@
 ---
 title: "Maxi Supermarket"
 url: /benidorm/maxi-supermarket/
-shop: Kramladen
+shop: tienda de variedades
 ---

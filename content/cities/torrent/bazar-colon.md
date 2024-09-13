@@ -1,5 +1,5 @@
 ---
 title: "Bazar Colón"
 url: /torrent/bazar-colon/
-shop: Kramladen
+shop: tienda de variedades
 ---

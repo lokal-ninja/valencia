@@ -1,5 +1,5 @@
 ---
 title: "Aqua Multiespacio"
 url: /valencia/aqua-multiespacio/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

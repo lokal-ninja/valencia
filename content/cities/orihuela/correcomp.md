@@ -1,5 +1,5 @@
 ---
 title: "Correcomp"
 url: /orihuela/correcomp/
-shop: Kleidung
+shop: ropa
 ---

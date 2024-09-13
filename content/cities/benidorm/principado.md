@@ -1,5 +1,5 @@
 ---
 title: "Principado"
 url: /benidorm/principado/
-shop: Supermarkt
+shop: supermercado
 ---

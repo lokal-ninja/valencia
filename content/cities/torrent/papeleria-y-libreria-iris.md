@@ -1,5 +1,5 @@
 ---
 title: "Papelería y Librería Iris"
 url: /torrent/papeleria-y-libreria-iris/
-shop: Schreibwaren
+shop: material de oficina
 ---

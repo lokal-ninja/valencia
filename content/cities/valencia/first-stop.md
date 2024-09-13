@@ -1,5 +1,5 @@
 ---
 title: "First Stop"
 url: /valencia/first-stop/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fotoker"
 url: /torrent/fotoker/
-shop: Foto
+shop: foto
 ---

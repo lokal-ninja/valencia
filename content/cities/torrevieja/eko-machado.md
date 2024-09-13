@@ -1,5 +1,5 @@
 ---
 title: "Eko Machado"
 url: /torrevieja/eko-machado/
-shop: Schreibwaren
+shop: material de oficina
 ---

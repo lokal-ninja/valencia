@@ -1,5 +1,5 @@
 ---
 title: "El Mallero"
 url: /alcoi/el-mallero/
-shop: Textil
+shop: tela
 ---

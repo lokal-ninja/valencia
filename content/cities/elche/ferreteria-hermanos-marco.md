@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Hermanos Marco"
 url: /elche/ferreteria-hermanos-marco/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Alicia Ramírez"
 url: /valencia/alicia-ramirez/
-shop: Möbel
+shop: muebles
 ---

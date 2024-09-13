@@ -1,5 +1,5 @@
 ---
 title: "Bodegas Daniel"
 url: /benidorm/bodegas-daniel/
-shop: Spirituosen
+shop: alcohol
 ---

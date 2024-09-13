@@ -1,5 +1,5 @@
 ---
 title: "Bobby’s"
 url: /valencia/bobbys/
-shop: Tiersalon
+shop: peluquería canina
 ---

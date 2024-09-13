@@ -1,5 +1,5 @@
 ---
 title: "Sex Shop Alzira"
 url: /alzira/sex-shop-alzira/
-shop: Erotik
+shop: erótico
 ---

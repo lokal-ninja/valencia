@@ -1,5 +1,5 @@
 ---
 title: "Hongdu"
 url: /benidorm/hongdu/
-shop: Friseur
+shop: peluquería
 ---

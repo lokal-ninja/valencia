@@ -1,5 +1,5 @@
 ---
 title: "Viajes MI-Sol"
 url: /elche-elx/viajes-mi-sol/
-shop: Reisebüro
+shop: agencia de viajes
 ---

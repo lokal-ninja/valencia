@@ -1,5 +1,5 @@
 ---
 title: "Quisco Palasí"
 url: /onda/quisco-palasi/
-shop: Kiosk
+shop: quiosco
 ---

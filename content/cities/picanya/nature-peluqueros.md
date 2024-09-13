@@ -1,5 +1,5 @@
 ---
 title: "Nature Peluqueros"
 url: /picanya/nature-peluqueros/
-shop: Friseur
+shop: peluquería
 ---

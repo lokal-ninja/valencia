@@ -1,5 +1,5 @@
 ---
 title: "Mira Mira"
 url: /benidorm/mira-mira/
-shop: Kleidung
+shop: ropa
 ---

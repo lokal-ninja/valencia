@@ -1,5 +1,5 @@
 ---
 title: "Evaristo Peluqueros Barberos"
 url: /torrent/evaristo-peluqueros-barberos/
-shop: Friseur
+shop: peluquería
 ---

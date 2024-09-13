@@ -1,5 +1,5 @@
 ---
 title: "Amplifon"
 url: /elche-elx/amplifon/
-shop: Hörgeräte
+shop: audífonos
 ---

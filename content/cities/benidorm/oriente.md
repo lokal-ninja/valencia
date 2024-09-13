@@ -1,5 +1,5 @@
 ---
 title: "Oriente"
 url: /benidorm/oriente/
-shop: Supermarkt
+shop: supermercado
 ---

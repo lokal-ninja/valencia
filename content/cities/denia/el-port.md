@@ -1,5 +1,5 @@
 ---
 title: "El Port"
 url: /denia/el-port/
-shop: Kiosk
+shop: quiosco
 ---

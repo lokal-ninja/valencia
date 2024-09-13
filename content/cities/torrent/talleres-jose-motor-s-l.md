@@ -1,5 +1,5 @@
 ---
 title: "Talleres Jose Motor, S.L"
 url: /torrent/talleres-jose-motor-s-l/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Syolo"
 url: /benidorm/syolo/
-shop: Friseur
+shop: peluquería
 ---

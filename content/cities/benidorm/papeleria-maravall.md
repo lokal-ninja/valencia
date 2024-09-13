@@ -1,5 +1,5 @@
 ---
 title: "Papelería Maravall"
 url: /benidorm/papeleria-maravall/
-shop: Schreibwaren
+shop: material de oficina
 ---

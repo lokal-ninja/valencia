@@ -1,5 +1,5 @@
 ---
 title: "Abordo"
 url: /benifaio/abordo/
-shop: Tiefkühl
+shop: alimentos congelados
 ---

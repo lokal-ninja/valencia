@@ -1,5 +1,5 @@
 ---
 title: "Custom Store"
 url: /torrevieja/custom-store/
-shop: Kleidung
+shop: ropa
 ---

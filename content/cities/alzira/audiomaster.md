@@ -1,5 +1,5 @@
 ---
 title: "Audiomaster"
 url: /alzira/audiomaster/
-shop: Videospiele
+shop: videojuegos
 ---

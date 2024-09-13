@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /elche/action/
-shop: Kramladen
+shop: tienda de variedades
 ---

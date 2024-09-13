@@ -1,5 +1,5 @@
 ---
 title: "Intersport"
 url: /ontinyent/intersport/
-shop: Sport
+shop: deportes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Renault Retail Group"
 url: /valencia/renault-retail-group/
-shop: Autohaus
+shop: coche
 ---

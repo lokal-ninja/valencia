@@ -1,5 +1,5 @@
 ---
 title: "Milar Vidal"
 url: /denia/milar-vidal-carrer-ramon-y-cajal/
-shop: Elektronik
+shop: electrónica
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Scrappy Coco"
 url: /benidorm/scrappy-coco/
-shop: Tiersalon
+shop: peluquería canina
 ---

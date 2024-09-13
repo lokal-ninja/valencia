@@ -1,5 +1,5 @@
 ---
 title: "Herrero Automoción"
 url: /torrent/herrero-automocion/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

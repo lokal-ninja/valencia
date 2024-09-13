@@ -1,5 +1,5 @@
 ---
 title: "Pamela"
 url: /benidorm/pamela/
-shop: Friseur
+shop: peluquería
 ---

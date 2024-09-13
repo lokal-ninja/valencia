@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
 url: /borriana-burriana/mercadona/
-shop: Supermarkt
+shop: supermercado
 ---

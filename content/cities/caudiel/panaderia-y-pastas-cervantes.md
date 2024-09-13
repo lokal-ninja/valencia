@@ -1,5 +1,5 @@
 ---
 title: "Panadería y Pastas Cervantes"
 url: /caudiel/panaderia-y-pastas-cervantes/
-shop: Bäckerei
+shop: panadería
 ---

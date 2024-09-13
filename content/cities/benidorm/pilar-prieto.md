@@ -1,5 +1,5 @@
 ---
 title: "Pilar Prieto"
 url: /benidorm/pilar-prieto/
-shop: Kleidung
+shop: ropa
 ---

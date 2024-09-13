@@ -1,5 +1,5 @@
 ---
 title: "TorreColor"
 url: /torrevieja/torrecolor/
-shop: Farben
+shop: pintura
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Benydonat"
 url: /llocnou-de-la-corona/benydonat/
-shop: Allgemein
+shop: general
 ---

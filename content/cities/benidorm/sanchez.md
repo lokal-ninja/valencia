@@ -1,5 +1,5 @@
 ---
 title: "Sánchez"
 url: /benidorm/sanchez/
-shop: Bäckerei
+shop: panadería
 ---

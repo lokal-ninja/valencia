@@ -1,5 +1,5 @@
 ---
 title: "Kiosco Piruletas"
 url: /picanya/kiosco-piruletas/
-shop: Kiosk
+shop: quiosco
 ---

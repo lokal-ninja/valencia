@@ -1,5 +1,5 @@
 ---
 title: "Calzados San Juan"
 url: /alzira/calzados-san-juan/
-shop: Schuhe
+shop: zapatos
 ---

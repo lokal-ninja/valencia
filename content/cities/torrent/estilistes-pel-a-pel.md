@@ -1,5 +1,5 @@
 ---
 title: "Estilistes Pel A Pel"
 url: /torrent/estilistes-pel-a-pel/
-shop: Kosmetik
+shop: cosméticos
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Consum"
 url: /alacant/consum/
-shop: Supermarkt
+shop: supermercado
 ---

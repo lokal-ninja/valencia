@@ -1,5 +1,5 @@
 ---
 title: "General Óptica"
 url: /elche-elx/general-optica/
-shop: Optiker
+shop: óptico
 ---

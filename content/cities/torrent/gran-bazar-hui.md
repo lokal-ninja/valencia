@@ -1,5 +1,5 @@
 ---
 title: "Gran Bazar Hui"
 url: /torrent/gran-bazar-hui/
-shop: Kramladen
+shop: tienda de variedades
 ---

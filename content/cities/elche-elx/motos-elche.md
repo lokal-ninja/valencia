@@ -1,5 +1,5 @@
 ---
 title: "Motos Elche"
 url: /elche-elx/motos-elche/
-shop: Motorrad
+shop: motocicleta
 ---

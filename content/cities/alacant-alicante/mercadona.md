@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
 url: /alacant-alicante/mercadona/
-shop: Supermarkt
+shop: supermercado
 ---

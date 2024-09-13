@@ -1,5 +1,5 @@
 ---
 title: "MaskMundo"
 url: /torrevieja/maskmundo/
-shop: Reisebüro
+shop: agencia de viajes
 ---

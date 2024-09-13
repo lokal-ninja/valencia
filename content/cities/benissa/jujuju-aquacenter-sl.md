@@ -1,5 +1,5 @@
 ---
 title: "Jujuju Aquacenter SL"
 url: /benissa/jujuju-aquacenter-sl/
-shop: Allgemein
+shop: general
 ---

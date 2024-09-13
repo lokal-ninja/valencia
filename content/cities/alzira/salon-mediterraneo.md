@@ -1,5 +1,5 @@
 ---
 title: "Salón Mediterráneo"
 url: /alzira/salon-mediterraneo/
-shop: Wettbüro
+shop: corredor de apuestas
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bazar La Golosina"
 url: /torrent/bazar-la-golosina/
-shop: Kramladen
+shop: tienda de variedades
 ---

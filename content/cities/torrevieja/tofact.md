@@ -1,5 +1,5 @@
 ---
 title: "Tofact"
 url: /torrevieja/tofact/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Papereria Papers"
 url: /alfarb/papereria-papers/
-shop: Schreibwaren
+shop: material de oficina
 ---

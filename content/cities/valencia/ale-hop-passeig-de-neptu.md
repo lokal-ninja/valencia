@@ -1,5 +1,5 @@
 ---
 title: "ALE-HOP"
 url: /valencia/ale-hop-passeig-de-neptu/
-shop: Andenken
+shop: regalo
 ---

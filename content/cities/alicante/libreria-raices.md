@@ -1,5 +1,5 @@
 ---
 title: "Librería Raíces"
 url: /alicante/libreria-raices/
-shop: Bücher
+shop: libros
 ---

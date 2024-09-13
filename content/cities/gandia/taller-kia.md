@@ -1,5 +1,5 @@
 ---
 title: "Taller Kia"
 url: /gandia/taller-kia/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

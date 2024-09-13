@@ -1,5 +1,5 @@
 ---
 title: "Hyundai Luxusport"
 url: /torrent/hyundai-luxusport/
-shop: Autohaus
+shop: coche
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Peluqueria Rosse"
 url: /torrent/peluqueria-rosse/
-shop: Friseur
+shop: peluquería
 ---

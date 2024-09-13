@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
 url: /leliana/vodafone/
-shop: Handy
+shop: teléfono móvil
 ---

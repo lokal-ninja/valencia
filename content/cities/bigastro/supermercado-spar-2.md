@@ -1,5 +1,5 @@
 ---
 title: "Supermercado Spar"
 url: /bigastro/supermercado-spar-2/
-shop: Supermarkt
+shop: supermercado
 ---

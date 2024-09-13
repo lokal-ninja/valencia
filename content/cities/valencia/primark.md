@@ -1,5 +1,5 @@
 ---
 title: "Primark"
 url: /valencia/primark/
-shop: Kleidung
+shop: ropa
 ---

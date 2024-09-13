@@ -1,5 +1,5 @@
 ---
 title: "Unipro"
 url: /valencia/unipro/
-shop: Kleidung
+shop: ropa
 ---

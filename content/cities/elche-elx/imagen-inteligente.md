@@ -1,5 +1,5 @@
 ---
 title: "Imagen Inteligente"
 url: /elche-elx/imagen-inteligente/
-shop: Friseur
+shop: peluquería
 ---

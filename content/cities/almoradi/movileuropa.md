@@ -1,5 +1,5 @@
 ---
 title: "Movileuropa"
 url: /almoradi/movileuropa/
-shop: Handy
+shop: teléfono móvil
 ---

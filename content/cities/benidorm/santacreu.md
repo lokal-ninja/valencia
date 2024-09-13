@@ -1,5 +1,5 @@
 ---
 title: "Santacreu"
 url: /benidorm/santacreu/
-shop: Friseur
+shop: peluquería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jamones Peiro"
 url: /torrent/jamones-peiro/
-shop: Metzgerei
+shop: carnicero
 ---

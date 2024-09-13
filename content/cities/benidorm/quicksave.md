@@ -1,5 +1,5 @@
 ---
 title: "Quicksave"
 url: /benidorm/quicksave/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Serge"
 url: /torrevieja/serge/
-shop: Uhren
+shop: relojes
 ---

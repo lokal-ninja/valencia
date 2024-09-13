@@ -1,5 +1,5 @@
 ---
 title: "Sprinter"
 url: /alzira/sprinter/
-shop: Sport
+shop: deportes
 ---

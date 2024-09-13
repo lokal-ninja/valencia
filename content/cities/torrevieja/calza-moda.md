@@ -1,5 +1,5 @@
 ---
 title: "Calza Moda"
 url: /torrevieja/calza-moda/
-shop: Schuhe
+shop: zapatos
 ---

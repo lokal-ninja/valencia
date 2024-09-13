@@ -1,5 +1,5 @@
 ---
 title: "Bicisprint"
 url: /canals/bicisprint/
-shop: Fahrrad
+shop: bicicleta
 ---

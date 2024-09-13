@@ -1,5 +1,5 @@
 ---
 title: "Inside"
 url: /torrent/inside/
-shop: Kleidung
+shop: ropa
 ---

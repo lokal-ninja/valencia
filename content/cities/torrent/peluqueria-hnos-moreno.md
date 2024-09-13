@@ -1,5 +1,5 @@
 ---
 title: "Peluqueria Hnos Moreno"
 url: /torrent/peluqueria-hnos-moreno/
-shop: Friseur
+shop: peluquería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /san-vicente-del-raspeig/action/
-shop: Kramladen
+shop: tienda de variedades
 ---

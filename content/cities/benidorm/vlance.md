@@ -1,5 +1,5 @@
 ---
 title: "Vlance"
 url: /benidorm/vlance/
-shop: Friseur
+shop: peluquería
 ---

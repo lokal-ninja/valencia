@@ -1,5 +1,5 @@
 ---
 title: "SpartanBikes"
 url: /benifaio/spartanbikes/
-shop: Fahrrad
+shop: bicicleta
 ---

@@ -1,5 +1,5 @@
 ---
 title: "La Karcutería"
 url: /alzira/la-karcuteria/
-shop: Supermarkt
+shop: supermercado
 ---

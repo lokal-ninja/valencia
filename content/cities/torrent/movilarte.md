@@ -1,5 +1,5 @@
 ---
 title: "Movilarte"
 url: /torrent/movilarte/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "cableworld"
 url: /aspe/cableworld/
-shop: Handy
+shop: teléfono móvil
 ---

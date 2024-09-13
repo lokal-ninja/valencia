@@ -1,5 +1,5 @@
 ---
 title: "Benidorm Mobility Rentals"
 url: /benidorm/benidorm-mobility-rentals/
-shop: Mieten
+shop: alquiler
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ferreteria Jove"
 url: /torrent/ferreteria-jove/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tot Natural"
 url: /elche-elx/tot-natural/
-shop: Kräuter
+shop: herbolario
 ---

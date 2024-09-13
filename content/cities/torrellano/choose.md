@@ -1,5 +1,5 @@
 ---
 title: "Choose"
 url: /torrellano/choose/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cyber-Montgó"
 url: /denia/cyber-montgo/
-shop: Kiosk
+shop: quiosco
 ---

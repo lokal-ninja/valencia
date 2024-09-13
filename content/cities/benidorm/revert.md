@@ -1,5 +1,5 @@
 ---
 title: "Revert"
 url: /benidorm/revert/
-shop: Lebensmittel
+shop: comodidad
 ---

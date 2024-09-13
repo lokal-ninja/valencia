@@ -1,5 +1,5 @@
 ---
 title: "Soltierra Viajes"
 url: /benidorm/soltierra-viajes/
-shop: Reisebüro
+shop: agencia de viajes
 ---

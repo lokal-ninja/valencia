@@ -1,5 +1,5 @@
 ---
 title: "Viste Tu Cama"
 url: /guardamar-del-segura/viste-tu-cama/
-shop: Möbel
+shop: muebles
 ---

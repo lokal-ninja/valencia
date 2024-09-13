@@ -1,5 +1,5 @@
 ---
 title: "Tau 17"
 url: /picanya/tau-17/
-shop: Friseur
+shop: peluquería
 ---

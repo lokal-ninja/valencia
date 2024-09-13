@@ -1,5 +1,5 @@
 ---
 title: "La Constructora"
 url: /alzira/la-constructora/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

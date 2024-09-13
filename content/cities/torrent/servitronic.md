@@ -1,5 +1,5 @@
 ---
 title: "Servitronic"
 url: /torrent/servitronic/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

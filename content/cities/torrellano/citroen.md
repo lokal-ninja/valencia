@@ -1,5 +1,5 @@
 ---
 title: "Citroën"
 url: /torrellano/citroen/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

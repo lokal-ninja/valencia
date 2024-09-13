@@ -1,5 +1,5 @@
 ---
 title: "Gamma"
 url: /benidorm/gamma/
-shop: Immobilien
+shop: agente inmobiliario
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Molina"
 url: /almoradi/molina/
-shop: Fisch
+shop: marisco
 ---

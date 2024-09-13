@@ -1,5 +1,5 @@
 ---
 title: "Tienda de China"
 url: /benifaio/tienda-de-china/
-shop: Kramladen
+shop: tienda de variedades
 ---

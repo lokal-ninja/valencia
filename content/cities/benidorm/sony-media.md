@@ -1,5 +1,5 @@
 ---
 title: "Sony Media"
 url: /benidorm/sony-media/
-shop: Handy
+shop: teléfono móvil
 ---

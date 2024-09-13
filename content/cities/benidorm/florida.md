@@ -1,5 +1,5 @@
 ---
 title: "Florida"
 url: /benidorm/florida/
-shop: Supermarkt
+shop: supermercado
 ---

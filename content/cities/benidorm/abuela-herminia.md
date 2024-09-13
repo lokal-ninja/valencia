@@ -1,5 +1,5 @@
 ---
 title: "Abuela Herminia"
 url: /benidorm/abuela-herminia/
-shop: Leerstehend
+shop: vacante
 ---

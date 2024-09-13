@@ -1,5 +1,5 @@
 ---
 title: "Euroelite Decoración"
 url: /alzira/euroelite-decoracion/
-shop: Raumausstattung
+shop: decoración interior
 ---

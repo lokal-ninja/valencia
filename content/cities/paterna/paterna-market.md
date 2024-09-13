@@ -1,5 +1,5 @@
 ---
 title: "Paterna Market"
 url: /paterna/paterna-market/
-shop: Lebensmittel
+shop: comodidad
 ---

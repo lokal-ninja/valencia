@@ -1,5 +1,5 @@
 ---
 title: "Peix-Fresc"
 url: /rotova/peix-fresc/
-shop: Fisch
+shop: marisco
 ---

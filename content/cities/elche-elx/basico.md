@@ -1,5 +1,5 @@
 ---
 title: "Básico"
 url: /elche-elx/basico/
-shop: Babysachen
+shop: artículos para bebés
 ---

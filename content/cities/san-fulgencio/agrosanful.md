@@ -1,5 +1,5 @@
 ---
 title: "Agrosanful"
 url: /san-fulgencio/agrosanful/
-shop: Landwirtschaftlich
+shop: agraria
 ---

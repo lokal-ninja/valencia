@@ -1,5 +1,5 @@
 ---
 title: "Muebles Torrellano"
 url: /torrellano/muebles-torrellano/
-shop: Möbel
+shop: muebles
 ---

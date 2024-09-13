@@ -1,5 +1,5 @@
 ---
 title: "Glassdrive"
 url: /torrent/glassdrive/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

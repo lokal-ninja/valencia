@@ -1,5 +1,5 @@
 ---
 title: "Consum"
 url: /xirivella/consum/
-shop: Supermarkt
+shop: supermercado
 ---

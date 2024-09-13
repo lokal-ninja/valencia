@@ -1,5 +1,5 @@
 ---
 title: "Gerveta"
 url: /valencia/gerveta/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

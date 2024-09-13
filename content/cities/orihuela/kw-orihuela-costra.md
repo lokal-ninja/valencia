@@ -1,5 +1,5 @@
 ---
 title: "KW Orihuela Costra"
 url: /orihuela/kw-orihuela-costra/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Specsavers"
 url: /benidorm/specsavers/
-shop: Optiker
+shop: óptico
 ---

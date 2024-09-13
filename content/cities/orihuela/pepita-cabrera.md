@@ -1,5 +1,5 @@
 ---
 title: "Pepita Cabrera"
 url: /orihuela/pepita-cabrera/
-shop: Metzgerei
+shop: carnicero
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bazar Alimentación Las 3B"
 url: /san-fulgencio/bazar-alimentacion-las-3b/
-shop: Kramladen
+shop: tienda de variedades
 ---

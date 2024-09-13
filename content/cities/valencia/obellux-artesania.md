@@ -1,5 +1,5 @@
 ---
 title: "Obellux artesanía"
 url: /valencia/obellux-artesania/
-shop: Basteln
+shop: artesanía
 ---

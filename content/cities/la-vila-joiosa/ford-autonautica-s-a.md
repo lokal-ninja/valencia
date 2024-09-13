@@ -1,5 +1,5 @@
 ---
 title: "Ford Autonáutica, S.A."
 url: /la-vila-joiosa/ford-autonautica-s-a/
-shop: Autohaus
+shop: coche
 ---

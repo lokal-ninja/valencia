@@ -1,5 +1,5 @@
 ---
 title: "masymas"
 url: /els-poblets/masymas/
-shop: Supermarkt
+shop: supermercado
 ---

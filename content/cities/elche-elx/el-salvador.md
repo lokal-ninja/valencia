@@ -1,5 +1,5 @@
 ---
 title: "El Salvador"
 url: /elche-elx/el-salvador/
-shop: Schreibwaren
+shop: material de oficina
 ---

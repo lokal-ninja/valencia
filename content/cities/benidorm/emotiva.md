@@ -1,5 +1,5 @@
 ---
 title: "Emotiva"
 url: /benidorm/emotiva/
-shop: Wettbüro
+shop: corredor de apuestas
 ---

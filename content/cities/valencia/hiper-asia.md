@@ -1,5 +1,5 @@
 ---
 title: "Hiper Asia"
 url: /valencia/hiper-asia/
-shop: Supermarkt
+shop: supermercado
 ---

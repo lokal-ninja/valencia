@@ -1,5 +1,5 @@
 ---
 title: "Perlas"
 url: /benidorm/perlas/
-shop: Schmuck
+shop: joyería
 ---

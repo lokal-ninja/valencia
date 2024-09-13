@@ -1,5 +1,5 @@
 ---
 title: "Santi"
 url: /orihuela/santi/
-shop: Metzgerei
+shop: carnicero
 ---

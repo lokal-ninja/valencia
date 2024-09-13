@@ -1,5 +1,5 @@
 ---
 title: "Taller Miquel"
 url: /benifaio/taller-miquel/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

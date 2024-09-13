@@ -1,5 +1,5 @@
 ---
 title: "Papereria Machí"
 url: /benifaio/papereria-machi/
-shop: Schreibwaren
+shop: material de oficina
 ---

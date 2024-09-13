@@ -1,5 +1,5 @@
 ---
 title: "El Gosset Content"
 url: /torrent/el-gosset-content/
-shop: Tiere
+shop: mascotas
 ---

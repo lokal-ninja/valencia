@@ -1,5 +1,5 @@
 ---
 title: "Elimays Salon"
 url: /benidorm/elimays-salon/
-shop: Friseur
+shop: peluquería
 ---

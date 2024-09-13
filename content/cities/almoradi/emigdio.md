@@ -1,5 +1,5 @@
 ---
 title: "Emigdio"
 url: /almoradi/emigdio/
-shop: Metzgerei
+shop: carnicero
 ---

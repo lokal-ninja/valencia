@@ -1,5 +1,5 @@
 ---
 title: "Eco Print Dénia"
 url: /denia/eco-print-denia/
-shop: Schreibwaren
+shop: material de oficina
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Óptica Clarvisión"
 url: /torrent/optica-clarvision/
-shop: Optiker
+shop: óptico
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Aproop! Telecom"
 url: /benifaio/aproop-telecom/
-shop: Handy
+shop: teléfono móvil
 ---

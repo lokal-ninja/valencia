@@ -1,5 +1,5 @@
 ---
 title: "Amor"
 url: /benidorm/amor/
-shop: Schmuck
+shop: joyería
 ---

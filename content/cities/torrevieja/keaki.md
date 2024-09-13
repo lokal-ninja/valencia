@@ -1,5 +1,5 @@
 ---
 title: "Keaki"
 url: /torrevieja/keaki/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

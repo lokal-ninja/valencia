@@ -1,5 +1,5 @@
 ---
 title: "Arboricultura Jordi Vicent"
 url: /alboraia/arboricultura-jordi-vicent/
-shop: Garten-Center
+shop: centro de jardinería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Joyería Martínez"
 url: /torrevieja/joyeria-martinez/
-shop: Schmuck
+shop: joyería
 ---

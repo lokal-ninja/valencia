@@ -1,5 +1,5 @@
 ---
 title: "Tartamalia"
 url: /torrent/tartamalia/
-shop: Süßwaren
+shop: confitería
 ---

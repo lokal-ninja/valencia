@@ -1,5 +1,5 @@
 ---
 title: "Aresso"
 url: /benidorm/aresso/
-shop: Schmuck
+shop: joyería
 ---

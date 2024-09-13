@@ -1,5 +1,5 @@
 ---
 title: "Bazar Denia"
 url: /denia/bazar-denia/
-shop: Kramladen
+shop: tienda de variedades
 ---

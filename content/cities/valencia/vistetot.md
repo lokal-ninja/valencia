@@ -1,5 +1,5 @@
 ---
 title: "Vistetot"
 url: /valencia/vistetot/
-shop: Kleidung
+shop: ropa
 ---

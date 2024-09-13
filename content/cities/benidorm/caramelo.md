@@ -1,5 +1,5 @@
 ---
 title: "Caramelo"
 url: /benidorm/caramelo/
-shop: Süßwaren
+shop: confitería
 ---

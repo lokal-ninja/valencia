@@ -1,5 +1,5 @@
 ---
 title: "Ikks Junior"
 url: /elche-elx/ikks-junior/
-shop: Babysachen
+shop: artículos para bebés
 ---

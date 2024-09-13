@@ -1,5 +1,5 @@
 ---
 title: "Talleres Valencia"
 url: /torrent/talleres-valencia/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

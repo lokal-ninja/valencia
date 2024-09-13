@@ -1,5 +1,5 @@
 ---
 title: "Limpiezas Alqueria SL"
 url: /valencia/limpiezas-alqueria-sl/
-shop: Allgemein
+shop: general
 ---

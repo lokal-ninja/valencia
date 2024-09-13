@@ -1,5 +1,5 @@
 ---
 title: "Warraich Frutas y Verduras"
 url: /torrent/warraich-frutas-y-verduras/
-shop: Gemüse & Obst
+shop: frutería
 ---

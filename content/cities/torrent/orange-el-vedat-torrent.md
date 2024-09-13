@@ -1,5 +1,5 @@
 ---
 title: "Orange El Vedat Torrent"
 url: /torrent/orange-el-vedat-torrent/
-shop: Handy
+shop: teléfono móvil
 ---

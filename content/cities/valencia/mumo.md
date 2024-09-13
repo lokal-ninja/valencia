@@ -1,5 +1,5 @@
 ---
 title: "Mumo"
 url: /valencia/mumo/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Super Euro"
 url: /benidorm/super-euro/
-shop: Kramladen
+shop: tienda de variedades
 ---

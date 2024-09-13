@@ -1,5 +1,5 @@
 ---
 title: "Nuevo Centro"
 url: /valencia/nuevo-centro/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

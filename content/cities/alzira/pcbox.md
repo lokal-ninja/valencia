@@ -1,5 +1,5 @@
 ---
 title: "PCBox"
 url: /alzira/pcbox/
-shop: Computer
+shop: ordenador
 ---

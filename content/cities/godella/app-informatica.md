@@ -1,5 +1,5 @@
 ---
 title: "APP Informática"
 url: /godella/app-informatica/
-shop: Computer
+shop: ordenador
 ---

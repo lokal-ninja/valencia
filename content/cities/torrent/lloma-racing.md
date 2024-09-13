@@ -1,5 +1,5 @@
 ---
 title: "Lloma Racing"
 url: /torrent/lloma-racing/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

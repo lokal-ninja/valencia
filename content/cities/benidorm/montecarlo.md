@@ -1,5 +1,5 @@
 ---
 title: "Montecarlo"
 url: /benidorm/montecarlo/
-shop: Friseur
+shop: peluquería
 ---

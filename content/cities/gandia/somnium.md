@@ -1,5 +1,5 @@
 ---
 title: "Somnium"
 url: /gandia/somnium/
-shop: Betten
+shop: cama
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Papeles Sahuquillo"
 url: /torrent/papeles-sahuquillo/
-shop: Schreibwaren
+shop: material de oficina
 ---

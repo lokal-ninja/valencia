@@ -1,5 +1,5 @@
 ---
 title: "Bodegas Riko"
 url: /xalo/bodegas-riko/
-shop: Wein
+shop: vino
 ---

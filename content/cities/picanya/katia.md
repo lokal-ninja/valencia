@@ -1,5 +1,5 @@
 ---
 title: "Katia"
 url: /picanya/katia/
-shop: Nähzubehör
+shop: coser
 ---

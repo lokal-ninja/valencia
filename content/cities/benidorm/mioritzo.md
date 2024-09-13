@@ -1,5 +1,5 @@
 ---
 title: "Mioritzo"
 url: /benidorm/mioritzo/
-shop: Supermarkt
+shop: supermercado
 ---

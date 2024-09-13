@@ -1,5 +1,5 @@
 ---
 title: "Hipermascota"
 url: /torrent/hipermascota/
-shop: Tiere
+shop: mascotas
 ---

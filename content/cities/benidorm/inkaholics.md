@@ -1,5 +1,5 @@
 ---
 title: "Inkaholics"
 url: /benidorm/inkaholics/
-shop: Tattoo
+shop: tatuaje
 ---

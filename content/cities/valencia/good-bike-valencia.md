@@ -1,5 +1,5 @@
 ---
 title: "Good Bike Valencia"
 url: /valencia/good-bike-valencia/
-shop: Fahrrad
+shop: bicicleta
 ---

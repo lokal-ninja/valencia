@@ -1,5 +1,5 @@
 ---
 title: "Tonterías"
 url: /elche-elx/tonterias/
-shop: Modehaus
+shop: tienda
 ---

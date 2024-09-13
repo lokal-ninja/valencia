@@ -1,5 +1,5 @@
 ---
 title: "SKANDALO"
 url: /torrevieja/skandalo/
-shop: Friseur
+shop: peluquería
 ---

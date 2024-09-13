@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
 url: /benifaio/mercadona/
-shop: Supermarkt
+shop: supermercado
 ---

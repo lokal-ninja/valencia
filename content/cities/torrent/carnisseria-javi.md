@@ -1,5 +1,5 @@
 ---
 title: "Carnisseria Javi"
 url: /torrent/carnisseria-javi/
-shop: Metzgerei
+shop: carnicero
 ---

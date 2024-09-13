@@ -1,5 +1,5 @@
 ---
 title: "Mudopan"
 url: /torrevieja/mudopan/
-shop: Bäckerei
+shop: panadería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Papelería Félix"
 url: /alicante/papeleria-felix/
-shop: Schreibwaren
+shop: material de oficina
 ---

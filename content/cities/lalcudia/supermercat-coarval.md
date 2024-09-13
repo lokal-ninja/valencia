@@ -1,5 +1,5 @@
 ---
 title: "Supermercat Coarval"
 url: /lalcudia/supermercat-coarval/
-shop: Supermarkt
+shop: supermercado
 ---

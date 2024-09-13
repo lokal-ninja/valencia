@@ -1,5 +1,5 @@
 ---
 title: "Zona Granater"
 url: /alzira/zona-granater/
-shop: Bioladen
+shop: alimentación sana
 ---

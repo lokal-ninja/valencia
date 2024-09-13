@@ -1,5 +1,5 @@
 ---
 title: "Tapinearte"
 url: /valencia/tapinearte/
-shop: Basteln
+shop: artesanía
 ---

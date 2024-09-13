@@ -1,5 +1,5 @@
 ---
 title: "Toka"
 url: /benidorm/toka/
-shop: Wettbüro
+shop: corredor de apuestas
 ---

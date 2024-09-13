@@ -1,5 +1,5 @@
 ---
 title: "Neumáticos Octavio Sapena"
 url: /torrent/neumaticos-octavio-sapena/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

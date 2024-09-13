@@ -1,5 +1,5 @@
 ---
 title: "The Travel Brand"
 url: /torrevieja/the-travel-brand/
-shop: Reisebüro
+shop: agencia de viajes
 ---

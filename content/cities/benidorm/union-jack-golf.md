@@ -1,5 +1,5 @@
 ---
 title: "Union Jack Golf"
 url: /benidorm/union-jack-golf/
-shop: Sport
+shop: deportes
 ---

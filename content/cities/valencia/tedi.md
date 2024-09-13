@@ -1,5 +1,5 @@
 ---
 title: "TEDi"
 url: /valencia/tedi/
-shop: Kramladen
+shop: tienda de variedades
 ---

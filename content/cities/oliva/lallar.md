@@ -1,5 +1,5 @@
 ---
 title: "lallar"
 url: /oliva/lallar/
-shop: Kamine & Öfen
+shop: horno y estufa
 ---

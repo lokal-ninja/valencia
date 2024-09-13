@@ -1,5 +1,5 @@
 ---
 title: "Todo para Hockey"
 url: /valencia/todo-para-hockey/
-shop: Sport
+shop: deportes
 ---

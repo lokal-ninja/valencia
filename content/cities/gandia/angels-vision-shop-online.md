@@ -1,5 +1,5 @@
 ---
 title: "Angels Vision (Shop-online)"
 url: /gandia/angels-vision-shop-online/
-shop: Optiker
+shop: óptico
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ga"
 url: /benidorm/ga/
-shop: Lebensmittel
+shop: comodidad
 ---

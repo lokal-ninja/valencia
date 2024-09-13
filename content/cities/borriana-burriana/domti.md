@@ -1,5 +1,5 @@
 ---
 title: "Domti"
 url: /borriana-burriana/domti/
-shop: Haushaltsartikel
+shop: menaje del hogar
 ---

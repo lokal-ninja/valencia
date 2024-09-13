@@ -1,5 +1,5 @@
 ---
 title: "Visionlab"
 url: /torrent/visionlab/
-shop: Optiker
+shop: óptico
 ---

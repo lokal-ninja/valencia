@@ -1,5 +1,5 @@
 ---
 title: "Tecneval"
 url: /torrent/tecneval/
-shop: Wäscherei
+shop: lavandería
 ---

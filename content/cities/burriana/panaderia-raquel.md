@@ -1,5 +1,5 @@
 ---
 title: "Panadería Raquel"
 url: /burriana/panaderia-raquel/
-shop: Bäckerei
+shop: panadería
 ---

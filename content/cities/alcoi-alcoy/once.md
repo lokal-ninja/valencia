@@ -1,5 +1,5 @@
 ---
 title: "ONCE"
 url: /alcoi-alcoy/once/
-shop: Lotterie
+shop: lotería
 ---

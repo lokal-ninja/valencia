@@ -1,5 +1,5 @@
 ---
 title: "Mini's"
 url: /almoradi/minis/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carniceria Rafael Garcia"
 url: /torrent/carniceria-rafael-garcia/
-shop: Metzgerei
+shop: carnicero
 ---

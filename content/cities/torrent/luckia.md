@@ -1,5 +1,5 @@
 ---
 title: "Luckia"
 url: /torrent/luckia/
-shop: Wettbüro
+shop: corredor de apuestas
 ---

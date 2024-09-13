@@ -1,5 +1,5 @@
 ---
 title: "LookSport"
 url: /torrevieja/looksport/
-shop: Sport
+shop: deportes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Benidorm Viajes"
 url: /benidorm/benidorm-viajes/
-shop: Reisebüro
+shop: agencia de viajes
 ---

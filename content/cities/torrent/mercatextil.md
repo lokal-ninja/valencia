@@ -1,5 +1,5 @@
 ---
 title: "Mercatextil"
 url: /torrent/mercatextil/
-shop: Kleidung
+shop: ropa
 ---

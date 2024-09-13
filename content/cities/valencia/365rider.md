@@ -1,5 +1,5 @@
 ---
 title: "365Rider"
 url: /valencia/365rider/
-shop: Sport
+shop: deportes
 ---

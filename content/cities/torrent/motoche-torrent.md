@@ -1,5 +1,5 @@
 ---
 title: "Motoche Torrent"
 url: /torrent/motoche-torrent/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

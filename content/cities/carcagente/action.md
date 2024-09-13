@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /carcagente/action/
-shop: Kramladen
+shop: tienda de variedades
 ---

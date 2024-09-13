@@ -1,5 +1,5 @@
 ---
 title: "Economicatel"
 url: /torrent/economicatel/
-shop: Handy
+shop: teléfono móvil
 ---

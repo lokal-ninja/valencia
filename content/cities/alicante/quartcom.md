@@ -1,5 +1,5 @@
 ---
 title: "QuartCom"
 url: /alicante/quartcom/
-shop: Elektronik
+shop: electrónica
 ---

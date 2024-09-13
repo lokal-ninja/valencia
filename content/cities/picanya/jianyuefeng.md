@@ -1,5 +1,5 @@
 ---
 title: "Jianyuefeng"
 url: /picanya/jianyuefeng/
-shop: Kosmetik
+shop: cosméticos
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
 url: /xirivella/mercadona-2/
-shop: Supermarkt
+shop: supermercado
 ---

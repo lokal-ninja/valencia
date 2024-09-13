@@ -1,5 +1,5 @@
 ---
 title: "Trenado"
 url: /torrent/trenado/
-shop: Taschen & Koffer
+shop: bolsas y maletas
 ---

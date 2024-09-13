@@ -1,5 +1,5 @@
 ---
 title: "Koker"
 url: /benidorm/koker/
-shop: Kleidung
+shop: ropa
 ---

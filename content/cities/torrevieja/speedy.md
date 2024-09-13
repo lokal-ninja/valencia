@@ -1,5 +1,5 @@
 ---
 title: "Speedy"
 url: /torrevieja/speedy/
-shop: Friseur
+shop: peluquería
 ---

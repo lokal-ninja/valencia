@@ -1,5 +1,5 @@
 ---
 title: "Charter"
 url: /valencia/charter/
-shop: Supermarkt
+shop: supermercado
 ---

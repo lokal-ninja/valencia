@@ -1,5 +1,5 @@
 ---
 title: "Wilder"
 url: /benidorm/wilder/
-shop: Kleidung
+shop: ropa
 ---

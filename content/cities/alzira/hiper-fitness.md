@@ -1,5 +1,5 @@
 ---
 title: "Hiper fitness"
 url: /alzira/hiper-fitness/
-shop: Sport
+shop: deportes
 ---

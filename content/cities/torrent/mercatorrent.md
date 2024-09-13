@@ -1,5 +1,5 @@
 ---
 title: "Mercatorrent"
 url: /torrent/mercatorrent/
-shop: Kramladen
+shop: tienda de variedades
 ---

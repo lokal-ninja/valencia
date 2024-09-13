@@ -1,5 +1,5 @@
 ---
 title: "Garcars"
 url: /valencia/garcars/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

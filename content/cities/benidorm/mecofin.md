@@ -1,5 +1,5 @@
 ---
 title: "Mecofin"
 url: /benidorm/mecofin/
-shop: Immobilien
+shop: agente inmobiliario
 ---

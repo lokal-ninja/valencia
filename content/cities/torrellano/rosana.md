@@ -1,5 +1,5 @@
 ---
 title: "Rosana"
 url: /torrellano/rosana/
-shop: Friseur
+shop: peluquería
 ---

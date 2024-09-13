@@ -1,5 +1,5 @@
 ---
 title: "Costa Loix"
 url: /benidorm/costa-loix/
-shop: Immobilien
+shop: agente inmobiliario
 ---

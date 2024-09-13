@@ -1,5 +1,5 @@
 ---
 title: "boovape"
 url: /benidorm/boovape/
-shop: E-Zigaretten
+shop: cigarrillo electrónico
 ---

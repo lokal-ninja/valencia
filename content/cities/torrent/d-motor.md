@@ -1,5 +1,5 @@
 ---
 title: "D. Motor"
 url: /torrent/d-motor/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

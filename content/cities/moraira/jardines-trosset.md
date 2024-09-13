@@ -1,5 +1,5 @@
 ---
 title: "Jardines Trosset"
 url: /moraira/jardines-trosset/
-shop: Garten-Center
+shop: centro de jardinería
 ---

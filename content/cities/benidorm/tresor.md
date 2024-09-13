@@ -1,5 +1,5 @@
 ---
 title: "Tresor"
 url: /benidorm/tresor/
-shop: Kleidung
+shop: ropa
 ---

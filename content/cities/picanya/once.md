@@ -1,5 +1,5 @@
 ---
 title: "ONCE"
 url: /picanya/once/
-shop: Lotterie
+shop: lotería
 ---

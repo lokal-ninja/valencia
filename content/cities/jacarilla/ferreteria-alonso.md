@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Alonso"
 url: /jacarilla/ferreteria-alonso/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

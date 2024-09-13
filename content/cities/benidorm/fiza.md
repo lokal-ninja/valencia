@@ -1,5 +1,5 @@
 ---
 title: "Fiza"
 url: /benidorm/fiza/
-shop: Kleidung
+shop: ropa
 ---

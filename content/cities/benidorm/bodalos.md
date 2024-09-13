@@ -1,5 +1,5 @@
 ---
 title: "Bódalo's"
 url: /benidorm/bodalos/
-shop: Kleidung
+shop: ropa
 ---

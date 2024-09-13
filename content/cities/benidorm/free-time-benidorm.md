@@ -1,5 +1,5 @@
 ---
 title: "Free Time Benidorm"
 url: /benidorm/free-time-benidorm/
-shop: Reisebüro
+shop: agencia de viajes
 ---

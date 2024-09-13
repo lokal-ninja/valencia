@@ -1,5 +1,5 @@
 ---
 title: "Peek A Boo"
 url: /benidorm/peek-a-boo/
-shop: Erotik
+shop: erótico
 ---

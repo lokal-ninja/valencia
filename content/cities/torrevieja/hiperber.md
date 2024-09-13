@@ -1,5 +1,5 @@
 ---
 title: "Hiperber"
 url: /torrevieja/hiperber/
-shop: Supermarkt
+shop: supermercado
 ---

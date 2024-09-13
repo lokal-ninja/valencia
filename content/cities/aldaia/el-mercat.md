@@ -1,5 +1,5 @@
 ---
 title: "El Mercat"
 url: /aldaia/el-mercat/
-shop: Kiosk
+shop: quiosco
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Espriu"
 url: /benidorm/espriu/
-shop: Schreibwaren
+shop: material de oficina
 ---

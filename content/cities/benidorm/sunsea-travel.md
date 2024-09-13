@@ -1,5 +1,5 @@
 ---
 title: "Sunsea Travel"
 url: /benidorm/sunsea-travel/
-shop: Reisebüro
+shop: agencia de viajes
 ---

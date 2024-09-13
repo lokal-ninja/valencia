@@ -1,5 +1,5 @@
 ---
 title: "Modas Atian"
 url: /guardamar-del-segura/modas-atian/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Casablanca"
 url: /alzira/casablanca/
-shop: Kleidung
+shop: ropa
 ---

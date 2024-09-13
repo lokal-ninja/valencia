@@ -1,5 +1,5 @@
 ---
 title: "Rosi"
 url: /benidorm/rosi/
-shop: Allgemein
+shop: general
 ---

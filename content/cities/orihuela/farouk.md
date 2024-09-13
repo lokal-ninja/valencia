@@ -1,5 +1,5 @@
 ---
 title: "Farouk"
 url: /orihuela/farouk/
-shop: Friseur
+shop: peluquería
 ---

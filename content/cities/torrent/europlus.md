@@ -1,5 +1,5 @@
 ---
 title: "Europlus"
 url: /torrent/europlus/
-shop: Kramladen
+shop: tienda de variedades
 ---

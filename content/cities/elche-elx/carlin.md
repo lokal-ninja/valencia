@@ -1,5 +1,5 @@
 ---
 title: "Carlin"
 url: /elche-elx/carlin/
-shop: Schreibwaren
+shop: material de oficina
 ---

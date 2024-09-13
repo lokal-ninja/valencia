@@ -1,5 +1,5 @@
 ---
 title: "Bazar Torrent"
 url: /torrent/bazar-torrent/
-shop: Kramladen
+shop: tienda de variedades
 ---
