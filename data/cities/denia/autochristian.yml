@@ -1,11 +1,11 @@
 id: 175754306
-type: way
+type: node
 latitude: 38.83852
 longitude: 0.09509
 postcode: "03700"
 city: Dénia
-street: "Partida Madrigueres Sud"
-housenumber: 4
-phone: "+34 965782454"
+street: Partida Madrigueres Sud
+housenumber: "4"
+phone: +34 965782454
 opening_hours: ""
-website: "https://www.autochristian.com/"
+website: https://www.autochristian.com/

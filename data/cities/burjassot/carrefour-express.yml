@@ -4,8 +4,8 @@ latitude: 39.51462
 longitude: -0.4131
 postcode: "46100"
 city: Burjassot
-street: "Avenida de María Ros"
-housenumber: 9
-phone: "+34 914 90 89 00"
-opening_hours: "Mo-Su 09:00-21:00"
-website: "https://www.carrefour.es/tiendas-carrefour/supermercados/carrefour-express/burjassot-valencia-s.aspx"
+street: Avenida de María Ros
+housenumber: "9"
+phone: +34 914 90 89 00
+opening_hours: Mo-Su 09:00-21:00
+website: https://www.carrefour.es/tiendas-carrefour/supermercados/carrefour-express/burjassot-valencia-s.aspx

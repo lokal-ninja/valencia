@@ -1,11 +1,11 @@
 id: 434719941
-type: way
+type: node
 latitude: 38.34709
 longitude: -0.76656
 postcode: "03680"
 city: Aspe
-street: "calle Parque Doctor Calatayud"
-housenumber: 21
+street: calle Parque Doctor Calatayud
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

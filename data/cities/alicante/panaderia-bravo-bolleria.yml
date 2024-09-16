@@ -1,11 +1,11 @@
 id: 287112351
-type: way
+type: node
 latitude: 38.34369
 longitude: -0.51097
 postcode: "03007"
 city: Alicante
-street: "calle de Asturias"
-housenumber: 
+street: calle de Asturias
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

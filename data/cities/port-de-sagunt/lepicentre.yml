@@ -1,11 +1,11 @@
 id: 437440385
-type: way
+type: node
 latitude: 39.67214
 longitude: -0.24889
 postcode: "46520"
 city: port de sagunt
-street: "Avinguda de l'Advocat Fausto Caruana"
-housenumber: 37
-phone: "+34 960045665"
+street: Avinguda de l'Advocat Fausto Caruana
+housenumber: "37"
+phone: +34 960045665
 opening_hours: ""
-website: "https://lepicentre.es/"
+website: https://lepicentre.es/

@@ -1,11 +1,11 @@
 id: 630756543
-type: way
+type: node
 latitude: 39.6026
 longitude: -0.58113
 postcode: "46180"
 city: Benaguasil
-street: "Carrer de Fray Luis Amigó"
-housenumber: 71
+street: Carrer de Fray Luis Amigó
+housenumber: "71"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:30"
+opening_hours: Mo-Sa 09:00-20:30
 website: ""

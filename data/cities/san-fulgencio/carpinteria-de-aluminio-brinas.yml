@@ -1,11 +1,11 @@
 id: 1124010894
-type: way
+type: node
 latitude: 38.11222
 longitude: -0.72374
 postcode: "03177"
 city: San Fulgencio
-street: "Calle Los Martinez"
-housenumber: 2
-phone: "+34 636 538 180;+34 608 425 454"
-opening_hours: "Mo-Fr 07:30-15:30"
-website: "https://www.aluminiosbrinas.com/"
+street: Calle Los Martinez
+housenumber: "2"
+phone: +34 636 538 180;+34 608 425 454
+opening_hours: Mo-Fr 07:30-15:30
+website: https://www.aluminiosbrinas.com/

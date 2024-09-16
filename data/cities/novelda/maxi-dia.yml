@@ -4,8 +4,8 @@ latitude: 38.37794
 longitude: -0.77035
 postcode: "03660"
 city: Novelda
-street: "avenida de los Reyes Católicos"
-housenumber: 107
-phone: "+34 682 617 088"
-opening_hours: "Mo-Sa 09:00-21:00"
+street: avenida de los Reyes Católicos
+housenumber: "107"
+phone: +34 682 617 088
+opening_hours: Mo-Sa 09:00-21:00
 website: ""

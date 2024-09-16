@@ -1,11 +1,11 @@
 id: 1233828234
-type: way
+type: node
 latitude: 39.4125
 longitude: -0.38687
 postcode: "46470"
 city: Massanassa
-street: "Avenida Generalitat Valenciana"
-housenumber: 18
-phone: "+34 963 219 802"
-opening_hours: "Mo-Sa 10:00-21:30"
+street: Avenida Generalitat Valenciana
+housenumber: "18"
+phone: +34 963 219 802
+opening_hours: Mo-Sa 10:00-21:30
 website: ""

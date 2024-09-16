@@ -1,11 +1,11 @@
 id: 702562279
-type: way
+type: node
 latitude: 39.11764
 longitude: -0.45277
 postcode: "46740"
 city: Carcaixent
-street: "Avinguda de la Lira Carcaixentina"
-housenumber: 2
+street: Avinguda de la Lira Carcaixentina
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

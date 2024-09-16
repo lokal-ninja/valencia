@@ -4,8 +4,8 @@ latitude: 38.0915
 longitude: -0.65485
 postcode: "03140"
 city: Guardamar del Segura
-street: "Carrer Major"
-housenumber: 22
-phone: "+34 965 72 86 15"
-opening_hours: "Mo-Fr 09:00-21:00; Mo-Fr 17:00-20:30; Sa-Su 09:00-13:00"
+street: Carrer Major
+housenumber: "22"
+phone: +34 965 72 86 15
+opening_hours: Mo-Fr 09:00-21:00; Mo-Fr 17:00-20:30; Sa-Su 09:00-13:00
 website: ""

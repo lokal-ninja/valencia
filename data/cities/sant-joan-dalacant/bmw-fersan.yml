@@ -1,11 +1,11 @@
 id: 25850185
-type: way
+type: node
 latitude: 38.39157
 longitude: -0.4339
 postcode: "03550"
 city: Sant Joan d'Alacant
 street: ""
-housenumber: 
-phone: "+34 672 769 056;+34 965 657 392"
-opening_hours: "Mo-Fr 09:15-13:45,16:30-20:00; Sa 10:00-13:30"
-website: "https://fersan.concesionariobmw.es"
+housenumber: ""
+phone: +34 672 769 056;+34 965 657 392
+opening_hours: Mo-Fr 09:15-13:45,16:30-20:00; Sa 10:00-13:30
+website: https://fersan.concesionariobmw.es

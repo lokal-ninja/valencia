@@ -1,11 +1,11 @@
 id: 772103033
-type: way
+type: node
 latitude: 38.9324
 longitude: -0.25828
 postcode: "46725"
 city: Ròtova
-street: "Carrer de Sant Josep"
-housenumber: 18
+street: Carrer de Sant Josep
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

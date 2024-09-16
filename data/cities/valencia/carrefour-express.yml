@@ -4,8 +4,8 @@ latitude: 39.47121
 longitude: -0.38509
 postcode: "46008"
 city: Valencia
-street: "Gran Via Ferran 'el Catòlic'"
-housenumber: 22
-phone: "+34 914 908900"
-opening_hours: "Mo-Sa 09:00-21:00; Su,PH 10:00-21:00"
-website: "https://www.carrefour.es/tiendas-carrefour/supermercados/carrefour-express/fernando-catolico-s.aspx"
+street: Gran Via Ferran 'el Catòlic'
+housenumber: "22"
+phone: +34 914 908900
+opening_hours: Mo-Sa 09:00-21:00; Su,PH 10:00-21:00
+website: https://www.carrefour.es/tiendas-carrefour/supermercados/carrefour-express/fernando-catolico-s.aspx

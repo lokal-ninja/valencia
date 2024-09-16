@@ -1,11 +1,11 @@
 id: 1278285113
-type: way
+type: node
 latitude: 38.1133
 longitude: -0.71871
 postcode: "03177"
 city: San Fulgencio
 street: ""
-housenumber: 1
+housenumber: "1"
 phone: "+34966794203"
-opening_hours: "Mo-Sa 07:00-14:00"
+opening_hours: Mo-Sa 07:00-14:00
 website: ""

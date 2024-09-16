@@ -1,11 +1,11 @@
 id: 1228268788
-type: way
+type: node
 latitude: 39.43319
 longitude: -0.43693
 postcode: "46210"
 city: Picanya
-street: "Avinguda de Jaume I el Conqueridor"
-housenumber: 1
+street: Avinguda de Jaume I el Conqueridor
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

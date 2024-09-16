@@ -1,11 +1,11 @@
 id: 1080736232
-type: way
+type: node
 latitude: 39.54544
 longitude: -0.57466
 postcode: "46190"
 city: Riba-roja de Túria
-street: "Carretera de Vilamarxant"
-housenumber: 99
-phone: "+34 962 772 584"
-opening_hours: "Mo-Sa 09:00-21:30"
-website: "https://info.mercadona.es/es/supermercados?s=46190.%20Riba%20-%20Roja%20de%20Turia%2C%20Valencia&k=883185312892"
+street: Carretera de Vilamarxant
+housenumber: "99"
+phone: +34 962 772 584
+opening_hours: Mo-Sa 09:00-21:30
+website: https://info.mercadona.es/es/supermercados?s=46190.%20Riba%20-%20Roja%20de%20Turia%2C%20Valencia&k=883185312892

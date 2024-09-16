@@ -1,11 +1,11 @@
 id: 1212808683
-type: way
+type: node
 latitude: 40.11675
 longitude: 0.15155
 postcode: "12594"
 city: Orpesa / Oropesa del Mar
-street: "Avenida Central"
-housenumber: 30
+street: Avenida Central
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""

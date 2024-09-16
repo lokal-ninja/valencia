@@ -4,8 +4,8 @@ latitude: 39.48396
 longitude: -0.36971
 postcode: "46010"
 city: València
-street: "Carrer d'Alboraia"
-housenumber: 39
-phone: "+34 963620654"
-opening_hours: "Mo-Sa 09:00-21:30"
-website: "https://www.mercadona.es"
+street: Carrer d'Alboraia
+housenumber: "39"
+phone: +34 963620654
+opening_hours: Mo-Sa 09:00-21:30
+website: https://www.mercadona.es

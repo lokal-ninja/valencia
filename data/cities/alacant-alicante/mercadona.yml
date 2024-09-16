@@ -4,8 +4,8 @@ latitude: 38.33973
 longitude: -0.4998
 postcode: "03007"
 city: Alacant / Alicante
-street: "avenida Catedrático Soler"
-housenumber: 40
+street: avenida Catedrático Soler
+housenumber: "40"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:00"
-website: "https://www.mercadona.es"
+opening_hours: Mo-Sa 09:00-21:00
+website: https://www.mercadona.es

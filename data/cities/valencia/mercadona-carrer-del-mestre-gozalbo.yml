@@ -4,8 +4,8 @@ latitude: 39.46582
 longitude: -0.36955
 postcode: "46005"
 city: València
-street: "Carrer del Mestre Gozalbo"
-housenumber: 5
-phone: "+34 963 955 087"
-opening_hours: "Mo-Sa 09:00-21:30"
-website: "https://www.mercadona.es"
+street: Carrer del Mestre Gozalbo
+housenumber: "5"
+phone: +34 963 955 087
+opening_hours: Mo-Sa 09:00-21:30
+website: https://www.mercadona.es

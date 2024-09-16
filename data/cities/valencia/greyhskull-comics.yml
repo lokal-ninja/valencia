@@ -4,8 +4,8 @@ latitude: 39.46361
 longitude: -0.34263
 postcode: "46022"
 city: València
-street: "Carrer del Mestre Valls"
-housenumber: 5
+street: Carrer del Mestre Valls
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 11:00-14:00,17:00-20:00; Su,PH off"
-website: "http://www.greyhskullcomics.com/"
+opening_hours: Mo-Sa 11:00-14:00,17:00-20:00; Su,PH off
+website: http://www.greyhskullcomics.com/

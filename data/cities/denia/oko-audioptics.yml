@@ -4,8 +4,8 @@ latitude: 38.84001
 longitude: 0.10618
 postcode: "03700"
 city: Dénia
-street: "Carrer Ramón y Cajal"
-housenumber: 5
-phone: "+34 965788751"
-opening_hours: "Tu-Fr,Mo,Sa 13:30-13:00,14:00-17:30"
+street: Carrer Ramón y Cajal
+housenumber: "5"
+phone: +34 965788751
+opening_hours: Tu-Fr,Mo,Sa 13:30-13:00,14:00-17:30
 website: ""

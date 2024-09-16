@@ -4,8 +4,8 @@ latitude: 37.97973
 longitude: -0.67655
 postcode: "03182"
 city: Torrevieja
-street: "Calle Antonio Machado"
-housenumber: 125
-phone: "+34 966 13 01 03"
-opening_hours: "Mo-Su 09:00-21:30"
-website: "https://www.mercadona.es"
+street: Calle Antonio Machado
+housenumber: "125"
+phone: +34 966 13 01 03
+opening_hours: Mo-Su 09:00-21:30
+website: https://www.mercadona.es

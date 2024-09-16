@@ -1,11 +1,11 @@
 id: 1177690023
-type: way
+type: node
 latitude: 39.44506
 longitude: -0.37046
 postcode: "46013"
 city: Valencia
-street: "Avinguda d'Ausiàs March"
-housenumber: 122
+street: Avinguda d'Ausiàs March
+housenumber: "122"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:30"
+opening_hours: Mo-Sa 09:00-21:30
 website: ""

@@ -4,8 +4,8 @@ latitude: 39.47785
 longitude: -0.37785
 postcode: "46003"
 city: Valencia
-street: "Plaça de l'Àngel"
-housenumber: 5
+street: Plaça de l'Àngel
+housenumber: "5"
 phone: "+34963922688"
-opening_hours: "09:00-19:00"
-website: "http://www.senatibikes.com"
+opening_hours: 09:00-19:00
+website: http://www.senatibikes.com

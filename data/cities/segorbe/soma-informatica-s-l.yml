@@ -4,8 +4,8 @@ latitude: 39.84695
 longitude: -0.48722
 postcode: "12400"
 city: Segorbe
-street: "Avenida de España"
-housenumber: 78
-phone: "+34 964 71 33 58"
-opening_hours: "Mo-Fr 09:00-20:00"
-website: "https://www.somainformatica.com"
+street: Avenida de España
+housenumber: "78"
+phone: +34 964 71 33 58
+opening_hours: Mo-Fr 09:00-20:00
+website: https://www.somainformatica.com

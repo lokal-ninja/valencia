@@ -4,8 +4,8 @@ latitude: 39.48566
 longitude: -0.36206
 postcode: "46020"
 city: València
-street: "Carrer d'Emili Baró"
-housenumber: 23
-phone: "+34 963 62 36 12"
-opening_hours: "Mo-Sa 09:00-21:30; Su,PH off"
-website: "https://www.mercadona.es"
+street: Carrer d'Emili Baró
+housenumber: "23"
+phone: +34 963 62 36 12
+opening_hours: Mo-Sa 09:00-21:30; Su,PH off
+website: https://www.mercadona.es

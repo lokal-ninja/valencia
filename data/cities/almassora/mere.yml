@@ -1,11 +1,11 @@
 id: 1306688422
-type: way
+type: node
 latitude: 39.94147
 longitude: -0.06057
 postcode: "12550"
 city: Almassora
-street: "Avenida Burriana"
-housenumber: 5
+street: Avenida Burriana
+housenumber: "5"
 phone: "658135156"
-opening_hours: "Mo-Sa 09:00-21:00"
-website: "https://www.meresp.com/"
+opening_hours: Mo-Sa 09:00-21:00
+website: https://www.meresp.com/

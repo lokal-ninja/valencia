@@ -1,11 +1,11 @@
 id: 288003936
-type: way
+type: node
 latitude: 38.53218
 longitude: -0.16596
 postcode: "03502"
 city: Benidorm
-street: "Carrer del Secretari Juan Antonio Baldoví"
-housenumber: 9
+street: Carrer del Secretari Juan Antonio Baldoví
+housenumber: "9"
 phone: ""
 opening_hours: ""
-website: "https://www.mercadona.es"
+website: https://www.mercadona.es

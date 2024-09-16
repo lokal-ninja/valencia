@@ -4,8 +4,8 @@ latitude: 39.4757
 longitude: -0.38483
 postcode: "46008"
 city: Valencia
-street: "Carrer Quart"
-housenumber: 64
+street: Carrer Quart
+housenumber: "64"
 phone: "+34963913534"
-opening_hours: "Mo-Fr 09:00-13:30,16:00-20:00;Sa 09:00-13:30"
-website: "https://www.ferreteriadols.com/"
+opening_hours: Mo-Fr 09:00-13:30,16:00-20:00;Sa 09:00-13:30
+website: https://www.ferreteriadols.com/

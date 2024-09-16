@@ -1,11 +1,11 @@
 id: 23776578
-type: way
+type: node
 latitude: 39.49313
 longitude: -0.38072
 postcode: ""
 city: Valencia
-street: "Cami de Montcada"
-housenumber: 83
+street: Cami de Montcada
+housenumber: "83"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:30"
+opening_hours: Mo-Sa 09:00-21:30
 website: ""

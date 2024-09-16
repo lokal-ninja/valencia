@@ -1,11 +1,11 @@
 id: 405201400
-type: way
+type: node
 latitude: 38.97032
 longitude: -0.58669
 postcode: "46690"
 city: L'Alcúdia de Crespins
-street: "Avinguda de la Pau"
-housenumber: 5
+street: Avinguda de la Pau
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

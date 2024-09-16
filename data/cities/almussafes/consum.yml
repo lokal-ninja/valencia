@@ -1,11 +1,11 @@
 id: 609157454
-type: way
+type: node
 latitude: 39.29488
 longitude: -0.41595
 postcode: "46440"
 city: Almussafes
-street: "Carrer de Ramon i Cajal"
-housenumber: 37
+street: Carrer de Ramon i Cajal
+housenumber: "37"
 phone: "+34961783866"
-opening_hours: "Mo-Fr 09:00-21:30"
-website: "https://tienda.consum.es/"
+opening_hours: Mo-Fr 09:00-21:30
+website: https://tienda.consum.es/

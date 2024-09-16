@@ -1,11 +1,11 @@
 id: 496729351
-type: way
+type: node
 latitude: 39.46639
 longitude: -0.37547
 postcode: "46004"
 city: València
-street: "Passatge del Doctor Serra"
-housenumber: 19
-phone: "+34 962 00 03 10"
-opening_hours: "Mo-Sa 10:00-22:00"
-website: "https://stores.primark.com/es_es/espana/ruzafa/passatge-doctor-serra-29"
+street: Passatge del Doctor Serra
+housenumber: "19"
+phone: +34 962 00 03 10
+opening_hours: Mo-Sa 10:00-22:00
+website: https://stores.primark.com/es_es/espana/ruzafa/passatge-doctor-serra-29

@@ -1,11 +1,11 @@
 id: 158593755
-type: way
+type: node
 latitude: 39.45314
 longitude: -0.35345
 postcode: "46013"
 city: València
-street: "Avinguda Professor López Piñero"
-housenumber: 16
-phone: "+34 963 95 70 12"
+street: Avinguda Professor López Piñero
+housenumber: "16"
+phone: +34 963 95 70 12
 opening_hours: ""
-website: "https://www.ccsaler.com"
+website: https://www.ccsaler.com

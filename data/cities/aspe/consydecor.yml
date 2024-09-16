@@ -1,11 +1,11 @@
 id: 1195636705
-type: way
+type: node
 latitude: 38.33108
 longitude: -0.78184
 postcode: "03680"
 city: Aspe
-street: "Carretera de Aspe a Los Hondones"
-housenumber: 
-phone: "+34 965 494 355"
-opening_hours: "Mo-Fr 08:00-13:00,15:00-20:00"
-website: "https://consydecor.com/"
+street: Carretera de Aspe a Los Hondones
+housenumber: ""
+phone: +34 965 494 355
+opening_hours: Mo-Fr 08:00-13:00,15:00-20:00
+website: https://consydecor.com/

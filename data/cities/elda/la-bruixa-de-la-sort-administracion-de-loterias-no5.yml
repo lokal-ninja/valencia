@@ -4,8 +4,8 @@ latitude: 38.47404
 longitude: -0.79422
 postcode: "03600"
 city: Elda
-street: "Calle Eduardo Dato"
-housenumber: 15
-phone: "+34 965 386 122"
-opening_hours: "Mo-Sa 09:00-13:30,17:30-20:30"
-website: "http://labruixadelasort.es/"
+street: Calle Eduardo Dato
+housenumber: "15"
+phone: +34 965 386 122
+opening_hours: Mo-Sa 09:00-13:30,17:30-20:30
+website: http://labruixadelasort.es/

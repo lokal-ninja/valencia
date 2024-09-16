@@ -4,8 +4,8 @@ latitude: 38.34336
 longitude: -0.51417
 postcode: "03007"
 city: Alicante
-street: "calle Ana Navarro"
-housenumber: 31
-phone: "+34 697769449"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://lavanderiautoservicioflor.es"
+street: calle Ana Navarro
+housenumber: "31"
+phone: +34 697769449
+opening_hours: Mo-Su 08:00-22:00
+website: https://lavanderiautoservicioflor.es

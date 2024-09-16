@@ -1,11 +1,11 @@
 id: 391737393
-type: way
+type: node
 latitude: 38.96268
 longitude: -0.58435
 postcode: "46650"
 city: Canals
-street: "Avinguda Jaume I"
-housenumber: 4
+street: Avinguda Jaume I
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

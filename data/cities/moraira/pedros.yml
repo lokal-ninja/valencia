@@ -1,11 +1,11 @@
 id: 184604926
-type: way
+type: node
 latitude: 38.68009
 longitude: 0.1144
 postcode: "03724"
 city: Moraira
-street: "carretera de Moraira a Calpe"
-housenumber: 236
+street: carretera de Moraira a Calpe
+housenumber: "236"
 phone: ""
 opening_hours: ""
 website: ""

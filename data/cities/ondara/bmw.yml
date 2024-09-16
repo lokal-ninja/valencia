@@ -1,11 +1,11 @@
 id: 665630641
-type: way
+type: node
 latitude: 38.82249
 longitude: 0.01937
 postcode: "03760"
 city: Ondara
-street: "Carrer Gonzalo Ortola"
-housenumber: 18
+street: Carrer Gonzalo Ortola
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00"
+opening_hours: Mo-Fr 09:00-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 965680072
-type: way
+type: node
 latitude: 39.38998
 longitude: -0.69778
 postcode: "46389"
 city: Turís
-street: "Calle N.3"
-housenumber: 4
+street: Calle N.3
+housenumber: "4"
 phone: "+34962527273"
-opening_hours: "Mo-Fr 08:00-20:30"
+opening_hours: Mo-Fr 08:00-20:30
 website: ""

@@ -1,11 +1,11 @@
 id: 437435041
-type: way
+type: node
 latitude: 39.66289
 longitude: -0.22578
 postcode: "46520"
 city: Port de Sagunt
-street: "Carrer del Palleter"
-housenumber: 
+street: Carrer del Palleter
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

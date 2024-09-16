@@ -1,11 +1,11 @@
 id: 1267224824
-type: way
+type: node
 latitude: 39.28912
 longitude: -0.42931
 postcode: "46450"
 city: Benifaió
-street: "Carrer de Picassent"
-housenumber: 1
-phone: "+34 961 78 25 29"
+street: Carrer de Picassent
+housenumber: "1"
+phone: +34 961 78 25 29
 opening_hours: ""
-website: "https://vestuarioesplugues.com/"
+website: https://vestuarioesplugues.com/

@@ -1,11 +1,11 @@
 id: 173549992
-type: way
+type: node
 latitude: 38.74263
 longitude: -0.01432
 postcode: ""
 city: Xaló
-street: "avinguda del Rei Juan Carlos I"
-housenumber: 29
-phone: "+34 96 6113211"
+street: avinguda del Rei Juan Carlos I
+housenumber: "29"
+phone: +34 96 6113211
 opening_hours: ""
 website: ""

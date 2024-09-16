@@ -1,11 +1,11 @@
 id: 906221126
-type: way
+type: node
 latitude: 39.46152
 longitude: -0.40699
 postcode: "46014"
 city: València
-street: "Carrer dels Traginers;Traginers"
-housenumber: 3
-phone: "+34 963 46 50 05"
+street: Carrer dels Traginers;Traginers
+housenumber: "3"
+phone: +34 963 46 50 05
 opening_hours: ""
-website: "https://mazdaalmenar.com/"
+website: https://mazdaalmenar.com/

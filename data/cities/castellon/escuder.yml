@@ -1,11 +1,11 @@
 id: 873149619
-type: way
+type: node
 latitude: 39.97972
 longitude: -0.01914
 postcode: "12003"
 city: Castellón
-street: "Avinguda dels Germans Bou"
-housenumber: 92
+street: Avinguda dels Germans Bou
+housenumber: "92"
 phone: ""
 opening_hours: ""
 website: ""

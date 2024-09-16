@@ -4,8 +4,8 @@ latitude: 39.5124
 longitude: -0.4175
 postcode: "46100"
 city: Burjassot
-street: "Calle de Hernán Cortés"
-housenumber: 17
+street: Calle de Hernán Cortés
+housenumber: "17"
 phone: ""
-opening_hours: "09:00-21:00"
-website: "http://www.masymas.com/es/"
+opening_hours: 09:00-21:00
+website: http://www.masymas.com/es/

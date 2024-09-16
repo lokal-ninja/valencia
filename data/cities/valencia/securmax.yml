@@ -4,8 +4,8 @@ latitude: 39.46566
 longitude: -0.37102
 postcode: "46005"
 city: Valencia
-street: "Gran Via del Marqués del Túria"
-housenumber: 18
-phone: "+34 963 225 696"
-opening_hours: "Mo-Fr 09:00-14:00, 16:00-19:30"
-website: "https://www.securmax.es/"
+street: Gran Via del Marqués del Túria
+housenumber: "18"
+phone: +34 963 225 696
+opening_hours: Mo-Fr 09:00-14:00, 16:00-19:30
+website: https://www.securmax.es/

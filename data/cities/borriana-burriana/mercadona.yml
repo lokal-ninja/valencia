@@ -1,11 +1,11 @@
 id: 544891570
-type: way
+type: node
 latitude: 39.8917
 longitude: -0.08692
 postcode: "12530"
 city: Borriana / Burriana
-street: "Camí d'Onda"
-housenumber: 20
+street: Camí d'Onda
+housenumber: "20"
 phone: ""
 opening_hours: ""
-website: "https://www.mercadona.es"
+website: https://www.mercadona.es

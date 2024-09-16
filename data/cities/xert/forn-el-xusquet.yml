@@ -1,11 +1,11 @@
 id: 734620467
-type: way
+type: node
 latitude: 40.5196
 longitude: 0.1583
 postcode: "12360"
 city: Xert
-street: "Carrer de València"
-housenumber: 49
+street: Carrer de València
+housenumber: "49"
 phone: ""
 opening_hours: ""
 website: ""

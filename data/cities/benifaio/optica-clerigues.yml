@@ -1,11 +1,11 @@
 id: 1285882076
-type: way
+type: node
 latitude: 39.28578
 longitude: -0.4256
 postcode: "46450"
 city: Benifaió
-street: "Carrer de l'Àngel"
-housenumber: 15
+street: Carrer de l'Àngel
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 931186090
-type: way
+type: node
 latitude: 39.14898
 longitude: -0.44023
 postcode: "46600"
 city: Alzira
-street: "Avinguda de la Hispanidad"
-housenumber: 4
+street: Avinguda de la Hispanidad
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

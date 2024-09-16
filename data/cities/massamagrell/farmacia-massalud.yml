@@ -4,8 +4,8 @@ latitude: 39.5732
 longitude: -0.33075
 postcode: "46130"
 city: Massamagrell
-street: "Carrer del Metge Miguel Servet"
-housenumber: 52
+street: Carrer del Metge Miguel Servet
+housenumber: "52"
 phone: ""
-opening_hours: "Mo-Fr 08:30-21:00; Sa, Su 09:00-21:00"
-website: "http://farmaciamassalud.es/"
+opening_hours: Mo-Fr 08:30-21:00; Sa, Su 09:00-21:00
+website: http://farmaciamassalud.es/

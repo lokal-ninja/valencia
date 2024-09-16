@@ -4,8 +4,8 @@ latitude: 39.56648
 longitude: -0.52694
 postcode: "46183"
 city: l'Eliana
-street: "Avenida de las Cortes Valencianas"
-housenumber: 2
-phone: "+34 962 725 861"
-opening_hours: "Mo-Su 08:00-02:00"
-website: "https://www.supercor.es/supercor/cargarAplicacionCentro.do?identificador=171"
+street: Avenida de las Cortes Valencianas
+housenumber: "2"
+phone: +34 962 725 861
+opening_hours: Mo-Su 08:00-02:00
+website: https://www.supercor.es/supercor/cargarAplicacionCentro.do?identificador=171

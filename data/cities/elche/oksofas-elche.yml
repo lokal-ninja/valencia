@@ -1,11 +1,11 @@
 id: 504224843
-type: way
+type: node
 latitude: 38.25547
 longitude: -0.7515
 postcode: "03296"
 city: Elche
-street: "Carretera Elche - Crevillente"
-housenumber: 51
+street: Carretera Elche - Crevillente
+housenumber: "51"
 phone: ""
 opening_hours: ""
 website: ""

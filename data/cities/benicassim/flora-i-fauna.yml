@@ -4,8 +4,8 @@ latitude: 40.05604
 longitude: 0.06558
 postcode: ""
 city: Benicàssim
-street: "Carrer Sant Tomàs"
-housenumber: 110
-phone: "+34 964 74 23 62"
-opening_hours: "Mo-Fr 09:30-14:00,17:00-20:00; Sa 10:00-14:00; Su,PH off"
+street: Carrer Sant Tomàs
+housenumber: "110"
+phone: +34 964 74 23 62
+opening_hours: Mo-Fr 09:30-14:00,17:00-20:00; Sa 10:00-14:00; Su,PH off
 website: ""

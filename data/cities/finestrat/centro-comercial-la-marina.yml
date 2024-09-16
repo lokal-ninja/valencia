@@ -1,11 +1,11 @@
 id: 199518940
-type: way
+type: node
 latitude: 38.53883
 longitude: -0.1774
 postcode: "03509"
 city: Finestrat
-street: "Avinguda del País Valencià"
-housenumber: 2
+street: Avinguda del País Valencià
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Su 10:00-22:00"
-website: "https://www.cclamarina.com/"
+opening_hours: Mo-Su 10:00-22:00
+website: https://www.cclamarina.com/

@@ -1,11 +1,11 @@
 id: 836829845
-type: way
+type: node
 latitude: 38.16093
 longitude: -0.80085
 postcode: "03158"
 city: Catral
-street: "Calle San Juan"
-housenumber: 73
+street: Calle San Juan
+housenumber: "73"
 phone: ""
 opening_hours: ""
 website: ""

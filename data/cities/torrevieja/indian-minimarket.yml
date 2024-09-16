@@ -4,8 +4,8 @@ latitude: 37.97963
 longitude: -0.67575
 postcode: "03182"
 city: Torrevieja
-street: "Calle del Mar"
-housenumber: 50
-phone: "+34 965 70 47 85"
-opening_hours: "24/7"
+street: Calle del Mar
+housenumber: "50"
+phone: +34 965 70 47 85
+opening_hours: 24/7
 website: ""

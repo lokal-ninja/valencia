@@ -1,11 +1,11 @@
 id: 118251591
-type: way
+type: node
 latitude: 39.50126
 longitude: -0.40554
 postcode: "46100"
 city: Burjassot
-street: "Centro Comercial Parque Albán"
-housenumber: 
-phone: "+34 963 90 01 19"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://centro.norauto.es/valencia/burjassot/centro-comercial-alban-1?fc=false"
+street: Centro Comercial Parque Albán
+housenumber: ""
+phone: +34 963 90 01 19
+opening_hours: Mo-Su 07:00-22:00
+website: https://centro.norauto.es/valencia/burjassot/centro-comercial-alban-1?fc=false

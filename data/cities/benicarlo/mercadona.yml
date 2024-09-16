@@ -1,11 +1,11 @@
 id: 264914527
-type: way
+type: node
 latitude: 40.42101
 longitude: 0.42516
 postcode: "12580"
 city: Benicarló
-street: "Carrer del Mestre Serrano"
-housenumber: 22
+street: Carrer del Mestre Serrano
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:30; PH,Su off"
-website: "https://www.mercadona.es"
+opening_hours: Mo-Sa 09:00-21:30; PH,Su off
+website: https://www.mercadona.es

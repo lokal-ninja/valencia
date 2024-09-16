@@ -1,11 +1,11 @@
 id: 465224414
-type: way
+type: node
 latitude: 39.16349
 longitude: -0.42846
 postcode: "46600"
 city: Alzira
-street: "Avinguda de la Llibertat"
-housenumber: 1
-phone: "+34 962 22 99 99"
-opening_hours: "Mo-Sa 08:00-21:30"
-website: "https://www.bricodepot.es/tiendas/brico-depot-alzira"
+street: Avinguda de la Llibertat
+housenumber: "1"
+phone: +34 962 22 99 99
+opening_hours: Mo-Sa 08:00-21:30
+website: https://www.bricodepot.es/tiendas/brico-depot-alzira

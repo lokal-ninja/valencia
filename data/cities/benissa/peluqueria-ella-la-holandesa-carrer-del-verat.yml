@@ -1,11 +1,11 @@
 id: 1220076753
-type: way
+type: node
 latitude: 38.68653
 longitude: 0.0983
 postcode: "03720"
 city: Benissa
-street: "Carrer del Verat"
-housenumber: 10
+street: Carrer del Verat
+housenumber: "10"
 phone: "+34965747184"
-opening_hours: "Tu,We 09:00-18:00; Fr 09:00-18:00; Sa 09:00-14.00"
-website: "https://www.laholandesa.es"
+opening_hours: Tu,We 09:00-18:00; Fr 09:00-18:00; Sa 09:00-14.00
+website: https://www.laholandesa.es

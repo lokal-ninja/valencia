@@ -1,11 +1,11 @@
 id: 146978794
-type: way
+type: node
 latitude: 38.79877
 longitude: 0.03909
 postcode: "03750"
 city: Pedreguer
-street: "Carrer Pou del Posmò"
-housenumber: 5
+street: Carrer Pou del Posmò
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

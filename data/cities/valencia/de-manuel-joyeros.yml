@@ -4,8 +4,8 @@ latitude: 39.47122
 longitude: -0.3777
 postcode: "46002"
 city: Valencia
-street: "Carrer de Sant Vicent Màrtir"
-housenumber: 36
-phone: "+34 722721036"
-opening_hours: "Mo-Fr 09:00-14:00; Mo-Fr 17:00-20:00"
+street: Carrer de Sant Vicent Màrtir
+housenumber: "36"
+phone: +34 722721036
+opening_hours: Mo-Fr 09:00-14:00; Mo-Fr 17:00-20:00
 website: ""

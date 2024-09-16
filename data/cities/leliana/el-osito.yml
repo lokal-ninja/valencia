@@ -1,11 +1,11 @@
 id: 35052732
-type: way
+type: node
 latitude: 39.57845
 longitude: -0.52839
 postcode: "46183"
 city: l'Eliana
-street: "Carrer de Tuéjar"
-housenumber: 
-phone: "+34 962 75 06 95"
-opening_hours: "Mo-Sa 10:00-22:00"
-website: "http://elosito.es/"
+street: Carrer de Tuéjar
+housenumber: ""
+phone: +34 962 75 06 95
+opening_hours: Mo-Sa 10:00-22:00
+website: http://elosito.es/

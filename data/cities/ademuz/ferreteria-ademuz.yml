@@ -4,8 +4,8 @@ latitude: 40.06379
 longitude: -1.28523
 postcode: "46140"
 city: Ademuz
-street: "Avenida Valencia"
-housenumber: 130
-phone: "+34 978 78 24 79"
-opening_hours: "Mo-Sa 09:30-13:30; Mo-Fr 17:00-20:00"
-website: "https://www.ferreteriaademuz.com/"
+street: Avenida Valencia
+housenumber: "130"
+phone: +34 978 78 24 79
+opening_hours: Mo-Sa 09:30-13:30; Mo-Fr 17:00-20:00
+website: https://www.ferreteriaademuz.com/

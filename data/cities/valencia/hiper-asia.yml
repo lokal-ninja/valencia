@@ -1,11 +1,11 @@
 id: 775222200
-type: way
+type: node
 latitude: 39.46476
 longitude: -0.37877
 postcode: "46007"
 city: València
-street: "Carrer de Bailén"
-housenumber: 7
-phone: "+34 662 388 388"
-opening_hours: "Mo-Su 10:00-21:00"
-website: "https://www.hiperasia.eu/"
+street: Carrer de Bailén
+housenumber: "7"
+phone: +34 662 388 388
+opening_hours: Mo-Su 10:00-21:00
+website: https://www.hiperasia.eu/

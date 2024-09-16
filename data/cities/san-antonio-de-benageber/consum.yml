@@ -1,11 +1,11 @@
 id: 359566300
-type: way
+type: node
 latitude: 39.57568
 longitude: -0.51535
 postcode: "46184"
 city: San Antonio de Benagéber
-street: "Avenida Pobla de Vallbona"
-housenumber: 41
-phone: "+34 96 165 68 08"
-opening_hours: "Mo-Sa 09:00-21:30; PH off"
-website: "https://www.consum.es/directory/listing/san-antonio-de-benageber-montesano"
+street: Avenida Pobla de Vallbona
+housenumber: "41"
+phone: +34 96 165 68 08
+opening_hours: Mo-Sa 09:00-21:30; PH off
+website: https://www.consum.es/directory/listing/san-antonio-de-benageber-montesano

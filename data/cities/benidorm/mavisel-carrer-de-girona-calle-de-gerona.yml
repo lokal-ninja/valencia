@@ -4,8 +4,8 @@ latitude: 38.53808
 longitude: -0.12123
 postcode: "03503"
 city: Benidorm
-street: "Carrer de Girona - Calle de Gerona"
-housenumber: 9
-phone: "+34 965 850 323"
+street: Carrer de Girona - Calle de Gerona
+housenumber: "9"
+phone: +34 965 850 323
 opening_hours: ""
-website: "https://www.mavisel.com/"
+website: https://www.mavisel.com/

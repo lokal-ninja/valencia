@@ -1,11 +1,11 @@
 id: 685801041
-type: way
+type: node
 latitude: 38.25938
 longitude: -0.71097
 postcode: "03204"
 city: Elche/Elx
-street: "calle Pedro Juan Perpinyán"
-housenumber: 100
+street: calle Pedro Juan Perpinyán
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

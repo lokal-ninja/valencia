@@ -1,11 +1,11 @@
 id: 1303050425
-type: way
+type: node
 latitude: 40.35701
 longitude: 0.02983
 postcode: "12140"
 city: Albocàsser
-street: "Carrer les Tornes"
-housenumber: 8
+street: Carrer les Tornes
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 39.9265
 longitude: -0.19905
 postcode: "12549"
 city: Betxi
-street: "Carrer De Francisco Albiach"
-housenumber: 4
+street: Carrer De Francisco Albiach
+housenumber: "4"
 phone: "+34964622017"
-opening_hours: "Mo-Su 09:00-21:30"
-website: "https://www.masymas.com/es/"
+opening_hours: Mo-Su 09:00-21:30
+website: https://www.masymas.com/es/

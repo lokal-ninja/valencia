@@ -1,11 +1,11 @@
 id: 1106934094
-type: way
+type: node
 latitude: 39.89101
 longitude: -0.08744
 postcode: "12530"
 city: Borriana / Burriana
-street: "Camí d'Onda"
-housenumber: 13
+street: Camí d'Onda
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Sa 09:30-21:30"
-website: "https://midiashops.com/"
+opening_hours: Mo-Sa 09:30-21:30
+website: https://midiashops.com/

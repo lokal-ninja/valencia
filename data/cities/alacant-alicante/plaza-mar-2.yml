@@ -1,11 +1,11 @@
 id: 22824287
-type: way
+type: node
 latitude: 38.35559
 longitude: -0.47112
 postcode: "03016"
 city: Alacant / Alicante
-street: "Avinguda de Dénia"
-housenumber: 
+street: Avinguda de Dénia
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Th 09:00-24:00, Fr-Su 09:00-01:00"
-website: "https://www.plazamar2.com/"
+opening_hours: Mo-Th 09:00-24:00, Fr-Su 09:00-01:00
+website: https://www.plazamar2.com/

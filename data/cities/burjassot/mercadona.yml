@@ -1,11 +1,11 @@
 id: 147133845
-type: way
+type: node
 latitude: 39.51209
 longitude: -0.41092
 postcode: "46100"
 city: Burjassot
-street: "Plaça de Francisca Navarro"
-housenumber: 8
-phone: "+34 963 63 58 40"
-opening_hours: "Mo-Sa 09:00-21:30"
-website: "https://www.mercadona.es"
+street: Plaça de Francisca Navarro
+housenumber: "8"
+phone: +34 963 63 58 40
+opening_hours: Mo-Sa 09:00-21:30
+website: https://www.mercadona.es

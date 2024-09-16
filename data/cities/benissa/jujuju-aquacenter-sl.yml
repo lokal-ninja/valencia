@@ -1,11 +1,11 @@
 id: 245331223
-type: way
+type: node
 latitude: 38.72956
 longitude: 0.0748
 postcode: "03720"
 city: Benissa
-street: "Carrer d'Isaac Peral"
-housenumber: 39
-phone: "+34 965734025"
-opening_hours: "Mo-Fr 09:00-19:30; Sa 09:00-14:00"
+street: Carrer d'Isaac Peral
+housenumber: "39"
+phone: +34 965734025
+opening_hours: Mo-Fr 09:00-19:30; Sa 09:00-14:00
 website: ""

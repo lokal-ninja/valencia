@@ -1,11 +1,11 @@
 id: 252519911
-type: way
+type: node
 latitude: 39.43873
 longitude: -0.43234
 postcode: "46210"
 city: Picanya
-street: "Carrer de València"
-housenumber: 31
+street: Carrer de València
+housenumber: "31"
 phone: ""
 opening_hours: ""
-website: "https://www.mercadona.es"
+website: https://www.mercadona.es

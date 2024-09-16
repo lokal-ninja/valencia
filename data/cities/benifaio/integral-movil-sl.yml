@@ -1,11 +1,11 @@
 id: 1257567881
-type: way
+type: node
 latitude: 39.28419
 longitude: -0.42079
 postcode: "46450"
 city: Benifaió
-street: "Carrer del Músic Andrés Carreres"
-housenumber: 15
-phone: "+34 96 178 01 10"
+street: Carrer del Músic Andrés Carreres
+housenumber: "15"
+phone: +34 96 178 01 10
 opening_hours: ""
 website: ""

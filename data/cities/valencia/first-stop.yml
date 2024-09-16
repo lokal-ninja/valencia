@@ -4,8 +4,8 @@ latitude: 39.45345
 longitude: -0.37435
 postcode: "46006"
 city: valencia
-street: "Carrer Oltá"
-housenumber: 53
-phone: "+34 96 373 19 00"
-opening_hours: "Sa-We 08:30-20:00; Th 08:30-13:30"
-website: "https://www.firststop.es/valencia-firststop-olta"
+street: Carrer Oltá
+housenumber: "53"
+phone: +34 96 373 19 00
+opening_hours: Sa-We 08:30-20:00; Th 08:30-13:30
+website: https://www.firststop.es/valencia-firststop-olta

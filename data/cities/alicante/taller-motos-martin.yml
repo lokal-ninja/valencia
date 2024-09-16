@@ -4,8 +4,8 @@ latitude: 38.36379
 longitude: -0.43332
 postcode: "03540"
 city: Alicante
-street: "Avenida de la Condomina"
-housenumber: 53
-phone: "+34 687 48 97 14"
-opening_hours: "Mo-Fr 09:00-14:00,16:00-20:00; Sa 09:00-14:00"
+street: Avenida de la Condomina
+housenumber: "53"
+phone: +34 687 48 97 14
+opening_hours: Mo-Fr 09:00-14:00,16:00-20:00; Sa 09:00-14:00
 website: ""

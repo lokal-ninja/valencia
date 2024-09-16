@@ -1,11 +1,11 @@
 id: 1241387018
-type: way
+type: node
 latitude: 39.47724
 longitude: -0.36223
 postcode: "46010"
 city: València
-street: "Carrer de les Arts Gràfiques"
-housenumber: 13
+street: Carrer de les Arts Gràfiques
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Th 10:00-19:00; Fr 09:30-14:30; Sa,Su off"
-website: "https://www.lallibreria-uv.es"
+opening_hours: Mo-Th 10:00-19:00; Fr 09:30-14:30; Sa,Su off
+website: https://www.lallibreria-uv.es

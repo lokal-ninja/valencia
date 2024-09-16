@@ -4,8 +4,8 @@ latitude: 38.839
 longitude: 0.09926
 postcode: "03700"
 city: Dénia
-street: "Avinguda d'Alacant"
-housenumber: 47
+street: Avinguda d'Alacant
+housenumber: "47"
 phone: ""
-opening_hours: "Mo-Fr 09:30-13:30,16:30-20:00"
-website: "https://www.ecoprintdenia.com/"
+opening_hours: Mo-Fr 09:30-13:30,16:30-20:00
+website: https://www.ecoprintdenia.com/

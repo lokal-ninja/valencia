@@ -4,8 +4,8 @@ latitude: 38.34441
 longitude: -0.51277
 postcode: "03007"
 city: Alicante
-street: "Calle Perseo"
-housenumber: 6
-phone: "+34 965 28 57 36"
-opening_hours: "Mo-Fr 09:00-14:00,17:00-20:30; Sa 10:00-14:00; Su,PH off"
-website: "https://www.jjchorro.com"
+street: Calle Perseo
+housenumber: "6"
+phone: +34 965 28 57 36
+opening_hours: Mo-Fr 09:00-14:00,17:00-20:30; Sa 10:00-14:00; Su,PH off
+website: https://www.jjchorro.com

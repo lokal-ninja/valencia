@@ -4,8 +4,8 @@ latitude: 38.18265
 longitude: -0.87425
 postcode: "03340"
 city: Albatera
-street: "Avenida del Calvario"
-housenumber: 40
-phone: "+34 965488079"
-opening_hours: "10:00-13:30,17:00-20:30"
-website: "http://www.on-mail.es"
+street: Avenida del Calvario
+housenumber: "40"
+phone: +34 965488079
+opening_hours: 10:00-13:30,17:00-20:30
+website: http://www.on-mail.es

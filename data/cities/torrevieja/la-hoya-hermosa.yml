@@ -1,11 +1,11 @@
 id: 317678352
-type: way
+type: node
 latitude: 37.99833
 longitude: -0.69198
 postcode: "03184"
 city: Torrevieja
-street: "Calle de Las Gardenias"
-housenumber: 4
-phone: "966 70 07 29"
+street: Calle de Las Gardenias
+housenumber: "4"
+phone: 966 70 07 29
 opening_hours: ""
 website: ""

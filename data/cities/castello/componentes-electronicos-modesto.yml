@@ -4,8 +4,8 @@ latitude: 39.98152
 longitude: -0.0306
 postcode: "12003"
 city: Castelló
-street: "Calle Pérez Dolz"
-housenumber: 13
-phone: "+34 964 22 56 78"
-opening_hours: "Mo-Fr 09:00-13:30,16:00-19:30; Aug: Mo-Fr 09:00-13:30; PH off"
+street: Calle Pérez Dolz
+housenumber: "13"
+phone: +34 964 22 56 78
+opening_hours: 'Mo-Fr 09:00-13:30,16:00-19:30; Aug: Mo-Fr 09:00-13:30; PH off'
 website: ""

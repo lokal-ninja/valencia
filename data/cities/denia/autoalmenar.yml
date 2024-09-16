@@ -1,11 +1,11 @@
 id: 174585854
-type: way
+type: node
 latitude: 38.83765
 longitude: 0.08433
 postcode: "03700"
 city: Dénia
 street: ""
-housenumber: 29
+housenumber: "29"
 phone: ""
 opening_hours: ""
-website: "https://nauticajavierberga.com"
+website: https://nauticajavierberga.com

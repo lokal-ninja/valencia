@@ -4,8 +4,8 @@ latitude: 39.96633
 longitude: -0.25141
 postcode: "12200"
 city: Onda
-street: "Avenida Andalucía"
-housenumber: 10
-phone: "+34 964 77 10 41"
-opening_hours: "09:30-13:30,16:30-20:30"
+street: Avenida Andalucía
+housenumber: "10"
+phone: +34 964 77 10 41
+opening_hours: 09:30-13:30,16:30-20:30
 website: ""

@@ -1,11 +1,11 @@
 id: 301926903
-type: way
+type: node
 latitude: 38.70792
 longitude: -0.46201
 postcode: "03804"
 city: Alcoi / Alcoy
-street: "Carrer Roís de Corella"
-housenumber: 12
-phone: "+34 965 545 763"
+street: Carrer Roís de Corella
+housenumber: "12"
+phone: +34 965 545 763
 opening_hours: ""
 website: ""

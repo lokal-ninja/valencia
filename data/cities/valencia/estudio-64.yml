@@ -4,8 +4,8 @@ latitude: 39.48644
 longitude: -0.35905
 postcode: "46020"
 city: València
-street: "Carrer de Benicolet"
-housenumber: 2
-phone: "+34 960 04 17 87"
-opening_hours: "Mo-Fr 10:30-14:00,17:00-20:30; Sa 10:30-14:00; Su,PH off"
-website: "https://www.estudio64.es/"
+street: Carrer de Benicolet
+housenumber: "2"
+phone: +34 960 04 17 87
+opening_hours: Mo-Fr 10:30-14:00,17:00-20:30; Sa 10:30-14:00; Su,PH off
+website: https://www.estudio64.es/

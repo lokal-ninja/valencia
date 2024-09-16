@@ -1,11 +1,11 @@
 id: 29547832
-type: way
+type: node
 latitude: 38.97214
 longitude: -0.17029
 postcode: "46701"
 city: Gandia
-street: "Avinguda de Blasco Ibáñez"
-housenumber: 6
-phone: "+34 962 25 92 76"
+street: Avinguda de Blasco Ibáñez
+housenumber: "6"
+phone: +34 962 25 92 76
 opening_hours: ""
-website: "https://www.plazamayorgandia.com/"
+website: https://www.plazamayorgandia.com/

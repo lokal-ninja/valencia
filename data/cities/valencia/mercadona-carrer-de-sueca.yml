@@ -4,8 +4,8 @@ latitude: 39.45987
 longitude: -0.37412
 postcode: "46006"
 city: Valencia
-street: "Carrer de Sueca"
-housenumber: 56
-phone: "+34 963 41 35 22"
-opening_hours: "Mo-Sa 09:00-21:30"
-website: "https://www.mercadona.es"
+street: Carrer de Sueca
+housenumber: "56"
+phone: +34 963 41 35 22
+opening_hours: Mo-Sa 09:00-21:30
+website: https://www.mercadona.es

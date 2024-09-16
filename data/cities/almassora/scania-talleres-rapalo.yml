@@ -1,11 +1,11 @@
 id: 869933683
-type: way
+type: node
 latitude: 39.97781
 longitude: -0.13868
 postcode: "12550"
 city: Almassora
-street: "Calle de Cedrillas"
-housenumber: 
-phone: "+34 964 342950"
+street: Calle de Cedrillas
+housenumber: ""
+phone: +34 964 342950
 opening_hours: ""
-website: "https://www.scania.com/es/es/talleres-rapalo.html"
+website: https://www.scania.com/es/es/talleres-rapalo.html

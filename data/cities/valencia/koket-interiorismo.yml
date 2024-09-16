@@ -4,8 +4,8 @@ latitude: 39.48501
 longitude: -0.35925
 postcode: "46020"
 city: València
-street: "Carrer d'Enric Navarro"
-housenumber: 16
-phone: "+34 963 65 48 55"
-opening_hours: "Mo-Fr 10:00-13:30,17:00-20:30; Sa 10:00-13:30; PH,Su off"
+street: Carrer d'Enric Navarro
+housenumber: "16"
+phone: +34 963 65 48 55
+opening_hours: Mo-Fr 10:00-13:30,17:00-20:30; Sa 10:00-13:30; PH,Su off
 website: ""

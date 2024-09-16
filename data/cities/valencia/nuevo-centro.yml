@@ -1,11 +1,11 @@
 id: 515599827
-type: way
+type: node
 latitude: 39.48168
 longitude: -0.39062
 postcode: "46009"
 city: València
-street: "Avinguda de Pius XII"
-housenumber: 2
-phone: "+34 963 471 642"
+street: Avinguda de Pius XII
+housenumber: "2"
+phone: +34 963 471 642
 opening_hours: ""
-website: "https://www.nuevocentro.es/"
+website: https://www.nuevocentro.es/

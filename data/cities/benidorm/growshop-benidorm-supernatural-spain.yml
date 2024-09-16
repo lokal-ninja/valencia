@@ -1,11 +1,11 @@
 id: 115085055
-type: way
+type: node
 latitude: 38.53835
 longitude: -0.13559
 postcode: "03501"
 city: Benidorm
-street: "Carrer Maravall"
-housenumber: 8
-phone: "+34 965855548"
-opening_hours: "Mo-Sa 12:30-20:00"
-website: "https://growshopbenidorm.wixsite.com/growshopbenidorm"
+street: Carrer Maravall
+housenumber: "8"
+phone: +34 965855548
+opening_hours: Mo-Sa 12:30-20:00
+website: https://growshopbenidorm.wixsite.com/growshopbenidorm

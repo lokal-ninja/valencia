@@ -1,11 +1,11 @@
 id: 230933183
-type: way
+type: node
 latitude: 38.84741
 longitude: -0.11677
 postcode: "03780"
 city: Pego
-street: "Avinguda Fernando Alemany"
-housenumber: 
+street: Avinguda Fernando Alemany
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:30"
-website: "https://www.mercadona.es"
+opening_hours: Mo-Sa 09:00-21:30
+website: https://www.mercadona.es

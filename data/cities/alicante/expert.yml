@@ -4,8 +4,8 @@ latitude: 38.3429
 longitude: -0.49787
 postcode: "03007"
 city: Alicante
-street: "calle Pérez Medina"
-housenumber: 3
-phone: "+34 965 13 41 31"
+street: calle Pérez Medina
+housenumber: "3"
+phone: +34 965 13 41 31
 opening_hours: ""
 website: ""

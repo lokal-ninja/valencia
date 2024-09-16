@@ -4,8 +4,9 @@ latitude: 39.50924
 longitude: -0.4103
 postcode: "46100"
 city: Burjassot
-street: "Calle Blasco Ibáñez"
-housenumber: 92
-phone: "+34 963 901 238"
-opening_hours: "Sep-May: Mo-Fr 10:00-14:00,16:30-20:00; Sep-May,Jun-Aug: Sa 10:00-14:00; Jun-Aug: Mo-Fr 10:00-13:45,17:30-20:30; Aug 15-31: Mo-Fr 10:00-13:45"
-website: "https://www.zapateriasjuanramon.com/"
+street: Calle Blasco Ibáñez
+housenumber: "92"
+phone: +34 963 901 238
+opening_hours: 'Sep-May: Mo-Fr 10:00-14:00,16:30-20:00; Sep-May,Jun-Aug: Sa 10:00-14:00;
+    Jun-Aug: Mo-Fr 10:00-13:45,17:30-20:30; Aug 15-31: Mo-Fr 10:00-13:45'
+website: https://www.zapateriasjuanramon.com/

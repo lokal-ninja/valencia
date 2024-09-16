@@ -1,11 +1,11 @@
 id: 165628635
-type: way
+type: node
 latitude: 39.56157
 longitude: -0.4708
 postcode: "46117"
 city: Bétera
-street: "Carrer del Tord"
+street: Carrer del Tord
 housenumber: 33V
-phone: "+34 96 160 88 09"
-opening_hours: "Mo-Sa 09:00-21:30"
+phone: +34 96 160 88 09
+opening_hours: Mo-Sa 09:00-21:30
 website: ""

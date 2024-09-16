@@ -4,8 +4,8 @@ latitude: 39.51504
 longitude: -0.41302
 postcode: "46100"
 city: Burjassot
-street: "Avenida de María Ros"
-housenumber: 13
-phone: "+34 961 82 64 74"
-opening_hours: "Mo-Fr 09:00-14:00,16:00-18:00"
-website: "https://masimpresiones.es/"
+street: Avenida de María Ros
+housenumber: "13"
+phone: +34 961 82 64 74
+opening_hours: Mo-Fr 09:00-14:00,16:00-18:00
+website: https://masimpresiones.es/

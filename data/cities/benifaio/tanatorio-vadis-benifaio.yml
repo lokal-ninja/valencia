@@ -1,11 +1,11 @@
 id: 1264237765
-type: way
+type: node
 latitude: 39.28927
 longitude: -0.42305
 postcode: "46450"
 city: Benifaió
-street: "Carrer de José Gadea"
-housenumber: 8
-phone: "+34 960 24 69 50"
+street: Carrer de José Gadea
+housenumber: "8"
+phone: +34 960 24 69 50
 opening_hours: ""
-website: "https://www.funerariavadis.com/inicio.html"
+website: https://www.funerariavadis.com/inicio.html

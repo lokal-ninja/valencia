@@ -1,11 +1,11 @@
 id: 1270179785
-type: way
+type: node
 latitude: 39.45629
 longitude: -0.34535
 postcode: "46023"
 city: València
-street: "Carrer de Menorca"
-housenumber: 19
-phone: "+34 963 308 429"
-opening_hours: "Su-Th 10:00-01:30; Fr-Sa 10:00-04:00"
-website: "https://aqua-multiespacio.com/"
+street: Carrer de Menorca
+housenumber: "19"
+phone: +34 963 308 429
+opening_hours: Su-Th 10:00-01:30; Fr-Sa 10:00-04:00
+website: https://aqua-multiespacio.com/

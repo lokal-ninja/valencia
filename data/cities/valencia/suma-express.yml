@@ -4,8 +4,8 @@ latitude: 39.46161
 longitude: -0.3624
 postcode: "46004"
 city: Valencia
-street: "Carrer de l'Escultor Josep Capuz"
-housenumber: 9
+street: Carrer de l'Escultor Josep Capuz
+housenumber: "9"
 phone: "+34631335875"
-opening_hours: "Mo-Su 09:00-21:00"
-website: "https://www.sumasupermercados.es/es"
+opening_hours: Mo-Su 09:00-21:00
+website: https://www.sumasupermercados.es/es

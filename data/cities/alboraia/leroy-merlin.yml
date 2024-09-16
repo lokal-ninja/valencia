@@ -1,11 +1,11 @@
 id: 30093280
-type: way
+type: node
 latitude: 39.50382
 longitude: -0.32331
 postcode: "46120"
 city: Alboraia
 street: ""
-housenumber: 
+housenumber: ""
 phone: "+34963568460"
-opening_hours: "Mo-Sa 08:00-22:00"
-website: "https://www.leroymerlin.es/tiendas/alboraya.html"
+opening_hours: Mo-Sa 08:00-22:00
+website: https://www.leroymerlin.es/tiendas/alboraya.html

@@ -4,8 +4,8 @@ latitude: 39.56643
 longitude: -0.53199
 postcode: "46183"
 city: l'Eliana
-street: "Calle Molino"
-housenumber: 14
-phone: "+34 678 407 222"
-opening_hours: "Mo-Fr 10:00-14:00; Mo-Fr 17:00-20:00; Sa 10:30-14:00"
-website: "https://www.bicicletesrestoreit.com/"
+street: Calle Molino
+housenumber: "14"
+phone: +34 678 407 222
+opening_hours: Mo-Fr 10:00-14:00; Mo-Fr 17:00-20:00; Sa 10:30-14:00
+website: https://www.bicicletesrestoreit.com/

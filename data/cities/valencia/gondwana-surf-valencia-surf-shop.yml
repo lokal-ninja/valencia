@@ -4,8 +4,9 @@ latitude: 39.46385
 longitude: -0.37564
 postcode: "46006"
 city: Valencia
-street: "Gran Via de les Germanies"
-housenumber: 25
-phone: "+34 963258714"
-opening_hours: "Mo 10:00-14:00,16:30-20:30; Tu 10:00-14:00,16:30-20:30; We 10:00-14:00,16:30-20:30; Th 10:00-14:00,16:30-20:30; Fr 10:00-14:00,16:30-20:30; Sa 10:00-14:00,16:30-20:30"
+street: Gran Via de les Germanies
+housenumber: "25"
+phone: +34 963258714
+opening_hours: Mo 10:00-14:00,16:30-20:30; Tu 10:00-14:00,16:30-20:30; We 10:00-14:00,16:30-20:30;
+    Th 10:00-14:00,16:30-20:30; Fr 10:00-14:00,16:30-20:30; Sa 10:00-14:00,16:30-20:30
 website: ""
