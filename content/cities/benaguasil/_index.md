@@ -1,6 +1,6 @@
 ---
 title: Benaguasil
 url: /benaguasil/
-latitude: 39.598
-longitude: -0.588
+latitude: 39.595
+longitude: -0.587
 ---

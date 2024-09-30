@@ -1,5 +1,5 @@
 ---
 title: "MASLIFE"
-url: /valencia-valencia/maslife/
+url: /valencia/maslife/
 shop: teléfono móvil
 ---
