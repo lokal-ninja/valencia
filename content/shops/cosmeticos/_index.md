@@ -1,5 +1,5 @@
 ---
 title: cosméticos
 url: /cosmeticos/
-icon: other
+icon: beauty
 ---
