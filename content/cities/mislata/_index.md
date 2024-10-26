@@ -1,6 +1,6 @@
 ---
 title: Mislata
 url: /mislata/
-latitude: 39.477
-longitude: -0.42
+latitude: 39.473
+longitude: -0.415
 ---
