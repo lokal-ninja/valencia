@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
-url: /torrent/mercadona-avinguda-al-vedat/
+url: /torrent/mercadona-carrer-dazorin/
 shop: supermercado
 ---
