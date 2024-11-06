@@ -1,5 +1,5 @@
 ---
-title: "MOTORRAIZ"
+title: "Motorraiz"
 url: /paiporta/motorraiz/
 shop: motocicleta
 ---
