@@ -1,6 +1,6 @@
 ---
 title: Castelló de la Plana
 url: /castello-de-la-plana/
-latitude: 39.985
-longitude: -0.033
+latitude: 39.986
+longitude: -0.034
 ---
