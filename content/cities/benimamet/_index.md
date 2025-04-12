@@ -1,6 +1,6 @@
 ---
 title: Benimàmet
 url: /benimamet/
-latitude: 39.502
-longitude: -0.42
+latitude: 39.503
+longitude: -0.423
 ---
