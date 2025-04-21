@@ -1,6 +1,6 @@
 ---
 title: Alcalà de Xivert
 url: /alcala-de-xivert/
-latitude: 40.302
-longitude: 0.227
+latitude: 40.304
+longitude: 0.223
 ---

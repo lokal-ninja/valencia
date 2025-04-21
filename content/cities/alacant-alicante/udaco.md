@@ -1,5 +1,5 @@
 ---
-title: "UDACO"
+title: "Udaco"
 url: /alacant-alicante/udaco/
 shop: comodidad
 ---
