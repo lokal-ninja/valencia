@@ -1,6 +1,6 @@
 ---
 title: els Poblets
 url: /els-poblets/
-latitude: 38.85
-longitude: 0.019
+latitude: 38.852
+longitude: 0.012
 ---
