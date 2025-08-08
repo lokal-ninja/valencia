@@ -1,6 +1,6 @@
 ---
 title: Xàtiva
 url: /xativa/
-latitude: 38.988
-longitude: -0.524
+latitude: 38.989
+longitude: -0.526
 ---

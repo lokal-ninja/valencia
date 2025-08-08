@@ -1,5 +1,5 @@
 ---
-title: "Paraiso"
+title: "Paraíso"
 url: /paiporta/paraiso/
-shop: supermercado
+shop: comodidad
 ---
