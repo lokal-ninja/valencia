@@ -1,6 +1,6 @@
 ---
 title: Sedaví
 url: /sedavi/
-latitude: 39.426
-longitude: -0.381
+latitude: 39.424
+longitude: -0.379
 ---
