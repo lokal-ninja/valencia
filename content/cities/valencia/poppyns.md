@@ -1,5 +1,5 @@
 ---
-title: "POPPYNS"
+title: "Poppyns"
 url: /valencia/poppyns/
 shop: ropa
 ---
