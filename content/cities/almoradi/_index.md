@@ -1,6 +1,6 @@
 ---
 title: Almoradí
 url: /almoradi/
-latitude: 38.109
-longitude: -0.793
+latitude: 38.11
+longitude: -0.792
 ---
