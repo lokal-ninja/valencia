@@ -1,5 +1,5 @@
 ---
-title: "Marmoles Novelda"
+title: "Mármoles Novelda"
 url: /novelda/marmoles-novelda/
 shop: mayorista
 ---
