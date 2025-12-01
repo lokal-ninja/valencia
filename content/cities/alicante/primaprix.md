@@ -1,5 +1,5 @@
 ---
-title: "PrimaPrix"
+title: "Primaprix"
 url: /alicante/primaprix/
-shop: grandes almacenes
+shop: supermercado
 ---
