@@ -1,6 +1,6 @@
 ---
 title: l'Eliana
 url: /leliana/
-latitude: 39.562
-longitude: -0.537
+latitude: 39.566
+longitude: -0.529
 ---

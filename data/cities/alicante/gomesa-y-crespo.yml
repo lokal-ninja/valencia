@@ -7,5 +7,5 @@ city: Alicante
 street: calle ingeniero Canales
 housenumber: "33"
 phone: +34 965 21 73 50
-opening_hours: 8:30-14:00 17:00-20:00
+opening_hours: 08:30-14:00,17:00-20:00
 website: ""
