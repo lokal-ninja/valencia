@@ -1,5 +1,5 @@
 ---
 title: "MercaAlmazora"
 url: /almassora/mercaalmazora/
-shop: comodidad
+shop: tienda de variedades
 ---
