@@ -1,6 +1,6 @@
 ---
-title: Puerto de Sagunto [ Valencia]
+title: Puerto de Sagunto (Valencia)
 url: /puerto-de-sagunto-valencia/
-latitude: 39.663
-longitude: -0.214
+latitude: 39.664
+longitude: -0.21
 ---
