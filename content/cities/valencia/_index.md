@@ -1,6 +1,6 @@
 ---
 title: València
 url: /valencia/
-latitude: 39.455
-longitude: -0.376
+latitude: 39.483
+longitude: -0.396
 ---
