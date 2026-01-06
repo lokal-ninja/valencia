@@ -1,5 +1,5 @@
 ---
 title: "Romero"
 url: /benidorm/romero/
-shop: general
+shop: tienda de variedades
 ---
