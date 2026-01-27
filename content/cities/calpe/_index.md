@@ -1,6 +1,6 @@
 ---
 title: Calpe
 url: /calpe/
-latitude: 38.642
-longitude: 0.043
+latitude: 38.644
+longitude: 0.06
 ---

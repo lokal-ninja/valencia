@@ -1,5 +1,5 @@
 ---
 title: "Loterías y Apuestas del Estado"
-url: /benidorm/loterias-y-apuestas-del-estado-carrer-devissa/
+url: /sueca/loterias-y-apuestas-del-estado/
 shop: lotería
 ---

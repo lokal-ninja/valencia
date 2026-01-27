@@ -1,5 +1,5 @@
 ---
 title: teléfono móvil
 url: /telefono-movil/
-icon: other
+icon: mobile_phone
 ---
