@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
-url: /alaquas/mercadona-calle-cid/
+url: /moncofa/mercadona/
 shop: supermercado
 ---
