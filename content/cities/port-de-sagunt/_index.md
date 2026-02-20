@@ -1,6 +1,6 @@
 ---
-title: port de sagunt
+title: Port de Sagunt
 url: /port-de-sagunt/
-latitude: 39.665
-longitude: -0.233
+latitude: 39.663
+longitude: -0.227
 ---
