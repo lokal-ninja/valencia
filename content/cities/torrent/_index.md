@@ -1,6 +1,6 @@
 ---
 title: Torrent
 url: /torrent/
-latitude: 39.431
-longitude: -0.474
+latitude: 39.43
+longitude: -0.47
 ---
