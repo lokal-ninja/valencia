@@ -1,6 +1,6 @@
 ---
 title: Gandia
 url: /gandia/
-latitude: 38.969
-longitude: -0.186
+latitude: 38.961
+longitude: -0.175
 ---
