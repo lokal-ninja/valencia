@@ -1,6 +1,6 @@
 ---
 title: Oliva
 url: /oliva/
-latitude: 38.928
-longitude: -0.093
+latitude: 38.921
+longitude: -0.116
 ---
