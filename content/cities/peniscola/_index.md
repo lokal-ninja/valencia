@@ -1,6 +1,6 @@
 ---
-title: Peñíscola
+title: Peñiscola
 url: /peniscola/
-latitude: 40.362
-longitude: 0.399
+latitude: 40.361
+longitude: 0.396
 ---

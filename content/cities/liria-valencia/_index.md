@@ -1,6 +1,6 @@
 ---
 title: Liria, Valencia
 url: /liria-valencia/
-latitude: 39.633
-longitude: -0.593
+latitude: 39.632
+longitude: -0.595
 ---
