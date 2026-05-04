@@ -1,6 +1,6 @@
 ---
 title: Benidorm
 url: /benidorm/
-latitude: 38.537
-longitude: -0.126
+latitude: 38.54
+longitude: -0.131
 ---
