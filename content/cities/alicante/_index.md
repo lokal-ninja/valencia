@@ -1,6 +1,6 @@
 ---
 title: Alicante
 url: /alicante/
-latitude: 38.344
-longitude: -0.494
+latitude: 38.348
+longitude: -0.485
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Splash"
 url: /benidorm/splash/
-shop: general
+shop: tienda de variedades
 ---
