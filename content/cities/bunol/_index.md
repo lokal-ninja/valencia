@@ -1,6 +1,6 @@
 ---
 title: Buñol
 url: /bunol/
-latitude: 39.418
-longitude: -0.79
+latitude: 39.424
+longitude: -0.791
 ---

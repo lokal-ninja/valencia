@@ -2,5 +2,5 @@
 title: Elda
 url: /elda/
 latitude: 38.474
-longitude: -0.794
+longitude: -0.795
 ---
