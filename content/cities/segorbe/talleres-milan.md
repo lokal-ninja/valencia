@@ -1,5 +1,5 @@
 ---
 title: "Talleres Milan"
 url: /segorbe/talleres-milan/
-shop: general
+shop: reparación de automóviles
 ---
