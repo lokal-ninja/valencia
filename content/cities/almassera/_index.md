@@ -1,6 +1,6 @@
 ---
 title: Almàssera
 url: /almassera/
-latitude: 39.514
-longitude: -0.362
+latitude: 39.513
+longitude: -0.358
 ---
