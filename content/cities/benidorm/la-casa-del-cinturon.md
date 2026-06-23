@@ -1,5 +1,5 @@
 ---
-title: "La Casa del Cinturon"
+title: "La Casa del Cinturón"
 url: /benidorm/la-casa-del-cinturon/
-shop: general
+shop: bolsas y maletas
 ---
