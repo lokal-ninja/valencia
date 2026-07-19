@@ -1,6 +1,6 @@
 ---
 title: Elche/Elx
 url: /elche-elx/
-latitude: 38.266
-longitude: -0.697
+latitude: 38.268
+longitude: -0.687
 ---
