@@ -1,6 +1,6 @@
 ---
 title: Albal
 url: /albal/
-latitude: 39.394
-longitude: -0.407
+latitude: 39.396
+longitude: -0.408
 ---
