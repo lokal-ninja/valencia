@@ -1,6 +1,6 @@
 ---
 title: Piles
 url: /piles/
-latitude: 38.949
-longitude: -0.115
+latitude: 38.944
+longitude: -0.135
 ---
