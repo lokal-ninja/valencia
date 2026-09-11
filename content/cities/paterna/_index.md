@@ -1,6 +1,6 @@
 ---
 title: Paterna
 url: /paterna/
-latitude: 39.499
-longitude: -0.436
+latitude: 39.544
+longitude: -0.465
 ---
