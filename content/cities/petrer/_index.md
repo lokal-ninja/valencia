@@ -1,6 +1,6 @@
 ---
 title: Petrer
 url: /petrer/
-latitude: 38.465
-longitude: -0.777
+latitude: 38.484
+longitude: -0.786
 ---
