@@ -7,5 +7,6 @@ city: Alfafar
 street: Edificio Alqueria Nova
 housenumber: "12"
 phone: ""
-opening_hours: Mo-Sa 10:30-21:00; May 1 off
-website: https://www.ikea.com/es/es
+opening_hours: Mo-Sa 10:30-21:00; May 01,Oct 09,Nov 01,Dec 06,Dec 08,Dec 25 off; Oct
+    12,Nov 29,Dec 13,Dec 20 10:30-19:00; Dec 24 10:30-15:00
+website: https://www.ikea.com/es
