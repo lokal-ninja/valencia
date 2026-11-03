@@ -1,5 +1,5 @@
 ---
 title: "Manco"
 url: /benidorm/manco/
-shop: general
+shop: bolsas y maletas
 ---
