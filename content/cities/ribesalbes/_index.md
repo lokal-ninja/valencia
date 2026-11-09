@@ -1,6 +1,6 @@
 ---
 title: Ribesalbes
 url: /ribesalbes/
-latitude: 40.022
-longitude: -0.276
+latitude: 40.023
+longitude: -0.277
 ---
